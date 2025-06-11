@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 117,
+  "chunk_text": "Bitbucket – Jenkins entegrasyonu ve Bitbucket - JIRA entegrasyonları mevcuttur. Tüm geliştirilmesi yapılacak olan işler JIRA uygulamasına proje altına kaydedilmekte ve Bitbucket’a kaydedilirken bu JIRA numaraları ile ilişkilendirilmektedir. Böylece hangi kod parçasının hangi iş geliştirmesi için yapıldığı takip edilebilmektedir. Uygulamalar, development (geliştirme test), uat (kullanıcı test) ve production (canlı) ortamlardaki sunucularda her daim ulaşılabilir durumdadır. Yazılımcılar geliştirme işlerini canlı ortam kodlarından bir kopya olarak oluşturdukları feature ortamlarda geliştirirmekte ve test ekibine göndermektedir.",
+  "char_len": 632,
+  "sentence_count": 5
+}

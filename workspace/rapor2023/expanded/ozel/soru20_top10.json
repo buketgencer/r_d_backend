@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "index": 464,
+    "chunk_text": "Veriler ile yapılan analizlerde yeni bir sistem ihtiyacının olduğu, eksiklerle birlikte tespit edilmiştir. Teknik analiz çalışmaları ile mevcut ve yeni sistem arasındaki bağlantı ve farklar, algoritma girdi – çıktılarının belirlenmesi ve entegrasyon planı dokümante edilerek yazılım ve algoritma geliştirme ekipleri ile paylaşılacaktır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 336,
+    "sentence_count": 2,
+    "expanded_text": "lirlenmesi ve entegrasyon planı dokümante edilerek yazılım ve algoritma geliştirme ekipleri ile paylaşılacaktır. Literatür Taraması Çalışmaları Taşımacıların çalışma bölgelerinin taşımacı ve bölgesel bazlı kısıtlar yardımıyla bölünebilmesi için literatürdeki “Territory Planning Problem” konulu araştırmalar ve atama algoritmaları incelenecektir. Bu kapsamda yinelemeli bölümleme algoritması, stokastik araç rotalama problemi, araç rotalama ve bölge belirleme problemi, gezgin satıcı problemi, satış bölgesi problemleri’nin incelenmesi hedeflenmiştir. Makine öğrenmesi çalışmaları için de K- means ve metaheuristik algoritmalar detaylı incelenecektir. İP2. MVP HepsiJET şube ve taşımacı sayısı her geçen gün artmaktadır. Mevcut şubelerde kullanılan yapıyı tümüyle değiştirmeden önce kullanıcı yaklaşımını anlamak ve en uygun çözümü üretmek amacıyla minimum ürün yaklaşımı ile pilot çalışma hedeflenmiştir. Pilot çalışmada taşımacıların"
+  },
+  {
+    "rank": 2,
+    "index": 547,
+    "chunk_text": "Proje çıktıları aynı zamanda HepsiJET’te taşımacı olarak rol alacak olan en uygun aday profilini belirlemeye de yardımcı olacaktır. Taşımacı Yönetim Sisteminde hem bölge müdürlüklerinde yer alan işe alım ve yönetim ekibinin hem de merkez işe alım ekibinin farklı kaynaklardan gelen başvurulara tek bir platformdan erişebileceği ve süreci yönetebileceği işe alım modülü üzerinde geliştirmeler yapılacaktır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 405,
+    "sentence_count": 2,
+    "expanded_text": "işe alım ekibinin farklı kaynaklardan gelen başvurulara tek bir platformdan erişebileceği ve süreci yönetebileceği işe alım modülü üzerinde geliştirmeler yapılacaktır. Taşımacıların performansını artırmak için oyunlaştırma ögelerinin taşımacılık sektörü özelinde ele alınarak, taşımacı profili ve eğilimleri doğrultusunda yeni sisteme uyarlanması planlanmıştır. İ.P.5: Entegrasyon: Tahminleme algoritması, Taşımacı Yönetim Sistemi platformu ve oyunlaştırma çalışmalarının saha kullanıcı deneyimini tekilleştirme amacıyla mevcut Teslimat Yönetim Sistemi’nin web ve mobil arayüzlerine entegrasyonu planlanmıştır. Ayrıca HepsiJET’in kendi geliştirdiği raporlama sistemi ile entegrasyonu ile operasyon ekiplerinin ihtiyacı olan detay raporların ve alarm mekanizmalarının geliştirilmesi bu iş paketi kapsamında yer alacak çalışmalardır. Sayfa 59 / 99 Projenin • Dünya genelinde giderek yaygınlaşan kitle kaynaklı son noktaya taşıma hizmetlerinde birlikte çalışılan Yenilikçi üçüncü partilerin yönetimi büyük ön"
+  },
+  {
+    "rank": 3,
+    "index": 535,
+    "chunk_text": "Müşteri memnuniyeti açısından ürünlerin söz verilmiş tarih aralığında teslim edilmesi büyük bir önem taşımaktadır. Bundan dolayı taşımacı davranış modelinde “hedef noktaya uğrama sayısı” tahminlemeye etki edecek önemli bir etken olarak yer alacaktır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 250,
+    "sentence_count": 2,
+    "expanded_text": "ve derin öğrenme yöntemleriyle taşımacı asistanı (chat-bot) geliştirilmesi - Müşteri ile iletişime geçen operasyonel verimliliğin ve müşteri memnuniyetinin artırılmasını hedefleyen chat-bot geliştirilmesi - Müşterilerin sadakatini arttrmak ve deneyimini iyileştirmek, HepsiJET ile iletişiminde başından sonuna kadar geçen sürecin optimizasyonu kapsamında derin öğrenme algoritmaları ile tahminleme ve müşteri profillerinin çıkarımı, müşterilerin tercihlerine göre kümeleme algoritmaları kullanılarak benzer özellikteki müşteri kümelerinin belirlenmesi ve müşteriye özel teklif oluşturulması - Şikayet, öneri ve geri bildirimlerinin doğal dil işleme algoritmaları ile analiz edilmesi - Kargo başına maliyet yönetimi amacıyla network ve sistemlere yönelik çizge teknikleri kullanılarak kargoculuk sektöründe öngörülebilirlik, sistemi iyileştirmeye yöne"
+  },
+  {
+    "rank": 4,
+    "index": 463,
+    "chunk_text": "Veritabanında çalışma alanları ve bağlı oldukları mahalleler, gönderi çeşitleri, zaman dilimleri, gönderi miktarları, taşımacı bilgileri gibi bilgiler kaydedilmektedir. Veriler ile yapılan analizlerde yeni bir sistem ihtiyacının olduğu, eksiklerle birlikte tespit edilmiştir.",
+    "source_file": "rapor2023.txt",
+    "char_len": 275,
+    "sentence_count": 2,
+    "expanded_text": "T.C. SANAYİ VE TEKNOLOJİ BAKANLIĞI Ar-Ge Teşvikleri Genel Müdürlüğü D Fast Dağıtım Hizmetleri Ve Lojistik Anonim Şirketi Ar-Ge Merkezi 2020 Faaliyet Raporu (1.1.2020 - 31.12.2020) Dönemi (Kocaeli) Sayfa 1 / 99 İçindekiler Başlıklar AR-GE MERKEZİ YILLIK FAALİYET RAPORUNA İLİŞKİN KABUL TAAHHÜT VE BEYANLAR YILLIK FAALİYET RAPORUNDAKİ BİLGİLERİN DOĞRULUĞUNDAN SORUMLU YETKİLİLERİN İLETİŞİM BİLGİLERİ 1. İŞLETME GENEL BİLGİLERİ 1.1. İşletme Tanıtıcı Bilgileri 1.1.1. İşletmenin Bağlı Olduğu Holding/ Grup Bilgileri 1.1.2. İşletme Bilgileri 1.2. İşletme Organizasyon Şeması 1.3."
+  },
+  {
+    "rank": 5,
+    "index": 124,
+    "chunk_text": "Yine operasyonun operasyonu rahatça yönetebilmesi için gereken rapor ve ekranlar tasarlanmıştır. Bununla beraber operasyonel ve müşteri plan değişikliklerinde meydana gelen istisnalar ile ilgili yapılar kurulması gereksinimi ortaya çıkmıştır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 242,
+    "sentence_count": 2,
+    "expanded_text": "istisnalar ile ilgili yapılar kurulması gereksinimi ortaya çıkmıştır. Teknoloji olarak Teslimat Yönetim Sistemi alt yapımızda kullanılan Java Spring ve Angular yapısı üzerinde çalışılması kararlaştırılmıştır. Veritabanı olarak da açık kaynak kodlu PostgreSQL veritabanı kullanılmasına karar verilmiştir. Sistemde hazırlanan raporlar daha önce kendi geliştirdiğimiz raporlama altyapısı üzerinde gerçekleştirilecektir. Mobil uygulamada da Android Studio alt yapımızın kullanımına devam edilmesine karar verilmiştir. İ.P.2 : Veri Simülatörü Veri simülatörü, mevcut sipariş verisi ve yeni iş modelinden gelecek sipariş öngörüleri birlikte düşünülerek oluşacak hacmin dağılımını tahmin etmektedir. Poisson Dağılımı’nın, zaman içindeki olayların oluşumunu açıklamaya imkan tanıması nedeniyle, ön araştırmalarda dağıtım verisinin Poisson Dağılımı k"
+  },
+  {
+    "rank": 6,
+    "index": 578,
+    "chunk_text": "Türkiye'de hızlı büyüme gösteren e-ticaret faaliyetlerinde müşteri ihtiyaçlarının karşılanabilmesi ve sektörün aynı ivme ile büyümeye devam edebilmesi için sektör ve sektöre destek veren gruplar arasında ortak bir eylem planı oluşturulması gerekmektedir. Lojistik taraika, e-ticaret değişken talep, binlerce farklı noktaya ve kısa sürelerde teslimat gibi gereksinimleri nedeniyle klasik perakendeden farklı lojistik yetkinlikler gerektirmektedir.",
+    "source_file": "rapor2023.txt",
+    "char_len": 446,
+    "sentence_count": 2,
+    "expanded_text": "çıkmışğr. E-ticareşie sipariş adetlerinin de 2020 yılında, 2019 yılına göre yüzde 68 artışla 1 milyar 366 milyondan 2 milyar 297 milyona çıktığı belirtilmiştir. Türkiye'de hızlı büyüme gösteren e-ticaret faaliyetlerinde müşteri ihtiyaçlarının karşılanabilmesi ve sektörün aynı ivme ile büyümeye devam edebilmesi için sektör ve sektöre destek veren gruplar arasında ortak bir eylem planı oluşturulması gerekmektedir. Lojistik taraika, e-ticaret değişken talep, binlerce farklı noktaya ve kısa sürelerde teslimat gibi gereksinimleri nedeniyle klasik perakendeden farklı lojistik yetkinlikler gerektirmektedir. Teslimat ise tüketicilerin son derece önem verdiği ve sağn alma kararlarını etkileyen bir süreçtir. Aynı gün teslimat, tüketicilerin kargolarının durumlarını eş zamanlı takip edebilmeleri gibi önemli trendler izlenirken, müşterilere ürünlerinin eksiksiz ve hasarsız ulaşğrılması da gerekmektedir. Ancak lojistik sektörü e-ticaret alanındaki gelişmelere uyum sağlamakta zorlanmaktadır. Bu nedenle sağn alınan ürünün teslimi ve iadesi süreç"
+  },
+  {
+    "rank": 7,
+    "index": 648,
+    "chunk_text": "Ürün sahibi her bir ürün özelliği için aşağıdaki kriterlere göre bir puan verir: • Gelir ve Karlılık • Ölçeklenebilirlik • Kullanıcı Faydaları • Geliştiriciye ve Şirkete Fayda Sayfa 7 / 99 • Eşsizlik Daha sonra geliştirdiğimiz algoritma ile projeye/ürüne eklenecek özellik için bir iş değeri hesaplanır. Scrum yaklaşımında ise üç haikalık iterasyonlar ve günlük scrum toplanğları ile her bir iterasyonda yapılması planlanan işler gerçekleştirilmektedir.",
+    "source_file": "rapor2023.txt",
+    "char_len": 453,
+    "sentence_count": 2,
+    "expanded_text": "syon ekibi, müşteri hizmetleri ve iş geliştirme ekibi gibi farklı ekiplerden gelen yazılımla ilgili istekler bir ürün sahibi tarafndan değerlendirilir. Ürün sahibi her bir ürün özelliği için aşağıdaki kriterlere göre bir puan verir: • Gelir ve Karlılık • Ölçeklenebilirlik • Kullanıcı Faydaları • Geliştiriciye ve Şirkete Fayda Sayfa 7 / 99 • Eşsizlik Daha sonra geliştirdiğimiz algoritma ile projeye/ürüne eklenecek özellik için bir iş değeri hesaplanır. Scrum yaklaşımında ise üç haikalık iterasyonlar ve günlük scrum toplanğları ile her bir iterasyonda yapılması planlanan işler gerçekleştirilmektedir. Bu yaklaşımda da yazılım ekibinin hızlı çıkğ üretmesi ve yazılım hızının izlenmesi sağlanır. Spirint sonunda ise scrum değerlendirme ve sprint ile ilgili geri bildirim toplanğları yapılır. Scrum planlamasında projeye ek özellikler eklenirken iş değeri en yüksek ve yazılım maliyeti en düşük olan işler öncelikli olarak yapılır. Bu yaklaşımla ürüne/projeye katma değer sağlayan özellikler arasında projeye en çok katkı sağlayan ve daha az yazılım g"
+  },
+  {
+    "rank": 8,
+    "index": 387,
+    "chunk_text": "Proje çalışmalarına tez konuları ile Yapılacak ilgili doktora bursiyerlerine gerekli eğitimlerin verilmesi, tez konuları ile ilgili analiz ve literatür taraması Faaliyetler çalışmaları ile başlanacaktır. Projede yapılması planlanan iş paketleri ve iş paketi detayları aşağıdaki gibidir; İ.P.1:HepsiJET Operasyonel İş Akışının Öğrenilmesi Bursiyerin çalışacağı tez konusu üzerinde bilgi birikimini arttırması için, süreçlerin sistemsel ve operasyonel detaylarını içeren bir eğitim serisi düzenlenmiştir.",
+    "source_file": "rapor2023.txt",
+    "char_len": 502,
+    "sentence_count": 2,
+    "expanded_text": "ede yapılması planlanan iş paketleri ve iş paketi detayları aşağıdaki gibidir; İ.P.1:HepsiJET Operasyonel İş Akışının Öğrenilmesi Bursiyerin çalışacağı tez konusu üzerinde bilgi birikimini arttırması için, süreçlerin sistemsel ve operasyonel detaylarını içeren bir eğitim serisi düzenlenmiştir. Eğitimler konu anlatımı ve sonrasında soru-cevap kısmı yer alacak şekilde gerçekleşmiştir. Tüm eğitim online ortamda kaydedilerek, eğitim dosyaları ve video kayıtları bursiyer ile paylaşılmıştır. İş paketi kapsamında belirli dönemlerde akademik danışmanlar, bursiyerler ve şirket temsilcilerinin katılımıyla gerçekleşen toplantılar ile durum değerlendirmesi yapılmıştır. İ.P.2:Gereksinim ve Teknoloji Analizi Doktora tezleri ile ilgili sistemin tüm ihtiyaçlarını karşılayacak şekilde gereksinim ve teknoloji analizi yapılmıştır. Gereksinim ve Teknoloji Analizi iş paketi kapsamında aşağıdaki hususlara dikkate edilmiştir; - Operasyonel ve sistemsel gereksinimlerin belirlenmesi - Literatür ve teknoloji araştırması - Alternatif teknolojilerin değerlendirilmesi İ.P.3: Temel Yazılım, Veri Alımı ve Veri Anali"
+  },
+  {
+    "rank": 9,
+    "index": 655,
+    "chunk_text": "Bu yaklaşımla karmaşık ve büyük proje planları yerine öncelikle müşterinin ihtiyacını karşılayacak minimum ürünün çıkarılması, daha sonra da ana proje planına ve müşteri beklentilerine göre ürüne eklenecek özelliklerin ve üründe yapılacak değişikliklerin planlanması gerekir. Bu yaklaşım harcanan eforun hedefini mümkün olduğunca doğru bulması açısından faydalıdır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 365,
+    "sentence_count": 2,
+    "expanded_text": "roje geliştirilirken müşterinin/kullanıcının işini görecek olan en yalın ve en sade ürünün bir an önce müşterinin karşısına çıkarılması hedeflenmiştir. Bu yaklaşımla karmaşık ve büyük proje planları yerine öncelikle müşterinin ihtiyacını karşılayacak minimum ürünün çıkarılması, daha sonra da ana proje planına ve müşteri beklentilerine göre ürüne eklenecek özelliklerin ve üründe yapılacak değişikliklerin planlanması gerekir. Bu yaklaşım harcanan eforun hedefini mümkün olduğunca doğru bulması açısından faydalıdır. Proje Takibi ve Kurumsal Hafıza Projeler süresince görevler JIRA’da hazırlanan gösterge paneli üzerinden takip edilmektedir. Böylece yapılan tüm çalışmalar ve ekler kurumsal hafzada saklanmaktadır. Üretilen dokümanlar tüm Ar-Ge Merkezi personelinin erişimine açık olacak şekilde paylaşımlı klasörlerde saklanmaktadır. Proje süresince ortaya çıkabilecek riskler aylık risk değerlendirme toplanğları ile yüksek gerçekleşme olasılığı olan ve yüksek e"
+  },
+  {
+    "rank": 10,
+    "index": 121,
+    "chunk_text": "Proje için planlanan iş paketleri aşağıdaki gibidir; İ.P.1 : Gereksinim ve Teknoloji Analizi Projede e-ticaret sitelerinde son kullanıcılara dengeli sipariş verme olanağı sağlaması/lojistik taraftaki kapasitelerin rahatlıkla yönetilmesi açısından mahalle bazlı kapasiteye göre tanımlı ölçeklenebilir bir limit yönetimi yapısı kurulması gereksinimi ortaya çıkmıştır. Gönderilerin taşımacıları optimuma yakın dağıtılması, kullanılan mobil uygulamada değişiklikler planlanmıştır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 476,
+    "sentence_count": 2,
+    "expanded_text": "sağlaması/lojistik taraftaki kapasitelerin rahatlıkla yönetilmesi açısından mahalle bazlı kapasiteye göre tanımlı ölçeklenebilir bir limit yönetimi yapısı kurulması gereksinimi ortaya çıkmıştır. Gönderilerin taşımacıları optimuma yakın dağıtılması, kullanılan mobil uygulamada değişiklikler planlanmıştır. Yine operasyonun operasyonu rahatça yönetebilmesi için gereken rapor ve ekranlar tasarlanmıştır. Bununla beraber operasyonel ve müşteri plan değişikliklerinde meydana gelen istisnalar ile ilgili yapılar kurulması gereksinimi ortaya çıkmıştır. Teknoloji olarak Teslimat Yönetim Sistemi alt yapımızda kullanılan Java Spring ve Angular yapısı üzerinde çalışılması kararlaştırılmıştır. Veritabanı olarak da açık kaynak kodlu PostgreSQL veritabanı kullanılmasına karar verilmiştir. Sistemde hazırlanan raporlar daha önce kendi geliştirdiğimiz raporlama altyapısı üzerinde gerçekleştirilecektir. Mobil uygulamada da Android Studio alt yapımızın kullanımına devam edilmesine karar verilmiştir. İ.P.2 : Veri Simülatörü Veri simülatörü, mevcut sipariş verisi ve yeni iş modelinde"
+  }
+]

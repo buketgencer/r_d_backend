@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 114,
+  "chunk_text": "TMS sunucu uygulaması Springboot framework kullanılarak geliştirilmiş, çalıştırılabilir jar formatı ile paketlenmiş ve içerisinde bulunan gömülü tomcat uygulama sunucusu ile çalışmaktadır. Uygulama Apache Maven kullanılarak derlenmekte ve paketlenmekte, tüm ek kütüphaneler ve modül bağımlılıkları yine Maven pom.xml dosyasında yönetilmektedir. Veritabanı olarak PostgreSQL kullanılmakta ve uygulama içerisindeki obje ilişkileri, sorgular vb tüm işlemler Hibernate ve Spring Data JPA kullanılarak yönetilmektedir. Uygulama derleme ve versiyon güncelleme işlemi continuous integration mekanizması kullanılmaktadır. Kod repository olarak Atlassian Bitbucket kullanılmaktadır. Bitbucket’a kaydedilen kodlar Jenkins otomasyon sunucusu kullanılarak derlenmekte ve konfigure edilmiş iş planları kapsamında ilgili sunuculara kurulmaktadır.",
+  "char_len": 832,
+  "sentence_count": 6
+}

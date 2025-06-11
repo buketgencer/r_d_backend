@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 110,
+  "chunk_text": "Simülatör geliştirmesinde veri üretme aşaması Python dilinde geliştirilmiştir. Verilerin görüntülenmesi için geliştirilecek arayüzlerde Python ve Qt arayüz kütüphanesi kullanılmıştır. Simülatör ile elde edilen veri ile yapılan ilk kapasite planlama çalışmalarının sahada uygulanması ile pilot aşamasında kaynaklar verimli kullanılmıştır. Veri simülatörü ile üretilen veri ile birinci seviye optimizasyon ve ileri seviye kapasite ve optimizasyon kurallarının tanımlanması çalışmalarında kullanılmaktadır. İş paketinde yer alan tüm çalışmalar tamamlanarak devreye alınmıştır. İ.P.3: Sistem Konfigürasyon Parametrelerinin Yönetimi Stok tutan cep depolardan zaman pencereli ve hızlı teslimat hizmetinin sunulabilmesi için cep depo yönetimi, taşımacı yönetimi, araç yönetimi ve slot kapasiteleri Sayfa 41 / 99 yönetimi modüllerinin geliştirilmesi ve birinci seviye kapasite ve optimizasyon kural ve algoritma geliştirme çalışmaları yapılmıştır.",
+  "char_len": 939,
+  "sentence_count": 6
+}

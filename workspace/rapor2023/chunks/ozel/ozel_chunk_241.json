@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 241,
+  "chunk_text": "Proje içerisindeki tüm iş mantıkları ve nesne geliştirmeler dist dizini altında bulunmaktadır. Bitbucket’a kaydedilen kodlar, sunucu tarafında olduğu gibi Jenkins tarafından otomatik olarak derlenir.",
+  "char_len": 199,
+  "sentence_count": 2
+}

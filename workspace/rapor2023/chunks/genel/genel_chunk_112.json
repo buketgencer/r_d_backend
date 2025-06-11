@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 112,
+  "chunk_text": "İş paketinde yer alan tüm çalışmalar tamamlanarak devreye alınmıştır. İ.P.3: Sistem Konfigürasyon Parametrelerinin Yönetimi Stok tutan cep depolardan zaman pencereli ve hızlı teslimat hizmetinin sunulabilmesi için cep depo yönetimi, taşımacı yönetimi, araç yönetimi ve slot kapasiteleri Sayfa 41 / 99 yönetimi modüllerinin geliştirilmesi ve birinci seviye kapasite ve optimizasyon kural ve algoritma geliştirme çalışmaları yapılmıştır. Zaman pencereli ve hızlı teslimatların sunulabilmesi için yeni modüller mevcut Teslimat Yönetim Sistemi (TMS) uygulaması mimarisi dikkate alınarak kurgulanmıştır. Böylece operasyon yönetimi ve raporlama modüllerinin tüm teslimat hizmetlerini kapsayacak şekilde tasarımı mümkün olmuştur. TMS sunucu uygulaması Springboot framework kullanılarak geliştirilmiş, çalıştırılabilir jar formatı ile paketlenmiş ve içerisinde bulunan gömülü tomcat uygulama sunucusu ile çalışmaktadır.",
+  "char_len": 911,
+  "sentence_count": 5
+}

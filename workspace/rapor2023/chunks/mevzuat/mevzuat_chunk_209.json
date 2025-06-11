@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 209,
+  "chunk_text": "Sorter sistemleri entegrasyonu chute’lardan gelen paketlerin düşeceği torbalarının barkodlarının üretilmesi, yazdırılması, torba içinde yer alan gönderilerin barkodu yazdırılan torba ile eşleştirilerek kaydedilmesi, bu torbanın alınarak bir araca yüklenmesi veya başka bir sorter’a beslenmesi ile ilgili geliştirmeleri içermektedir. Sahada mobil teknolojilerin kullanımının artması ve web üzerinden yapılan işlemlerin mobil ekranlara kaydırılması planlanmıştır. Bu kapsamda araç yükleme, araç indirme ve mobil etiket basımı ile müşteriden gönderi kabul aşamaları için tüm fonksiyonel özelliklerin saha operasyon mobil uygulamalarına eklenmesi planlanmıştır. İ.P.6: Sistem Ölçeklendirme ve Mimari Dönüşüm İş paketinde Teslimat Yönetim Sistemi uygulamasının mimari dönüşümü ve performans arttırmaya yönelik geliştirmeler planlanmıştır. Bu kapsamda mikroservis mimari dönüşümü, front-end teknoloji dönüşümü, dispatch(dağıt) fonksiyonu revizyonu ve test otomasyonu teknolojilerinin kurulumunun yapılması hedeflenmiştir. İş paketi kapsamında yapılacak çalışmaları sistem güvenlik, entegrasyon ve yük testleri takip edecektir.",
+  "char_len": 1120,
+  "sentence_count": 6
+}

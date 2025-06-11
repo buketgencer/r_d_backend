@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 216,
+  "chunk_text": "İ.P.2 : Veri Simülatörü Veri simülatörü, mevcut sipariş verisi ve yeni iş modelinden gelecek sipariş öngörüleri birlikte düşünülerek oluşacak hacmin dağılımını tahmin etmektedir. Poisson Dağılımı’nın, zaman içindeki olayların oluşumunu açıklamaya imkan tanıması nedeniyle, ön araştırmalarda dağıtım verisinin Poisson Dağılımı kullanılarak tahminlenmesinin uygun olacağı gözlemlenmiştir.",
+  "char_len": 386,
+  "sentence_count": 2
+}

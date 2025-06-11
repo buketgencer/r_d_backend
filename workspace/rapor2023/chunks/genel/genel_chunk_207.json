@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 207,
+  "chunk_text": "İ.P.5: Otomasyon Teknolojileri İş paketi kapsamında transfer merkezlerine kurulacak sorter cihazlarının HepsiJET’in operasyonel ihtiyaçlarına uygun entegrasyonu ve mobil çözümlerin sahada yaygınlaştırılması çalışmalarını kapsamaktadır. Sorter sistemleri indirme veya yükleme chute’ları veya farklı noktalarında okuyucular bulunan, gönderileri iş birimi tarafından tanımlanan kurallar doğrultusunda uygun Sayfa 48 / 99 chute’lara ayıran sistemlerdir. Sorter’in hangi chute’unun hangi kriterle eşleştirildiği iş birimi tarafından Teslimat Yönetim Sistemi üzerinde yer alan Sorter Yönetim Ekranı üzerinden yapılması planlanmıştır. Bu ekran yardımıyla kullanıcılar seçtikleri sorter ve chute için varış şube, varış adresi ve mahalle doğrultusunda eşleştirme yapabileceklerdir. Sorter sistemleri entegrasyonu chute’lardan gelen paketlerin düşeceği torbalarının barkodlarının üretilmesi, yazdırılması, torba içinde yer alan gönderilerin barkodu yazdırılan torba ile eşleştirilerek kaydedilmesi, bu torbanın alınarak bir araca yüklenmesi veya başka bir sorter’a beslenmesi ile ilgili geliştirmeleri içermektedir.",
+  "char_len": 1105,
+  "sentence_count": 5
+}

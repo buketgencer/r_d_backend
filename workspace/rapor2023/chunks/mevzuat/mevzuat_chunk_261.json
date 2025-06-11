@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 261,
+  "chunk_text": "Makine öğrenmesi çalışmaları için de K- means ve metaheuristik algoritmalar detaylı incelenecektir. MVP HepsiJET şube ve taşımacı sayısı her geçen gün artmaktadır. Mevcut şubelerde kullanılan yapıyı tümüyle değiştirmeden önce kullanıcı yaklaşımını anlamak ve en uygun çözümü üretmek amacıyla minimum ürün yaklaşımı ile pilot çalışma hedeflenmiştir. Pilot çalışmada taşımacıların çalışma alanlarına uyumları veritabanındaki verilerle ve operasyon sahasından gelen geri bildirimlerle incelenerek mevcut sistemin sahadaki kullanımı analiz edilecektir. Analiz sonrasında mevcut yapıyı bozmadan mahalle bazlı atama yapan bir algoritma geliştirilerek sahada çalışma alanları algoritma çıktısına göre düzenlenerek performans izlenecektir. Sistemsel izlemeye ek olarak değişime karşılık şube sorumlusu ve taşımacıların olumlu/olumsuz geri bildirimleri alınarak nihai ürün için zemin hazırlanacaktır.",
+  "char_len": 891,
+  "sentence_count": 6
+}

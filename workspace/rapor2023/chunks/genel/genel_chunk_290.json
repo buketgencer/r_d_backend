@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 290,
+  "chunk_text": "Bu modeller ile taşımacının son zamanlarda gerçekleştirdiği günlük dağıtım verileri ile performansları analiz ediliyor ve bununla birlikte, aynı taşımacı tipinde olan taşımacılar özelinde zaman, dağıtım ve kişisel verilerden çıkarılan öznitelikler kullanılarak eğitilen regresyon modelleri ile taşımacı bazlı günlük dağıtılan gönderi sayısı gibi temel öznitelik değerleri tahminlenerek yakın (ertesi gün) ve uzak (sonraki birkaç hafta) gelecekteki muhtemel davranış analizi gerçekleştirilmesi hedeflenmektedir. Bu çözümler ile taşımacıların son dönemdeki ve gelecekteki davranış analizleri gerçekleştirilebilecektir. Müşteri memnuniyeti açısından ürünlerin söz verilmiş tarih aralığında teslim edilmesi büyük bir önem taşımaktadır. Bundan dolayı taşımacı davranış modelinde “hedef noktaya uğrama sayısı” tahminlemeye etki edecek önemli bir etken olarak yer alacaktır. Taşımacı, teslimat noktasında ulaşamadığı alıcıya gün içerisinde ikinci kere uğramadığında mobil uygulama üzerinden uyarı mekanizmalarının geliştirilmesi ve uğrama sayılarının operasyona raporlanması sağlanacaktır.",
+  "char_len": 1082,
+  "sentence_count": 5
+}

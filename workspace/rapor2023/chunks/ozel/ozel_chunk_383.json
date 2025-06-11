@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 383,
+  "chunk_text": "Bu çalışmalar; taşımacıların gün içerisinde istedikleri başlangıç ve bitiş konumuna göre tekrar rota oluşturabilmesi, uygulamaya yeni adresler ekleyebilmeleri ve bu adresleri başlangıç-bitiş noktası olarak atayabilmeleri ve rotaya uymanın mümkün olmadığı durumlarda uymama nedeni belirterek geliştirme ekiplerine girdi sağlamalarıdır. Ek olarak HepsiJET’in evden randevulu iade hizmeti için iade alımlarının da rotaya eklenmesi ve mobil uygulama üzerindeki gösteriminin sağlanması çalışmaları planlanmıştır.",
+  "char_len": 507,
+  "sentence_count": 2
+}

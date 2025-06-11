@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 262,
+  "chunk_text": "Mevcut şubelerde kullanılan yapıyı tümüyle değiştirmeden önce kullanıcı yaklaşımını anlamak ve en uygun çözümü üretmek amacıyla minimum ürün yaklaşımı ile pilot çalışma hedeflenmiştir. Pilot çalışmada taşımacıların çalışma alanlarına uyumları veritabanındaki verilerle ve operasyon sahasından gelen geri bildirimlerle incelenerek mevcut sistemin sahadaki kullanımı analiz edilecektir. Analiz sonrasında mevcut yapıyı bozmadan mahalle bazlı atama yapan bir algoritma geliştirilerek sahada çalışma alanları algoritma çıktısına göre düzenlenerek performans izlenecektir. Sistemsel izlemeye ek olarak değişime karşılık şube sorumlusu ve taşımacıların olumlu/olumsuz geri bildirimleri alınarak nihai ürün için zemin hazırlanacaktır. Algoritma Geliştirme ve Teslimat Yönetim Sistemi Konfigürasyonu Çalışma alanlarının otonom olarak oluşturulabilmesi ve sahada kullanımı için algoritma ve Teslimat Yönetim Sistemi’nin entegre kullanımı Sayfa 55 / 99 planlanmıştır.",
+  "char_len": 957,
+  "sentence_count": 5
+}

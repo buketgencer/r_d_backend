@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 270,
+  "chunk_text": "Harita çözümleri ve adreslerin grid bazlı karşılıklarının bulunması ve veritabanında tututan adres yapısına getireceği değişiklikler de proje kapsamında yapılacaktır. Otonom olarak oluşturulan ve elle düzeltilebilen yeni gridlerle, makine öğrenmesiyle günlük olarak analizi yapılarak daha adil ve daha verimli bölünmelerin oluşturulması, bir sonraki gün ve haftanın tahminlerinin de yapılarak taşımacı çalışma alanlarında güncellemelerin yapılabilmesi planlanmaktadır. Yeni şube açılması ve mevcut şubelerin bölünmesi faaliyetleri için geliştirilecek olan tahminleme algoritması sonuçları da görselleştirilerek operasyon yetkililerinin erişebileceği platformlara taşınacaktır. Test ve Entegrasyon Bu iş paketinde back-end, front-end ve algoritmaların mevcut Teslimat Yönetim Sistemi üzerinden erişilebilir halde ayrı bir platform olarak entegrasyonu sağlanacaktır. Dağıtım merkezlerinden pilot şube olarak en uygun olanı seçilerek, projenin geliştirme sürecinde hem yazılımsal olarak hem de saha operasyonlarında taşımacılar tarafından testler yapılacaktır. Aynı zamanda güvenlik ve penetrasyon testleri de bu iş paketinde yapılacak faaliyetlerdir.",
+  "char_len": 1148,
+  "sentence_count": 6
+}

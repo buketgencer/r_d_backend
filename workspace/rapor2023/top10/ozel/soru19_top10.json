@@ -1,0 +1,82 @@
+[
+  {
+    "rank": 1,
+    "index": 1,
+    "chunk_text": "İşletmenin Kısa, Orta ve Uzun Vadede Ar-Ge Stratejileri 2. AR-GE MERKEZİ GENEL BİLGİLERİ 2.1.",
+    "source_file": "rapor2023.txt",
+    "char_len": 93,
+    "sentence_count": 2
+  },
+  {
+    "rank": 2,
+    "index": 647,
+    "chunk_text": "İşletme Sermayesinin %10 Veya Daha Fazlasına Sahip Ortaklar 1.6. İşletmenin Kısa, Orta ve Uzun Vadede Ar-Ge Stratejileri 2.",
+    "source_file": "rapor2023.txt",
+    "char_len": 123,
+    "sentence_count": 2
+  },
+  {
+    "rank": 3,
+    "index": 628,
+    "chunk_text": "Faaliyet Yılı Gelişmeleri: Ar-Ge Merkezi 2018 Ekim ayından itibaren Gebze’de bulunan yerleşkesinde çalışmalarını yürütmektedir. Faaliyet yılı sonu itibariyle, 1 Doktora Öğrencisi, 3 Yüksek Lisans mezunu, 3 Yüksek lisans öğrencisi ve 30 Lisans mezunu olmak üzere 41 nitelikli Ar-Ge personeli ile faaliyetlerini sürdürmektedir.",
+    "source_file": "rapor2023.txt",
+    "char_len": 325,
+    "sentence_count": 2
+  },
+  {
+    "rank": 4,
+    "index": 585,
+    "chunk_text": "Ar-Ge faaliyetleri konusunda yapılan bilimsel - teknolojik yayın, makalelerin ve sempozyum, konferanslarda yapılan sunumların sayı ve niteliğinin arttırılması Faaliyet yılı içerisinde 4 konferansa katılım sağlanmıştır. Sinyal İşleme ve İletişim Uygulamaları Kurultayı’na katılım sağlanmıştır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 292,
+    "sentence_count": 2
+  },
+  {
+    "rank": 5,
+    "index": 19,
+    "chunk_text": "HepsiJET'in amacı e-ticaret müşterisine hızlı, kaliteli, güvenli ve uygun maliyetle hizmet sunmakğr. Bu gereksinimleri karşılamak amacıyla hizmetlerini belirlemiş ve önceliklendirmiştir.",
+    "source_file": "rapor2023.txt",
+    "char_len": 186,
+    "sentence_count": 2
+  },
+  {
+    "rank": 6,
+    "index": 463,
+    "chunk_text": "Veritabanında çalışma alanları ve bağlı oldukları mahalleler, gönderi çeşitleri, zaman dilimleri, gönderi miktarları, taşımacı bilgileri gibi bilgiler kaydedilmektedir. Veriler ile yapılan analizlerde yeni bir sistem ihtiyacının olduğu, eksiklerle birlikte tespit edilmiştir.",
+    "source_file": "rapor2023.txt",
+    "char_len": 275,
+    "sentence_count": 2
+  },
+  {
+    "rank": 7,
+    "index": 245,
+    "chunk_text": "Faaliyet Dönemi Sonu İtibariyle Ar-Ge Amaçlı Kullanılan Bilgi Teknolojileri Cihazları ve Lisanslı Yazılımların Listesi 7. AR-GE MERKEZİ PROJELERİ 7.1.",
+    "source_file": "rapor2023.txt",
+    "char_len": 150,
+    "sentence_count": 2
+  },
+  {
+    "rank": 8,
+    "index": 535,
+    "chunk_text": "Müşteri memnuniyeti açısından ürünlerin söz verilmiş tarih aralığında teslim edilmesi büyük bir önem taşımaktadır. Bundan dolayı taşımacı davranış modelinde “hedef noktaya uğrama sayısı” tahminlemeye etki edecek önemli bir etken olarak yer alacaktır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 250,
+    "sentence_count": 2
+  },
+  {
+    "rank": 9,
+    "index": 578,
+    "chunk_text": "Türkiye'de hızlı büyüme gösteren e-ticaret faaliyetlerinde müşteri ihtiyaçlarının karşılanabilmesi ve sektörün aynı ivme ile büyümeye devam edebilmesi için sektör ve sektöre destek veren gruplar arasında ortak bir eylem planı oluşturulması gerekmektedir. Lojistik taraika, e-ticaret değişken talep, binlerce farklı noktaya ve kısa sürelerde teslimat gibi gereksinimleri nedeniyle klasik perakendeden farklı lojistik yetkinlikler gerektirmektedir.",
+    "source_file": "rapor2023.txt",
+    "char_len": 446,
+    "sentence_count": 2
+  },
+  {
+    "rank": 10,
+    "index": 656,
+    "chunk_text": "Bu yaklaşım harcanan eforun hedefini mümkün olduğunca doğru bulması açısından faydalıdır. Proje Takibi ve Kurumsal Hafıza Projeler süresince görevler JIRA’da hazırlanan gösterge paneli üzerinden takip edilmektedir.",
+    "source_file": "rapor2023.txt",
+    "char_len": 214,
+    "sentence_count": 2
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 109,
+  "chunk_text": "Poisson Dağılımı’nın, zaman içindeki olayların oluşumunu açıklamaya imkan tanıması nedeniyle, ön araştırmalarda dağıtım verisinin Poisson Dağılımı kullanılarak tahminlenmesinin uygun olacağı gözlemlenmiştir. Genel olarak siparişin oluşma zamanı ve oluşma sayısını tahmin etme ihtiyacımız olduğundan, bu veriler tahminleme aşamasında kullanılmıştır. Simülatör geliştirmesinde veri üretme aşaması Python dilinde geliştirilmiştir. Verilerin görüntülenmesi için geliştirilecek arayüzlerde Python ve Qt arayüz kütüphanesi kullanılmıştır. Simülatör ile elde edilen veri ile yapılan ilk kapasite planlama çalışmalarının sahada uygulanması ile pilot aşamasında kaynaklar verimli kullanılmıştır.",
+  "char_len": 686,
+  "sentence_count": 5
+}

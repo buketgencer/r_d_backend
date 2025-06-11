@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 463,
+  "chunk_text": "Bu stratejide, tedarikçilerden gelen mallar, depo içinde yerleştirilmeden, belli bir süre içinde sevk noktalarına gönderilirler. Çapraz sevkiyatlı araç rotalama problemi (vehicle routing problem with cross-docking, VRPCD), müşteri taleplerini karşılamak için, çeşitli tedarikçilerden toplanan siparişlerin, çapraz sevkiyat merkezlerinde (cross-dock) konsolide edildikten sonra, müşterilere teslim edilmesi için gereken araçların rota setinin tanımlanmasından ibarettir (Küçükoğlu ve Öztürk, 2019).",
+  "char_len": 497,
+  "sentence_count": 2
+}

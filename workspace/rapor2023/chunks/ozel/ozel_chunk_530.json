@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 530,
+  "chunk_text": "Algoritma mevcutta input olarak verilen mahalleleri çıktı olarak gridlere dönüştürecek, böylece mahalle ve sokaklardan bağımsız bir yapıya geçilmiş olacaktır. Gridler çeşitli büyüklüklerde olup, daha kompakt ve küçük alanların da oluşmasına olanak sağlayacaktır.",
+  "char_len": 262,
+  "sentence_count": 2
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 105,
+  "chunk_text": "Gönderilerin taşımacıları optimuma yakın dağıtılması, kullanılan mobil uygulamada değişiklikler planlanmıştır. Yine operasyonun operasyonu rahatça yönetebilmesi için gereken rapor ve ekranlar tasarlanmıştır. Bununla beraber operasyonel ve müşteri plan değişikliklerinde meydana gelen istisnalar ile ilgili yapılar kurulması gereksinimi ortaya çıkmıştır. Teknoloji olarak Teslimat Yönetim Sistemi alt yapımızda kullanılan Java Spring ve Angular yapısı üzerinde çalışılması kararlaştırılmıştır. Veritabanı olarak da açık kaynak kodlu PostgreSQL veritabanı kullanılmasına karar verilmiştir.",
+  "char_len": 587,
+  "sentence_count": 5
+}

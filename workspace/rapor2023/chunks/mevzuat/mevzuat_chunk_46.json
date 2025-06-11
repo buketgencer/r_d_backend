@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 46,
+  "chunk_text": "Scrum yaklaşımında ise üç haikalık iterasyonlar ve günlük scrum toplanğları ile her bir iterasyonda yapılması planlanan işler gerçekleştirilmektedir. Bu yaklaşımda da yazılım ekibinin hızlı çıkğ üretmesi ve yazılım hızının izlenmesi sağlanır. Spirint sonunda ise scrum değerlendirme ve sprint ile ilgili geri bildirim toplanğları yapılır. Scrum planlamasında projeye ek özellikler eklenirken iş değeri en yüksek ve yazılım maliyeti en düşük olan işler öncelikli olarak yapılır. Bu yaklaşımla ürüne/projeye katma değer sağlayan özellikler arasında projeye en çok katkı sağlayan ve daha az yazılım geliştirme maliyeti olan özelliklere öncelik verilmesinin sağlanması amaçlanmıştır. Minimum Ürün Yaklaşımı Proje geliştirilirken müşterinin/kullanıcının işini görecek olan en yalın ve en sade ürünün bir an önce müşterinin karşısına çıkarılması hedeflenmiştir.",
+  "char_len": 855,
+  "sentence_count": 6
+}

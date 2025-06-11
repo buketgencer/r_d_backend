@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 420,
+  "chunk_text": "İ.P.6: Sistem Ölçeklendirme ve Mimari Dönüşüm İş paketinde Teslimat Yönetim Sistemi uygulamasının mimari dönüşümü ve performans arttırmaya yönelik geliştirmeler planlanmıştır. Bu kapsamda mikroservis mimari dönüşümü, front-end teknoloji dönüşümü, dispatch(dağıt) fonksiyonu revizyonu ve test otomasyonu teknolojilerinin kurulumunun yapılması hedeflenmiştir.",
+  "char_len": 357,
+  "sentence_count": 2
+}

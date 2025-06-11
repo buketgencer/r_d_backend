@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 244,
+  "chunk_text": "Böylece iki farklı proje olarak geliştirilen sunucu ve önyüz uygulamaları tek uygulama şeklinde paketlenmiş olur. Jar formatında paketlenen uygulama ilgili ortamlara deploy edilir. Raporlama için sunucu tarafında bir Nodejs frameworkü olan Koajs kullanılmıştır.",
+  "char_len": 261,
+  "sentence_count": 2
+}

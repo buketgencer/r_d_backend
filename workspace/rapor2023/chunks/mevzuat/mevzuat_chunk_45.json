@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 45,
+  "chunk_text": "İş değeri yaklaşımında ürünle ilgili teknoloji ekibi, operasyon ekibi, müşteri hizmetleri ve iş geliştirme ekibi gibi farklı ekiplerden gelen yazılımla ilgili istekler bir ürün sahibi tarafndan değerlendirilir. Ürün sahibi her bir ürün özelliği için aşağıdaki kriterlere göre bir puan verir: • Gelir ve Karlılık • Ölçeklenebilirlik • Kullanıcı Faydaları • Geliştiriciye ve Şirkete Fayda Sayfa 7 / 99 • Eşsizlik Daha sonra geliştirdiğimiz algoritma ile projeye/ürüne eklenecek özellik için bir iş değeri hesaplanır. Scrum yaklaşımında ise üç haikalık iterasyonlar ve günlük scrum toplanğları ile her bir iterasyonda yapılması planlanan işler gerçekleştirilmektedir. Bu yaklaşımda da yazılım ekibinin hızlı çıkğ üretmesi ve yazılım hızının izlenmesi sağlanır. Spirint sonunda ise scrum değerlendirme ve sprint ile ilgili geri bildirim toplanğları yapılır. Scrum planlamasında projeye ek özellikler eklenirken iş değeri en yüksek ve yazılım maliyeti en düşük olan işler öncelikli olarak yapılır.",
+  "char_len": 992,
+  "sentence_count": 6
+}

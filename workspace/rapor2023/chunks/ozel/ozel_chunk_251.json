@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 251,
+  "chunk_text": "Sunucu tarafı e-posta gönderme, SQL sorgularından Excel dosyası oluşturma, kullanıcı tarafında değiştirilen filtrelere göre sorguları düzenleme, veri tabanına bağlanma gibi servisleri gerçekleştirilir. İstemci tarafından talep edilen eylemlere göre ilgili rapor vb. komponentlara ait konfigürasyonları ve sorguları veri tabanından çekip, istemci tarafından gelen filtreleri girdi olarak kullanarak yine istemci tarafına istenen veriler gönderilir.",
+  "char_len": 447,
+  "sentence_count": 2
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 155,
+  "chunk_text": "Saha modülleri canlıya alınmadan önce operasyon ekiplerinin anahtar kullanıcıları ile sürecin test edilmesi planlanmıştır. Öncelikler anahtar kullanıcılara eğitim verilecek ve test senaryoları paylaşılacaktır. Testler sonrasında bug’ların belirlenmesi ve önceliklendirerek giderilmesi yapılacaktır. Testler ve bug fix calışmaları iteratif olarak tekrarlanacaktır. Canlıya alım öncesinde tüm entegre sistemin performansının test edilmesi planlanmıştır.",
+  "char_len": 451,
+  "sentence_count": 5
+}

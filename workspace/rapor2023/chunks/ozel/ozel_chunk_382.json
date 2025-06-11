@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 382,
+  "chunk_text": "Taşımacılar tarafından rota optimizasyonu kullanımının artması ve bu deneyimin iyileştirilmesi için algoritma ve mobil uygulama tarafında geliştirmeler yapılacaktır. Bu çalışmalar; taşımacıların gün içerisinde istedikleri başlangıç ve bitiş konumuna göre tekrar rota oluşturabilmesi, uygulamaya yeni adresler ekleyebilmeleri ve bu adresleri başlangıç-bitiş noktası olarak atayabilmeleri ve rotaya uymanın mümkün olmadığı durumlarda uymama nedeni belirterek geliştirme ekiplerine girdi sağlamalarıdır.",
+  "char_len": 500,
+  "sentence_count": 2
+}

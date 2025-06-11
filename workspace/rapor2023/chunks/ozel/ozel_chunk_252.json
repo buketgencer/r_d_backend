@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 252,
+  "chunk_text": "İstemci tarafından talep edilen eylemlere göre ilgili rapor vb. komponentlara ait konfigürasyonları ve sorguları veri tabanından çekip, istemci tarafından gelen filtreleri girdi olarak kullanarak yine istemci tarafına istenen veriler gönderilir. İstemci tarafında web tabanlı React, Redux temelli bir yazılım geliştirilmiştir.",
+  "char_len": 326,
+  "sentence_count": 2
+}

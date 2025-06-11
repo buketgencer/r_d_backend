@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 238,
+  "chunk_text": "Testten geçen tüm feature geliştirmeleri sırayla development, uat ve tüm testlerden ve onaylardan geçtikten sonra da canlı ortama aktarılırlar. Bitbucket altında ayrı bir proje alanında frontend (önyüz) uygulama kodları kayıtlıdır.",
+  "char_len": 231,
+  "sentence_count": 2
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 184,
+  "chunk_text": "Teknoloji olarak Teslimat Yönetim Sistemi alt yapımızda kullanılan Java Spring ve Angular yapısı üzerinde çalışılması kararlaştırılmıştır. Ayrıca önyüz geliştirmelerinde React dönüşümü planlanmıştır. Veritabanı olarak da açık kaynak kodlu PostgreSQL veritabanı kullanılmasına karar verilmiştir. Sistemde hazırlanan raporlar daha önce kendi geliştirdiğimiz raporlama altyapısı üzerinde gerçekleştirilecektir. Mobil teknolojilerde ise Android Studio alt yapımızın kullanımına devam edilmesine karar verilmiştir. İ.P.2: Rota Optimizasyonu ve Adres Çözümleme Algoritmaları Bu iş paketinde, serbest metin adreslerin doğal dil işleme algoritmaları yardımıyla koordinata dönüştürülmesi ve rota optimizasyonu algoritmasının artan hacmin getirdiği ihtiyaçlar ile geliştirilmesi çalışmaları planlanmıştır.",
+  "char_len": 795,
+  "sentence_count": 6
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 147,
+  "chunk_text": "Bu yapıda gelen talep ve şikayetlerin hızlı çözülebilmesi için Müşteri Hizmetleri departmanına veri akışının sağlanması ve haberleşme asetlerinin iyileştirilmesi gerekmektedir. Bu nedenle senaryo analizleri yapılarak sistem buna uygun olarak tasarlanacaktır. Projede pilot çalışmalar stok tutan cep depolardan gıda ürünlerinin teslimatı ile başlamıştır. Gıda ürünlerinin taşınması operasyonunda müşteri hizmetleri tarafından aşağıdaki durumların yönetilmesi gerekmektedir; -Tedarik kaynaklı değişiklikler: Mağaza kaynaklı ürünlerin tedariği ya da toplanması sırasında yaşanan aksaklıklardır. Bu değişimlerin yönetiminden mağaza sorumludur ancak müşteri ile görüşme sonrasında erteleme/iptal talebi gelirse Teslimat Yönetim Sistemi üzerinde değişiklik yapılması gerekmektedir. -Teslimat kaynaklı değişiklikler: Sistemsel arıza, hava koşulları ya da beklenmeyen trafik kazası ya da yol durumu kaynaklı değişiklik talepleri bizim tarafımızdan çözülmektedir. -Müşteri kaynaklı değişiklikler: Müşteri siparişin iptalini ya da başka bir zaman diliminde teslimatını isteyebilir. Bu değişim mağaza ve teslimat ekipleri koordinasyonu ile yönetilmektedir.",
+  "char_len": 1145,
+  "sentence_count": 6
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 231,
+  "chunk_text": "Kod repository olarak Atlassian Bitbucket kullanılmaktadır. Bitbucket’a kaydedilen kodlar Jenkins otomasyon sunucusu kullanılarak derlenmekte ve konfigure edilmiş iş planları kapsamında ilgili sunuculara kurulmaktadır.",
+  "char_len": 218,
+  "sentence_count": 2
+}

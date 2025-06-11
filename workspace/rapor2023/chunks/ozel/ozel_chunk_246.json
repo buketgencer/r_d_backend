@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 246,
+  "chunk_text": "Login işlemleri JWT ile güvenli bir şekilde sağlanmaktadır. Veritabanı olarak PostgreSQL kullanılmaktadır.",
+  "char_len": 106,
+  "sentence_count": 2
+}

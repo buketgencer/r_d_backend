@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 190,
+  "chunk_text": "Böylece günlük taşınan paket hacmi nedeniyle oluşacak iş gücü kayıplarının önüne geçilmesi hedeflenmiştir. Taşımacıların gün içinde teslim edeceği gönderilerin optimum sıralamaya göre hesaplandığı rota optimizasyonuna dair geliştirmeler bu iş paketi kapsamında yapılacaktır. Rota optimizasyonu çıktıları HepsiJET mobil uygulaması üzerinden taşımacılara sunulmaktadır. Taşımacılar tarafından rota optimizasyonu kullanımının artması ve bu deneyimin iyileştirilmesi için algoritma ve mobil uygulama tarafında geliştirmeler yapılacaktır. Bu çalışmalar; taşımacıların gün içerisinde istedikleri başlangıç ve bitiş konumuna göre tekrar rota oluşturabilmesi, uygulamaya yeni adresler ekleyebilmeleri ve bu adresleri başlangıç-bitiş noktası olarak atayabilmeleri ve rotaya uymanın mümkün olmadığı durumlarda uymama nedeni belirterek geliştirme ekiplerine girdi sağlamalarıdır.",
+  "char_len": 868,
+  "sentence_count": 5
+}

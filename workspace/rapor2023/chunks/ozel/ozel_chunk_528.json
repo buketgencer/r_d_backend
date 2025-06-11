@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 528,
+  "chunk_text": "Saha dinamiklerini göz önünde bulundurarak, taşımacı öğrenme eğrisi, yeni taşımacının sisteme alışması gibi parametreler dikkate alınarak çözüm tasarımı yapılacaktır. Bu kapsamda sahadaki mevcut yapı göz önüne alınarak algoritma girdileri için şubeye bağlı çalışan taşımacı bilgileri, mevcutta çalışılan mahalleler, sipariş bilgileri; çıktılar olarak da taşımacı bilgileri, taşımacıya atananlar olarak gridler ile oluşan alanlar ve zamana, miktara ve çeşidine göre sınıflandırılmış gönderiler planlanmıştır.",
+  "char_len": 507,
+  "sentence_count": 2
+}

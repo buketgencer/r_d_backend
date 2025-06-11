@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 237,
+  "chunk_text": "Yazılımcılar geliştirme işlerini canlı ortam kodlarından bir kopya olarak oluşturdukları feature ortamlarda geliştirirmekte ve test ekibine göndermektedir. Testten geçen tüm feature geliştirmeleri sırayla development, uat ve tüm testlerden ve onaylardan geçtikten sonra da canlı ortama aktarılırlar.",
+  "char_len": 299,
+  "sentence_count": 2
+}

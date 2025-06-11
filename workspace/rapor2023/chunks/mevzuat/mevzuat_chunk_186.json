@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 186,
+  "chunk_text": "Mobil teknolojilerde ise Android Studio alt yapımızın kullanımına devam edilmesine karar verilmiştir. İ.P.2: Rota Optimizasyonu ve Adres Çözümleme Algoritmaları Bu iş paketinde, serbest metin adreslerin doğal dil işleme algoritmaları yardımıyla koordinata dönüştürülmesi ve rota optimizasyonu algoritmasının artan hacmin getirdiği ihtiyaçlar ile geliştirilmesi çalışmaları planlanmıştır. Kargo sektöründe teslimat adresi bilgileri serbest metin adres olarak iletilmektedir. Adres yapısının standart olmaması nedeniyle, doğru enlem-boylam bilgisine ulaşabilmek için müşteriden gelen metinlerin teslimat sürecine girmeden belirli aşamalardan geçmesi gerekmektedir. HepsiJET Ar-Ge Merkezi’nde daha önceden gerçekleştirilen projelerde %80 oranında adreslerin manuel müdahale gerektirmeden işlenmesi sağlanmıştır. Ancak büyüyen hacim manuel işlem oranlarının düşürülmesi ihtiyacı doğurmuştur.",
+  "char_len": 887,
+  "sentence_count": 6
+}

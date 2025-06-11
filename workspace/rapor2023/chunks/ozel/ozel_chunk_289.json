@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 289,
+  "chunk_text": "Algoritmanın dağıtım öncesinde test edilebilmesi için simülatör ile yaratılan siparişlerin kapasite yönetim algoritması tarafından taşımacılarca dağıtımının simüle edilmesini kapsamaktadır. Bu kapsamda veri simülatörü, kapasite tahminleme algoritması ve rota optimizasyonu algoritmasının entegre kullanımı planlanmıştır.",
+  "char_len": 320,
+  "sentence_count": 2
+}

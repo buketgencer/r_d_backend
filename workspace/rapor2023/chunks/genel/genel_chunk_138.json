@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 138,
+  "chunk_text": "Ek olarak ürün bazlı ve araç bazlı kısıtlar belirlenmiştir. Soğuk/donuk taşınması gereken ürünler binary classification (ikili sınıflandırma) yaklaşımı uygun görülüştür. Böylece soğuk zincirde taşınması gereken ürünler ve taşıma yapabilecek araçlar ayrıştırılması planlanmıştır. Hem cep depolardan yapılan hızlı teslimat ürünlerinin hem de standart kargo ürünlerinin taşımacılara atanabilmesi için paketin gönderinin teslim alınacağı lokasyon, teslim edileceği lokasyon ve taşımacının lokasyonu parametreleri dikkate alınmaktadır. Gönderilerin çıkış noktaları mevcut Xdock’lar ya da cep depolar olacaktır.",
+  "char_len": 605,
+  "sentence_count": 5
+}

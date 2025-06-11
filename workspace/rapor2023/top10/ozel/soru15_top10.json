@@ -1,0 +1,82 @@
+[
+  {
+    "rank": 1,
+    "index": 244,
+    "chunk_text": "Proje çevik yazılım metodolojisi ile geliştirilmektedir. Bu kapsamda üç haftalık geliştirme ve analiz planlaması yapılarak, tamamlanan calışmalar devreye alınarak ilgili birimlerin kullanımına sunulmaktadır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 207,
+    "sentence_count": 2
+  },
+  {
+    "rank": 2,
+    "index": 361,
+    "chunk_text": "Projenin - Projede proje yönetim ve iş, hata takip yazılımı olarak Atlassian Jira, kaynak kod yönetim sistemi olarak Git, Yenilikçi sürekli tümleştirme (Continuous Integration) aracı olarak da Jenkins kullanılmaktadır. Kod gözden geçirme Yönü ve Ar- süreçleri için Bitbucket kullanılmaktadır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 292,
+    "sentence_count": 2
+  },
+  {
+    "rank": 3,
+    "index": 116,
+    "chunk_text": "Böylece sunulacak yeni dağıtım hizmetinde müşteri memnuniyeti korunarak ölçek yaratmak mümkün olacaktır. Proje Proje ile ilgili çalışmalara gereksinim ve teknoloji analizi çalışmaları ile başlanmıştır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 201,
+    "sentence_count": 2
+  },
+  {
+    "rank": 4,
+    "index": 256,
+    "chunk_text": "AR-GE MERKEZİ PROJELERİ 7.1. Tamamlanan Projeler Listesi 7.2.",
+    "source_file": "rapor2023.txt",
+    "char_len": 61,
+    "sentence_count": 2
+  },
+  {
+    "rank": 5,
+    "index": 117,
+    "chunk_text": "Proje Proje ile ilgili çalışmalara gereksinim ve teknoloji analizi çalışmaları ile başlanmıştır. Bu aşamada teknolojik Kapsamında ve operasyonel gereksinimler belirlenerek kapasite planlama ve optimizasyon problemi ile ilgili literatür Yapılacak taramaları yapılmıştır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 269,
+    "sentence_count": 2
+  },
+  {
+    "rank": 6,
+    "index": 211,
+    "chunk_text": "Faaliyet Döneminde Ar-Ge Personeline Aldırılan Mesleki Gelişim / Yetkinlik Geliştirme Amaçlı Eğitimler ve Sertifika Programları 6. AR-GE MERKEZİ CİHAZ VE EKİPMAN ALTYAPISI 6.1.",
+    "source_file": "rapor2023.txt",
+    "char_len": 176,
+    "sentence_count": 2
+  },
+  {
+    "rank": 7,
+    "index": 278,
+    "chunk_text": "Devam Eden Projeler Listesi 7.3. Devam Eden Proje Detayları 8.",
+    "source_file": "rapor2023.txt",
+    "char_len": 62,
+    "sentence_count": 2
+  },
+  {
+    "rank": 8,
+    "index": 644,
+    "chunk_text": "Konsorsiyumlarda Türkiye, İngiltere, Polonya, İspanya, Letonya, Avusturya ve Slovakya’dan firmalar ve üniversiteler yer almaktadır. Proje Yönetim Metodolojisi: Projelerde, scrum ve iş değeri yaklaşımı birlikte kullanılmaktadır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 227,
+    "sentence_count": 2
+  },
+  {
+    "rank": 9,
+    "index": 123,
+    "chunk_text": "Ar-Ge Merkezi Proje Yönetim Süreci 2.11. Ar-Ge Merkezi Kontrol Mekanizması (Giriş-Çıkışlar) 3.",
+    "source_file": "rapor2023.txt",
+    "char_len": 94,
+    "sentence_count": 2
+  },
+  {
+    "rank": 10,
+    "index": 588,
+    "chunk_text": "Ar-Ge sonucu ortaya çıkan yeni ürünlerden elde edilen ciro artırılması HepsiJET Ar-Ge Merkezi’nde uçtan uca tüm süreçleri kapsayan son noktaya teslimat lojistik sistemleri geliştirmeye yönelik projeler üretilmektedir. Firma her sene yaklaşık dört kat büyüme başarısını Ar-Ge Merkezi’nde geliştirilen Ar-Ge ve teknoloji niteliği yüksek projelere borçludur.",
+    "source_file": "rapor2023.txt",
+    "char_len": 355,
+    "sentence_count": 2
+  }
+]

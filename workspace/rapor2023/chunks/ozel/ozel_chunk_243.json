@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 243,
+  "chunk_text": "Bu derleme sunucu kod derlemesini de otomatik olarak tetikler. ‘Dist’ dizini paketlenerek sunucu kod paketi (jar) içine kopyalanır. Böylece iki farklı proje olarak geliştirilen sunucu ve önyüz uygulamaları tek uygulama şeklinde paketlenmiş olur. Jar formatında paketlenen uygulama ilgili ortamlara deploy edilir.",
+  "char_len": 312,
+  "sentence_count": 2
+}

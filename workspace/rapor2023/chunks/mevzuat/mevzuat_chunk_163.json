@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 163,
+  "chunk_text": "Simulatör aynı zamanda algoritma geliştirme süreci için ciddi bir alt yapı ve birikim sağlayacak ve ilerleyen projelerde kullanılacaktır. Simulatörün çıktıları olarak araçlarda dağıtılacak paketlerin rota planlamaları, araçların gün içindeki kullanım oranı, dağıtılan paket başı maliyet, taşımacılar arasında gelir paylaşım oranları parametreleri hesaplanacaktır. Cep depolardan yapılan hızlı teslimatlarda müşteri memnuniyetinin sağlanması için teknolojinin, taşımacıların mobil uygulamasının yüksek oranda kullanıldığı bir iletişim ve istisna kurgusu yaratılacaktır. Projede hem çoklu araç hem de tek araç için rota optimizasyon problemleri birbirini destekler şekilde çalıştırılacaktır. Projede e-ticaret tarafındaki kapasite planlaması 10’ar dakikalık daha küçük zaman aralıklarında yapılacak ancak e-ticaret sitesinin istediği zaman aralıkları için görüntüleyebileceği şekilde esnek yapılacaktır. Bu durum sistemin kullanılırlığını ve esnekliğini arttıracaktır.",
+  "char_len": 966,
+  "sentence_count": 6
+}

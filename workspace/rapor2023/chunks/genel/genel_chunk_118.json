@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 118,
+  "chunk_text": "Böylece hangi kod parçasının hangi iş geliştirmesi için yapıldığı takip edilebilmektedir. Uygulamalar, development (geliştirme test), uat (kullanıcı test) ve production (canlı) ortamlardaki sunucularda her daim ulaşılabilir durumdadır. Yazılımcılar geliştirme işlerini canlı ortam kodlarından bir kopya olarak oluşturdukları feature ortamlarda geliştirirmekte ve test ekibine göndermektedir. Testten geçen tüm feature geliştirmeleri sırayla development, uat ve tüm testlerden ve onaylardan geçtikten sonra da canlı ortama aktarılırlar. Bitbucket altında ayrı bir proje alanında frontend (önyüz) uygulama kodları kayıtlıdır.",
+  "char_len": 623,
+  "sentence_count": 5
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "rank": 1,
+    "index": 89,
+    "chunk_text": "Ar-Ge Merkezi Personel Değişim Gösterim Tablosu 2.8. Ar-Ge Merkezinin Ulusal Ve Uluslararası İşbirlikleri 2.9.",
+    "source_file": "rapor2023.txt",
+    "char_len": 110,
+    "sentence_count": 2
+  },
+  {
+    "rank": 2,
+    "index": 211,
+    "chunk_text": "Faaliyet Döneminde Ar-Ge Personeline Aldırılan Mesleki Gelişim / Yetkinlik Geliştirme Amaçlı Eğitimler ve Sertifika Programları 6. AR-GE MERKEZİ CİHAZ VE EKİPMAN ALTYAPISI 6.1.",
+    "source_file": "rapor2023.txt",
+    "char_len": 176,
+    "sentence_count": 2
+  },
+  {
+    "rank": 3,
+    "index": 245,
+    "chunk_text": "Faaliyet Dönemi Sonu İtibariyle Ar-Ge Amaçlı Kullanılan Bilgi Teknolojileri Cihazları ve Lisanslı Yazılımların Listesi 7. AR-GE MERKEZİ PROJELERİ 7.1.",
+    "source_file": "rapor2023.txt",
+    "char_len": 150,
+    "sentence_count": 2
+  },
+  {
+    "rank": 4,
+    "index": 123,
+    "chunk_text": "Ar-Ge Merkezi Proje Yönetim Süreci 2.11. Ar-Ge Merkezi Kontrol Mekanizması (Giriş-Çıkışlar) 3.",
+    "source_file": "rapor2023.txt",
+    "char_len": 94,
+    "sentence_count": 2
+  },
+  {
+    "rank": 5,
+    "index": 522,
+    "chunk_text": "HepsiJET hizmeti sunan e-ticaret firmalarının sayısı 25’e ulaşmış olup, Hepsiburada üzerinden sağş yapan 2.700’ün üzerinde pazaryeri firması ile anlaşmalar tamamlanmışğr. Anlaşmalı firma sayısı günden güne artmaktadır. 2020 yılı sonunda paket hacmi önceki yıla göre 4 kat artarak günlük 200.000 paket seviyelerine yükselmiştir.",
+    "source_file": "rapor2023.txt",
+    "char_len": 327,
+    "sentence_count": 2
+  },
+  {
+    "rank": 6,
+    "index": 100,
+    "chunk_text": "Ar-Ge Merkezinin Ulusal Ve Uluslararası İşbirlikleri 2.9. Ar-Ge Faaliyetlerinin Özendirilmesi, Performans Değerlendirme ve Ödül Sistemi 2.10.",
+    "source_file": "rapor2023.txt",
+    "char_len": 141,
+    "sentence_count": 2
+  },
+  {
+    "rank": 7,
+    "index": 656,
+    "chunk_text": "Bu yaklaşım harcanan eforun hedefini mümkün olduğunca doğru bulması açısından faydalıdır. Proje Takibi ve Kurumsal Hafıza Projeler süresince görevler JIRA’da hazırlanan gösterge paneli üzerinden takip edilmektedir.",
+    "source_file": "rapor2023.txt",
+    "char_len": 214,
+    "sentence_count": 2
+  },
+  {
+    "rank": 8,
+    "index": 588,
+    "chunk_text": "Ar-Ge sonucu ortaya çıkan yeni ürünlerden elde edilen ciro artırılması HepsiJET Ar-Ge Merkezi’nde uçtan uca tüm süreçleri kapsayan son noktaya teslimat lojistik sistemleri geliştirmeye yönelik projeler üretilmektedir. Firma her sene yaklaşık dört kat büyüme başarısını Ar-Ge Merkezi’nde geliştirilen Ar-Ge ve teknoloji niteliği yüksek projelere borçludur.",
+    "source_file": "rapor2023.txt",
+    "char_len": 355,
+    "sentence_count": 2
+  },
+  {
+    "rank": 9,
+    "index": 208,
+    "chunk_text": "Araçlar yola çıkmadan önce dağıtım bölgelerindeki tüm gönderileri teslim alarak Xdock sorumlusunun sefer çıkış onayı sonrası dağıtıma başlamaktadır. Bu aşamada gelen tüm gönderiler dikkate alınarak, cep depolardan teslim alınacak gönderiler tekrar gözden geçirilecektir.",
+    "source_file": "rapor2023.txt",
+    "char_len": 270,
+    "sentence_count": 2
+  },
+  {
+    "rank": 10,
+    "index": 535,
+    "chunk_text": "Müşteri memnuniyeti açısından ürünlerin söz verilmiş tarih aralığında teslim edilmesi büyük bir önem taşımaktadır. Bundan dolayı taşımacı davranış modelinde “hedef noktaya uğrama sayısı” tahminlemeye etki edecek önemli bir etken olarak yer alacaktır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 250,
+    "sentence_count": 2
+  }
+]

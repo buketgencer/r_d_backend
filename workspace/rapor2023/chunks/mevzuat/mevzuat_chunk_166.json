@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 166,
+  "chunk_text": "Projede ele alınacak problem, mevcut “statik” rota optimizasyonu problemine ek olarak gün içerisinde değişik zamanlarda gelen siparişlerin dar zaman pencerelerinde teslimatının planlanması gerektiren dinamik araç atama kararları ve optimizasyonu gerektirmektedir. Literatürde dinamik ya da çevrimiçi rotalama olarak bilinen bu tür problemler farklı yaklaşımlarla çözülebilmektedir. Gelen siparişlerin stokastik olarak ele alınması ve rotalara atanması gerektiğinden halihazırda geliştirilmiş olan ALNS algoritmasının gün içerisinde sürekli çalışması ve dinamik kararlar vermesi, ve bu kararların da teslimatları gerçekleştiren taşımacılara iletilmesi, taşımacıların revize edilen rotaları uygulamaya geçirmesi beklenmektedir. ALNS yaklaşımı, statik olarak uygulandığında gelen siparişlerin bir ilk çözüm oluşturduktan sonra boz-tamir et yöntemleri ile sürekli iyileştirilmesi prensibine dayanır. Dinamik olarak uygulanması durumunda algoritmanın sistemin mevcut durumunu sürekli takip ediyor olması (hangi taşımacı şu an nerede, hangi teslimatları tamamladı) beklenecek ve gelen yeni siparişleri mevcut rotaların uygun yerlerine benzer boz-tamir et yöntemleri ile eklemesi söz konusu olacaktır. Statik durumdan farklı olarak dinamik ALNS algoritmasının çok hızlı çalışması ve sonuç üretmesi gerekecektir.",
+  "char_len": 1304,
+  "sentence_count": 6
+}

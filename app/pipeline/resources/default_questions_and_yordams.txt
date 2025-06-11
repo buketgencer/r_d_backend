@@ -1,0 +1,66 @@
+SORU 1: Ar-Ge Merkezi, işletme organizasyon şemasında ayrı bir birim olarak yer almakta mıdır?
+YORDAM 1: İşletmenin organizasyon şeması incelenerek Ar-Ge merkezinin ayrı bir birim ya da ağaç yapısında olup olmadığı konusunda olumlu ya da olumsuz değerlendirme yapılır. Ar-Ge merkezi yöneticisi olması gereklidir. Ve diğer çalışanların bu kişi altında olacak biçimde gösterilmesi beklenir. Tüm çalışanların ağaç yapısında yer alması beklenmez. Kavramsal olarak bu gösterildi ise yeterli kabul edilebilir.
+--------------------------------------------------
+SORU 2: İşletmenin Ar-Ge Merkezi organizasyon şeması yeterlidir?
+YORDAM 2: Organizasyn şemasında belirli bir organizasyon yapısı mevcıt mudur? Fikri mülki haklar konusunda birim kurulmuş mudur. Genel müdür yardımcıları genel müdür belirli midir. Genellikle bu bilgiler grafik olarak dokümana eklenmektedir. Dolayısı ile grafiğin analizi gerekebilir.
+--------------------------------------------------
+SORU 3: Ar-Ge Merkezindeki mevcut yazılım, makine-teçhizat ve laboratuvar alt yapısı, test ortamları, bilgiye erişim olanakları, vb. Ar-Ge faaliyetlerle uyumludur.
+YORDAM 3: Ar-ge merkezinde yürütülmekte olan projeler ile raporda tanımlanmış olan laboratuvarların konu açısından ilişki düzeyi kabul edilebilir olmalıdır. Bir başka deyişle bu faaliyetlerin yapılabileceği makine-teçhizat ve laboratuvar ve diğer altyapının raporda belirtilmiş olması beklenir. Burada görülebilecek olan eksiklikler ise genel kabul gören prensipler çerçevesinde yorumlanabilir.  Firmanın genel olarak üretmiş olduğu projeler ile elindeki altyapının uyumu bu soruda sorulmaktadır.
+--------------------------------------------------
+SORU 4: Ar-Ge Merkezinde çalışan personel sayı ve nitelik yönünden yürütülen faaliyetlerle uyumludur.
+YORDAM 4: Projelerin Adam/ay değerlerinin hesaplanması güç bir konudur. Ancak genellikle Ar-Ge merkezi projelerinin 50-150 adam/ay arasında ve 6-24 ay sürelerinde olduğu görülmektedir. Bu yönetilebilirlik bakımından tercih edilmektedir. Projede yapılan faaliyetler dikkate alındığında bu kapsamdaki bir  işini uzunluk ve işgücü bakımından değerlendirmesinin yapay zeka tarafından ele alınması beklenebilir. Bu durumda personelin sayısının ve özgeçmişlerinin proje konuları ile büyük ölçüde ilgili olup olmadığı üzerinde yorum yapılacaktır. Bu yorumun uyumlu olanlar için tek tek yapılmasına gerek olmamakla beraber bir uyumsuz veri olduğu takdirde bunun özel olarak soru çıktısında belirtilmesi yararlı olacaktır.
+--------------------------------------------------
+SORU 5: Ar-Ge personelinin aldığı mesleki beceri / yetkinlik geliştirme amaçlı eğitimler firmanın faaliyet gösterdiği sektör ile uyumlu ve yeterli düzeydedir.
+YORDAM 5: [Boş]
+--------------------------------------------------
+SORU 6: Ar-Ge Merkezi personeline yönelik planlı Eğitim Programları mevcuttur.
+YORDAM 6: [Boş]
+--------------------------------------------------
+SORU 7: Ar-Ge personelinin katıldığı ulusal ve uluslararası sempozyum, kongre, seminer vb. Etkinlikler yeterlidir.
+YORDAM 7: [Boş]
+--------------------------------------------------
+SORU 8: İşletmenin Ar-Ge faaliyetleri konusunda yapmış olduğu bilimsel-teknolojik yayın, makalelerin ve sempozyum, konferanslarda yapılan sunumların sayı ve niteliği yeterlidir.
+YORDAM 8: [Boş]
+--------------------------------------------------
+SORU 9: Ar-Ge Merkezinin gelişimini sağlayacak, etkinliğini ve verimliliğini arttıracak dokümante edilmiş bir ödül ve teşvik mekanizması vardır ve uygulanmaktadır.
+YORDAM 9: [Boş]
+--------------------------------------------------
+SORU 10: Ar-Ge Merkezi fiziki alanı ergonomic (çalışma ortamı, yerleşim, aydınlatma, makine teçhizat v.b.) açıdan yeterlidir.
+YORDAM 10: [Boş]
+--------------------------------------------------
+SORU 11: Ar-Ge Merkezinde yürütülen faaliyetler sonucunda ortaya çıkan fikri ve sınai mülkiyet hakları süreçlerinin değerlendirilerek gerekli işlemlerin yürütüldüğü bir yapılanma bulunmakta ya da bu konuda hizmet alımı yapılmaktadır.
+YORDAM 11: [Boş]
+--------------------------------------------------
+SORU 12: İşletmenin Ar-Ge faaliyetleri sonucu başvurulmuş veya tescil edilmiş patentleri bulunmaktadır.
+YORDAM 12: [Boş]
+--------------------------------------------------
+SORU 13: Ar-Ge Merkezinde yürütülen Ar-Ge projeleri firmanın faaliyet alanı ve Ar-Ge bütçesi göz önüne alındığında sayı ve nitelik yönünden yeterlidir.
+YORDAM 13: [Boş]
+--------------------------------------------------
+SORU 14: : İşletmenin ulusal ve uluslararası destekli Ar-Ge projeleri mevcuttur.
+YORDAM 14: [Boş]
+--------------------------------------------------
+SORU 15: İşletmenin proje yönetim sistematiği mevcuttur.
+YORDAM 15: [Boş]
+--------------------------------------------------
+SORU 16: İşletmenin toplam ciroya göre Ar-Ge harcama oranı yeterlidir.
+YORDAM 16: [Boş]
+--------------------------------------------------
+SORU 17: İşletmenin ulusal ve uluslararası işbirlikleri yeterlidir.
+YORDAM 17: [Boş]
+--------------------------------------------------
+SORU 18: İşletmenin yürüttüğü Ar-Ge faaliyetleri kapsamında üniversiteler ile işbirlikleri vardır.
+YORDAM 18: [Boş]
+--------------------------------------------------
+SORU 19: Işletmenin uyguladığı Ar-Ge stratejileri faaliyetleri ile uyumludur.
+YORDAM 19: [Boş]
+--------------------------------------------------
+SORU 20: İşletmenin gelecek yıllara yönelik Ar-Ge planı, Ar-Ge stratejileri göz önüne alınarak yapılmaktadır.
+YORDAM 20: İşletmede geleceğe dönük Ar-Ge planı nasıl yapılmaktadır. Raporda bununla ilgili bir bilgi paylaşılmış mıdır. 5 yıllık ya da 3 yıllık öngörülerin nasıl yapıldığı ile ilgili bir bilgi verilmiş midir?
+--------------------------------------------------
+SORU 21: İşletmede bilgi yönetim sistemi (bilginin saklanması, paylaşılması, yönetilmesi ve güvenliği) mevcuttur.
+YORDAM 21: İşletmede rapor içinde bir bilgi yönetim sisteminin varlığından söz edilmekte midir. Bu sorunun yanıtı evet ve sektörde bu bahsi geçen yönetim sistemi kullanılabilir görülüyor ise bu sorudan olumlu değerlendirme yapılmalıdır.
+--------------------------------------------------
+SORU 22: Ar-Ge Merkezinin üye olduğu ulusal/uluslararası bilimsel kütüphaneler ve veri tabanları mevcut ve yeterlidir.
+YORDAM 22: Bu başlıkta rapor içinde online bilimsel kütüphane üyelikleri var mı yok mu ona bakılır. Bunlar içinde bir adet varsa iyi birden çok varsa daha iyi olarak düşünülebilir. Proquest, EBSCO, IEEE, ACM gibi üyelikler pozitif olarak değerlendirilir ve vurgulanır. Soru değerlendirmesinde bu kütiphanelere vurgu yapılabilir. Ayrıca bazı durumlarda üniversite işbirlikleri de vurgulanmaktadır. Bunlar da olumlu değerlendirilebilir.
+--------------------------------------------------
