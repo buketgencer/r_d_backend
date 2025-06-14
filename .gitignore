@@ -1,0 +1,5 @@
+.venv
+logs/
+workspace/
+user_uploads/
+__pycache__/

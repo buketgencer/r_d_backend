@@ -17,3 +17,5 @@ def post_to_outer_api(prompt: str) -> None:
         resp.raise_for_status()
     except requests.RequestException as exc:
         print(f"[WARN] Outer API post failed: {exc}") # hata durumunda uyarı ver
+
+#bu scriptin amacı:

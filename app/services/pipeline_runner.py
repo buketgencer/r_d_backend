@@ -49,10 +49,10 @@ QUESTIONS_TXT = RESOURCES_DIR / "default_questions_and_yordams.txt"
 def run_pipeline(
         pdf_path: Path,
         report_id: str,
-        question_id: int,
+        question_id: int | None,          # None kabul
         custom_question: str | None = None,
-        custom_yordam:   str | None = None,
-        job_id: str | None = None,          # ★ yeni parametre
+        custom_yordam: str | None = None,
+        job_id: str | None = None, # job_id verildiyse /status tablosunu güncelle
 ) -> dict:
     """
     Parameters
@@ -79,10 +79,18 @@ def run_pipeline(
         )
 
         # 2.b) kullanıcı özel soru eklediyse embedle & FAISS'e ekle
+        # 2.b) özel soru eklendiyse...
         if custom_question:
             _inject_custom_question(
-                custom_question, custom_yordam, ws_dir, st.embed_model
+                soru=custom_question,
+                yordam=custom_yordam,
+                workspace_dir=ws_dir,
+                model_name=st.embed_model,
             )
+
+            # hazır soru yoksa geçici ID ver
+            if question_id is None:
+                question_id = 9999
 
         # 3) PDF → raw TXT
         raw_txt = pdf_to_text.pdf_to_txt(str(pdf_path), str(ws_dir))
