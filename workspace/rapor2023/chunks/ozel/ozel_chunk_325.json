@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 325,
-  "chunk_text": "Simulatör aynı zamanda algoritma geliştirme süreci için ciddi bir alt yapı ve birikim sağlayacak ve ilerleyen projelerde kullanılacaktır. Simulatörün çıktıları olarak araçlarda dağıtılacak paketlerin rota planlamaları, araçların gün içindeki kullanım oranı, dağıtılan paket başı maliyet, taşımacılar arasında gelir paylaşım oranları parametreleri hesaplanacaktır.",
-  "char_len": 363,
-  "sentence_count": 2
-}

@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 296,
-  "chunk_text": "Bulundukları bölgede operasyonel süreçlerden sorumlu olan roller için Taşımacı Yönetim Sistemi’nde de kendi bölgelerindeki taşımacıların verilerine ve kendi bölgelerindeki performans istatistiklerine erişim sağlayabilecekleri bir yapı oluşturulacaktır. Proje çıktıları aynı zamanda HepsiJET’te taşımacı olarak rol alacak olan en uygun aday profilini belirlemeye de yardımcı olacaktır. Taşımacı Yönetim Sisteminde hem bölge müdürlüklerinde yer alan işe alım ve yönetim ekibinin hem de merkez işe alım ekibinin farklı kaynaklardan gelen başvurulara tek bir platformdan erişebileceği ve süreci yönetebileceği işe alım modülü üzerinde geliştirmeler yapılacaktır. Taşımacıların performansını artırmak için oyunlaştırma ögelerinin taşımacılık sektörü özelinde ele alınarak, taşımacı profili ve eğilimleri doğrultusunda yeni sisteme uyarlanması planlanmıştır. İ.P.5: Entegrasyon: Tahminleme algoritması, Taşımacı Yönetim Sistemi platformu ve oyunlaştırma çalışmalarının saha kullanıcı deneyimini tekilleştirme amacıyla mevcut Teslimat Yönetim Sistemi’nin web ve mobil arayüzlerine entegrasyonu planlanmıştır. Ayrıca HepsiJET’in kendi geliştirdiği raporlama sistemi ile entegrasyonu ile operasyon ekiplerinin ihtiyacı olan detay raporların ve alarm mekanizmalarının geliştirilmesi bu iş paketi kapsamında yer alacak çalışmalardır.",
-  "char_len": 1322,
-  "sentence_count": 6
-}

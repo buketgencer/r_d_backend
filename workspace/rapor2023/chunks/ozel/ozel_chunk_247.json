@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 247,
-  "chunk_text": "Veritabanı olarak PostgreSQL kullanılmaktadır. Yönetici kullanıcıların kayıtlarını girdikleri, rapor ve diğer bileşenleri oluşturdukları eylemler için yazma yetkili bir PostgreSQL veri tabanına bağlanılmakta ve sonuçlar buraya eklenmektedir.",
-  "char_len": 241,
-  "sentence_count": 2
-}

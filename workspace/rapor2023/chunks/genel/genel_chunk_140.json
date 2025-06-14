@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 140,
-  "chunk_text": "Gönderilerin çıkış noktaları mevcut Xdock’lar ya da cep depolar olacaktır. Cep depo ve Xdock entegre yönetimi sağlandığı için tüm bu lokasyonların koordinat karşılığı veritabanında tutulmaktadır. Tüm taşımacılar teslimat sırasında Android tabanlı cep telefonları üzerinde çalışan Teslimat Yönetim Sistemi Mobil Uygulaması’nı kullanmaktadır. Teslim alınan ve teslim edilen tüm gönderiler için mobil uygulama üzerinden barkod okutularak teslimat yapılmaktadır. Barkod okuma sırasında taşımacının lokasyonu da alınarak veritabanına kaydedilmektedir.",
-  "char_len": 546,
-  "sentence_count": 5
-}

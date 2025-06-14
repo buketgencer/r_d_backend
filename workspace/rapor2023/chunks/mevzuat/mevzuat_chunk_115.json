@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 115,
-  "chunk_text": "Veritabanı olarak PostgreSQL kullanılmakta ve uygulama içerisindeki obje ilişkileri, sorgular vb tüm işlemler Hibernate ve Spring Data JPA kullanılarak yönetilmektedir. Uygulama derleme ve versiyon güncelleme işlemi continuous integration mekanizması kullanılmaktadır. Kod repository olarak Atlassian Bitbucket kullanılmaktadır. Bitbucket’a kaydedilen kodlar Jenkins otomasyon sunucusu kullanılarak derlenmekte ve konfigure edilmiş iş planları kapsamında ilgili sunuculara kurulmaktadır. Bitbucket – Jenkins entegrasyonu ve Bitbucket - JIRA entegrasyonları mevcuttur. Tüm geliştirilmesi yapılacak olan işler JIRA uygulamasına proje altına kaydedilmekte ve Bitbucket’a kaydedilirken bu JIRA numaraları ile ilişkilendirilmektedir.",
-  "char_len": 728,
-  "sentence_count": 6
-}

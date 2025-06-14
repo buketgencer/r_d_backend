@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 131,
-  "chunk_text": "Proje kapsamında yapılan birinci seviye kural ve algoritma çalışmaları online market siparişlerinin seçilen zaman aralıklarında teslimatının sağlanması için kapasite planlama, rota optimizasyonu ve teslimat yönetimi uygulaması ile entegrasyonundan oluşmaktadır. Siparişlerin taşınması aşamasında taşımacılar TMS mobil uygulamasını kullanmaktadır. Mobil uygulama, siparişlerin teslim alınması, hangi sırayla ve rota ile teslim edileceği ve alıcıya teslim edilmesi aşamalarında kullanılmaktadır. Ayrıca optimizasyon algoritması taşımacılar arasında en uygun rota planlanırken aynı zamanda siparişlerin adil dağılması koşulu da dikkate alınarak kurgulanmıştır. Sipariş akışı ve planlama aşamaları web arayüzleri yardımı ile operasyon yönetimine Sayfa 42 / 99 sunulmaktadır. Böylece araçların t anındaki dolu/boş olma durumu, dağıtım planı ve lokasyonu izlenebilmektedir.",
-  "char_len": 867,
-  "sentence_count": 6
-}

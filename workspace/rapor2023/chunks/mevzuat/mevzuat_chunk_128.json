@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 128,
-  "chunk_text": "Her şey server tarafından gelen verilere göre oluşmaktadır. İndirme işlemleri de benzer mantıkla sunucu tarafından gelen binary dosyayı kullanıcı browserında download etme işlemini yapabilmektedir. Online alışveriş teslimat zamanı seçimi aşamasında müşteriler teslim almak için kendilerine en uygun zaman aralığını seçebilmektedir. Bu zaman aralıkları saatlik ya da iki saatlik zaman aralıklarından oluşmaktadır. Müşterilere siparişin teslim edileceği bölgede teslimat kapasitesinin durumu ve seçebilecekleri zaman aralıkları operasyon kapasitesine bağlıdır. Kapasitenin verimli kullanılabilmesi, gecikmelerin ve bozulmaların önlenmesi için de önem taşımaktadır.",
-  "char_len": 662,
-  "sentence_count": 6
-}

@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 145,
-  "chunk_text": "Algoritmanın dağıtım öncesinde test edilebilmesi için simülatör ile yaratılan siparişlerin kapasite yönetim algoritması tarafından taşımacılarca dağıtımının simüle edilmesini kapsamaktadır. Bu kapsamda veri simülatörü, kapasite tahminleme algoritması ve rota optimizasyonu algoritmasının entegre kullanımı planlanmıştır. İş paketi kapsamında Dar Zaman Aralıkları İçin Çoklu Araç Optimizasyon Algoritması, E-ticaret Firmaları İçin Coğrafik Kapasite Slot Algoritması ve Dinamik Değişen Günlük Kapasite Planlama Algoritmaları geliştirmeleri devam etmektedir. Müşteri Hizmetleri Modülü Yeni iş modeli teslimatları mevcut iş modeline göre daha dinamik yapıda olacağından, müşteriden gelen taleplerin de aynı ölçüde dinamik olacağı öngörülmektedir. Bu yapıda gelen talep ve şikayetlerin hızlı çözülebilmesi için Müşteri Hizmetleri departmanına veri akışının sağlanması ve haberleşme asetlerinin iyileştirilmesi gerekmektedir.",
-  "char_len": 919,
-  "sentence_count": 5
-}

@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 542,
-  "chunk_text": "Test ve Entegrasyon Bu iş paketinde back-end, front-end ve algoritmaların mevcut Teslimat Yönetim Sistemi üzerinden erişilebilir halde ayrı bir platform olarak entegrasyonu sağlanacaktır. Dağıtım merkezlerinden pilot şube olarak en uygun olanı seçilerek, projenin geliştirme sürecinde hem yazılımsal olarak hem de saha operasyonlarında taşımacılar tarafından testler yapılacaktır.",
-  "char_len": 380,
-  "sentence_count": 2
-}

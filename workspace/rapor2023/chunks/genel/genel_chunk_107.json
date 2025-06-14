@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 107,
-  "chunk_text": "Veritabanı olarak da açık kaynak kodlu PostgreSQL veritabanı kullanılmasına karar verilmiştir. Sistemde hazırlanan raporlar daha önce kendi geliştirdiğimiz raporlama altyapısı üzerinde gerçekleştirilecektir. Mobil uygulamada da Android Studio alt yapımızın kullanımına devam edilmesine karar verilmiştir. İ.P.2 : Veri Simülatörü Veri simülatörü, mevcut sipariş verisi ve yeni iş modelinden gelecek sipariş öngörüleri birlikte düşünülerek oluşacak hacmin dağılımını tahmin etmektedir. Poisson Dağılımı’nın, zaman içindeki olayların oluşumunu açıklamaya imkan tanıması nedeniyle, ön araştırmalarda dağıtım verisinin Poisson Dağılımı kullanılarak tahminlenmesinin uygun olacağı gözlemlenmiştir.",
-  "char_len": 691,
-  "sentence_count": 5
-}

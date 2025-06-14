@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 161,
-  "chunk_text": "Projenin Projede cep depolardan yapılan dar zaman aralıklı teslimatlarla HepsiJET’in şu anki kargo modelinin verimli Yenilikçi şekilde konsolide edilmesi planlanmaktadır. Bu durum Türkiye’deki geleneksel kargo hizmeti ile hızlı teslimat Yönü ve Ar- hizmetlerinin iş modellerinin birleştirilmesi açısından ilk kez çalışılacak bir problemdir. Rota optimizasyonu, Ge Niteliği araç kapasite planlaması ve e-ticaret sitesi için slotlu kapasite gösteriminin bir arada yapıldığı optimizasyon problemi bulunmaktadır. Simulasyon sayesinde algoritmaların istenilen çeşitli sayıda veri kümesi için çalıştırılması sağlanacak ve çok daha gerçekçi sonuçlar üretilmesi sağlanacaktır. Simulatör aynı zamanda algoritma geliştirme süreci için ciddi bir alt yapı ve birikim sağlayacak ve ilerleyen projelerde kullanılacaktır. Simulatörün çıktıları olarak araçlarda dağıtılacak paketlerin rota planlamaları, araçların gün içindeki kullanım oranı, dağıtılan paket başı maliyet, taşımacılar arasında gelir paylaşım oranları parametreleri hesaplanacaktır.",
-  "char_len": 1032,
-  "sentence_count": 6
-}

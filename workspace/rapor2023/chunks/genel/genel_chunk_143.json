@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 143,
-  "chunk_text": "Bu sayede gönderilerin taşımacılara atanması aşamasında taşımacının çalışma bölgesi, gönderi alım/teslimat adresleri dikkate alınarak atama yapılması mümkün olmuştur. Xdock’lardan gönderiler slot başlangıç saatlerinde teslim alınarak gün içerisinde dağıtılmaktadır. Araçlar yola çıkmadan önce dağıtım bölgelerindeki tüm gönderileri teslim alarak Xdock sorumlusunun sefer çıkış onayı sonrası dağıtıma başlamaktadır. Bu aşamada gelen tüm gönderiler dikkate alınarak, cep depolardan teslim alınacak gönderiler tekrar gözden geçirilecektir. Algoritmanın dağıtım öncesinde test edilebilmesi için simülatör ile yaratılan siparişlerin kapasite yönetim algoritması tarafından taşımacılarca dağıtımının simüle edilmesini kapsamaktadır.",
-  "char_len": 726,
-  "sentence_count": 5
-}

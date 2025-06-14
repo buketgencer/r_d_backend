@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 218,
-  "chunk_text": "Genel olarak siparişin oluşma zamanı ve oluşma sayısını tahmin etme ihtiyacımız olduğundan, bu veriler tahminleme aşamasında kullanılmıştır. Simülatör geliştirmesinde veri üretme aşaması Python dilinde geliştirilmiştir.",
-  "char_len": 219,
-  "sentence_count": 2
-}

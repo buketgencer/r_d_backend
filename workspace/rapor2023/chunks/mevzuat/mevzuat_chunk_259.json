@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 259,
-  "chunk_text": "Veriler ile yapılan analizlerde yeni bir sistem ihtiyacının olduğu, eksiklerle birlikte tespit edilmiştir. Teknik analiz çalışmaları ile mevcut ve yeni sistem arasındaki bağlantı ve farklar, algoritma girdi – çıktılarının belirlenmesi ve entegrasyon planı dokümante edilerek yazılım ve algoritma geliştirme ekipleri ile paylaşılacaktır. Literatür Taraması Çalışmaları Taşımacıların çalışma bölgelerinin taşımacı ve bölgesel bazlı kısıtlar yardımıyla bölünebilmesi için literatürdeki “Territory Planning Problem” konulu araştırmalar ve atama algoritmaları incelenecektir. Bu kapsamda yinelemeli bölümleme algoritması, stokastik araç rotalama problemi, araç rotalama ve bölge belirleme problemi, gezgin satıcı problemi, satış bölgesi problemleri’nin incelenmesi hedeflenmiştir. Makine öğrenmesi çalışmaları için de K- means ve metaheuristik algoritmalar detaylı incelenecektir. MVP HepsiJET şube ve taşımacı sayısı her geçen gün artmaktadır.",
-  "char_len": 939,
-  "sentence_count": 6
-}

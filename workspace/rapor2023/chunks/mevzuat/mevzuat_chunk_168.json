@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 168,
-  "chunk_text": "Dinamik olarak uygulanması durumunda algoritmanın sistemin mevcut durumunu sürekli takip ediyor olması (hangi taşımacı şu an nerede, hangi teslimatları tamamladı) beklenecek ve gelen yeni siparişleri mevcut rotaların uygun yerlerine benzer boz-tamir et yöntemleri ile eklemesi söz konusu olacaktır. Statik durumdan farklı olarak dinamik ALNS algoritmasının çok hızlı çalışması ve sonuç üretmesi gerekecektir. Zira 1 saat gibi bir süre içinde teslim edilmesi gereken sipariş veya siparişlerin çok hızlı bir şekilde ilgili en uygun araca atanarak teslimat aktivitesinin başlatılması gerekmektedir. ALNS yaklaşımı aynı zamanda bahsi geçen diğer teslimat kısıtlarını da dikkate alarak bir çözüm üretmesi gerekecektir. Bu nedenle dinamik ALNS algoritmasının tam optimizasyon yoluna gitmek yerine mevcut çözümü en ekonomik şekilde revize etmesi yaklaşımı tercih edilecektir. Sayfa 44 / 99 Projenin Ülkemizde gittikçe büyüyen e-ticaret sektöründeki problemlerden biri olan teslimatta zaman pencerelerine Beklenen uyum konusuna yenilikçi yaklaşımı çözüm oluşturacaktır.",
-  "char_len": 1061,
-  "sentence_count": 6
-}

@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 235,
-  "chunk_text": "Böylece hangi kod parçasının hangi iş geliştirmesi için yapıldığı takip edilebilmektedir. Uygulamalar, development (geliştirme test), uat (kullanıcı test) ve production (canlı) ortamlardaki sunucularda her daim ulaşılabilir durumdadır.",
-  "char_len": 235,
-  "sentence_count": 2
-}

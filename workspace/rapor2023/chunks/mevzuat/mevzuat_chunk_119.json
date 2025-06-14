@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 119,
-  "chunk_text": "Yazılımcılar geliştirme işlerini canlı ortam kodlarından bir kopya olarak oluşturdukları feature ortamlarda geliştirirmekte ve test ekibine göndermektedir. Testten geçen tüm feature geliştirmeleri sırayla development, uat ve tüm testlerden ve onaylardan geçtikten sonra da canlı ortama aktarılırlar. Bitbucket altında ayrı bir proje alanında frontend (önyüz) uygulama kodları kayıtlıdır. Önyüz geliştirmeleri Angular ve FuseBox frameworkleri ile javascript ve typescript kullanılarak geliştirilmiştir. Proje içerisindeki tüm iş mantıkları ve nesne geliştirmeler dist dizini altında bulunmaktadır. Bitbucket’a kaydedilen kodlar, sunucu tarafında olduğu gibi Jenkins tarafından otomatik olarak derlenir.",
-  "char_len": 701,
-  "sentence_count": 6
-}

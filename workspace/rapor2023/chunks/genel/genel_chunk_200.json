@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 200,
-  "chunk_text": "İş paketi kapsamında taşımacı mega şube yapılanması, akıllı limit yönetimi ve kayıp/hasar yönetimi geliştirmelerinin yapılması planlanmıştır. Mega Şube yapısı ile tek lokasyonda hem transfer merkezi hem de dağıtım merkezi hizmeti verilebilmesi hedeflenmiştir. Bu sistemin tasarlanabilmesi için şube, transfer merkezi ve sefer yapılarında köklü değişikliklerin yapılması gerekmektedir. Sistemde kurgulanacak parent-child yapısı ile mevcut şube ve transfer merkezi yapısını bozmadan geliştirilmesi planlanmıştır. Hem transfer merkezi hem de şube olarak kullanılacak Mega Şube yapısı sayesinde paketlerin ayrıştırma için transfer merkezlerine taşınması yerine Mega Şubelerde ayrıştırılarak varış merkezine gönderilmesi ile operasyonel verimlilik ve teslimat hızında artış sağlanması hedeflenmiştir.",
-  "char_len": 795,
-  "sentence_count": 5
-}

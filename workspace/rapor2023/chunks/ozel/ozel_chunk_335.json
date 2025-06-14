@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 335,
-  "chunk_text": "Dinamik olarak uygulanması durumunda algoritmanın sistemin mevcut durumunu sürekli takip ediyor olması (hangi taşımacı şu an nerede, hangi teslimatları tamamladı) beklenecek ve gelen yeni siparişleri mevcut rotaların uygun yerlerine benzer boz-tamir et yöntemleri ile eklemesi söz konusu olacaktır. Statik durumdan farklı olarak dinamik ALNS algoritmasının çok hızlı çalışması ve sonuç üretmesi gerekecektir.",
-  "char_len": 408,
-  "sentence_count": 2
-}

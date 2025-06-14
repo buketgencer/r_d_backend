@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 333,
-  "chunk_text": "Gelen siparişlerin stokastik olarak ele alınması ve rotalara atanması gerektiğinden halihazırda geliştirilmiş olan ALNS algoritmasının gün içerisinde sürekli çalışması ve dinamik kararlar vermesi, ve bu kararların da teslimatları gerçekleştiren taşımacılara iletilmesi, taşımacıların revize edilen rotaları uygulamaya geçirmesi beklenmektedir. ALNS yaklaşımı, statik olarak uygulandığında gelen siparişlerin bir ilk çözüm oluşturduktan sonra boz-tamir et yöntemleri ile sürekli iyileştirilmesi prensibine dayanır.",
-  "char_len": 513,
-  "sentence_count": 2
-}

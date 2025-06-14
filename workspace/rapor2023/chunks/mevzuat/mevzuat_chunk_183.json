@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 183,
-  "chunk_text": "Sorter kurulumu için transfer merkezlerine keşif ziyaretleri yapılmıştır. Sadece ayrıştırma değil, araç yükleme ve boşaltma sürelerini kapsayan bir çözüm tasarlanmıştır. Teknoloji olarak Teslimat Yönetim Sistemi alt yapımızda kullanılan Java Spring ve Angular yapısı üzerinde çalışılması kararlaştırılmıştır. Ayrıca önyüz geliştirmelerinde React dönüşümü planlanmıştır. Veritabanı olarak da açık kaynak kodlu PostgreSQL veritabanı kullanılmasına karar verilmiştir. Sistemde hazırlanan raporlar daha önce kendi geliştirdiğimiz raporlama altyapısı üzerinde gerçekleştirilecektir.",
-  "char_len": 577,
-  "sentence_count": 6
-}

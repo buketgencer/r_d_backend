@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 116,
-  "chunk_text": "Kod repository olarak Atlassian Bitbucket kullanılmaktadır. Bitbucket’a kaydedilen kodlar Jenkins otomasyon sunucusu kullanılarak derlenmekte ve konfigure edilmiş iş planları kapsamında ilgili sunuculara kurulmaktadır. Bitbucket – Jenkins entegrasyonu ve Bitbucket - JIRA entegrasyonları mevcuttur. Tüm geliştirilmesi yapılacak olan işler JIRA uygulamasına proje altına kaydedilmekte ve Bitbucket’a kaydedilirken bu JIRA numaraları ile ilişkilendirilmektedir. Böylece hangi kod parçasının hangi iş geliştirmesi için yapıldığı takip edilebilmektedir.",
-  "char_len": 549,
-  "sentence_count": 5
-}

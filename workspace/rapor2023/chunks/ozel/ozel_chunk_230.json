@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 230,
-  "chunk_text": "Uygulama derleme ve versiyon güncelleme işlemi continuous integration mekanizması kullanılmaktadır. Kod repository olarak Atlassian Bitbucket kullanılmaktadır.",
-  "char_len": 159,
-  "sentence_count": 2
-}

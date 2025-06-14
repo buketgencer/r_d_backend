@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 167,
-  "chunk_text": "Gelen siparişlerin stokastik olarak ele alınması ve rotalara atanması gerektiğinden halihazırda geliştirilmiş olan ALNS algoritmasının gün içerisinde sürekli çalışması ve dinamik kararlar vermesi, ve bu kararların da teslimatları gerçekleştiren taşımacılara iletilmesi, taşımacıların revize edilen rotaları uygulamaya geçirmesi beklenmektedir. ALNS yaklaşımı, statik olarak uygulandığında gelen siparişlerin bir ilk çözüm oluşturduktan sonra boz-tamir et yöntemleri ile sürekli iyileştirilmesi prensibine dayanır. Dinamik olarak uygulanması durumunda algoritmanın sistemin mevcut durumunu sürekli takip ediyor olması (hangi taşımacı şu an nerede, hangi teslimatları tamamladı) beklenecek ve gelen yeni siparişleri mevcut rotaların uygun yerlerine benzer boz-tamir et yöntemleri ile eklemesi söz konusu olacaktır. Statik durumdan farklı olarak dinamik ALNS algoritmasının çok hızlı çalışması ve sonuç üretmesi gerekecektir. Zira 1 saat gibi bir süre içinde teslim edilmesi gereken sipariş veya siparişlerin çok hızlı bir şekilde ilgili en uygun araca atanarak teslimat aktivitesinin başlatılması gerekmektedir. ALNS yaklaşımı aynı zamanda bahsi geçen diğer teslimat kısıtlarını da dikkate alarak bir çözüm üretmesi gerekecektir.",
-  "char_len": 1227,
-  "sentence_count": 6
-}

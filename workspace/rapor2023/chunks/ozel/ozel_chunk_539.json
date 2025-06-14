@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 539,
-  "chunk_text": "Harita çözümleri ve adreslerin grid bazlı karşılıklarının bulunması ve veritabanında tututan adres yapısına getireceği değişiklikler de proje kapsamında yapılacaktır. Otonom olarak oluşturulan ve elle düzeltilebilen yeni gridlerle, makine öğrenmesiyle günlük olarak analizi yapılarak daha adil ve daha verimli bölünmelerin oluşturulması, bir sonraki gün ve haftanın tahminlerinin de yapılarak taşımacı çalışma alanlarında güncellemelerin yapılabilmesi planlanmaktadır.",
-  "char_len": 468,
-  "sentence_count": 2
-}

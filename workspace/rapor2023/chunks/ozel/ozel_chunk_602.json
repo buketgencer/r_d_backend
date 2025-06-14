@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 602,
-  "chunk_text": "Taşımacıların teslim ettikleri paket sayıları, hedef noktalarına uğrama sayıları, teslimatlar arasında Çıktıları ve geçen süreler, ürünlerin dağıtım süreleri, günlük tamamlanan ortalama km mesafesi ve taşımacılara verilen Faydaları günlük hedef bölge büyüklüğü taşımacıların verimliliğini hesaplamada kullanılacak veri setleridir. Hesaplanan taşımacı verimlilik değeri operasyona verilecek izleme ekranlarına düşecek ve verimsiz olan taşımacılar filtrelenebilecektir.",
-  "char_len": 467,
-  "sentence_count": 2
-}

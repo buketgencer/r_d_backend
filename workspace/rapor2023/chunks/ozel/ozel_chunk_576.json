@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 576,
-  "chunk_text": "İ.P.3: Veri Analizi ve Tahminleme Algoritması Geliştirmesi: Bu iş paketi kapsamında hesaplanan taşımacı dağıtım istatistikleri ile en uygun sayıda taşımacı tipleri tespit edilip benzer dağıtım performanslarına sahip taşımacıların kümelenmesi sağlanacaktır. Bu şekilde, her bir taşımacı tipi için dağıtım tahminleme ve davranış analizi modellerinin geliştirilmesi hedeflenmektedir.",
-  "char_len": 380,
-  "sentence_count": 2
-}

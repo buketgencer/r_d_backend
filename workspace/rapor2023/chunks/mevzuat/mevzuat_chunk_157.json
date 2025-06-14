@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 157,
-  "chunk_text": "Canlıya alım öncesinde tüm entegre sistemin performansının test edilmesi planlanmıştır. Ayrıca güvenlik testleri yapılarak, olası güvenlik açıkları belirlenerek canlıya çıkmadan öncesinde gerekli önlemlerin alınması planlanmıştır. Proje kapsamında hızlı teslimat hizmetleri sunulacağı için zaman çok kritik bir parametredir. Bu nedenle sistem performansını minimum maliyet ile istenen seviyede tutmak için gerekli çalışmalar yapılacaktır. Veri modeli mevcut operasyon verisini bozmayacak şekilde yeni teslimat modelleri ile entegre çalışacak şekilde tasarlanacaktır. Güvenlik önlemleri için gerekli testlerin belirlenmesi ve altyapı çalışmaları gerçekleştirilecektir.",
-  "char_len": 667,
-  "sentence_count": 6
-}

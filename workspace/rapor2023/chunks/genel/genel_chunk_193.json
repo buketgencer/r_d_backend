@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 193,
-  "chunk_text": "İ.P.3: Katma Değerli Hizmetler Katma değerli hizmetler iş paketinde adres çözümleme ve rota optimizasyon algoritmalarının da yardımı ile müşteriler için fark yaratan teslimat hizmetlerinin sunulması çalışmaları planlanmıştır. Bu kapsamda adresten randevulu iade alımı, teslimatta canlı takip ve alternatif teslimat adresine bırakma seçeneği sunulması, kapıda nakit ödeme ve ağır ürünlerin taşınması hizmetlerinin sunulması için gerekli sistemsel altyapının geliştirilmesi çalışmaları yapılacaktır. Pandemi döneminde müşteri tarafından iade edilmek istenen ürünlerin şubeye bırakılması oldukça zorlaşmıştır. HepsiJET bu dönemde müşterinin belirlediği gün ve saatte adresten iade teslim hizmetini devreye alarak iade hizmetlerinde müşterilere büyük bir kolaylık sağlamıştır. İadeleri söz verilen zamanda adresten teslim alabilmek için, iade toplamaları da rota optimizasyonu algoritması yardımıyla taşımacıların günlük rotalarına eklenmiştir.",
-  "char_len": 940,
-  "sentence_count": 5
-}

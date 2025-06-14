@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 142,
-  "chunk_text": "Barkod okuma sırasında taşımacının lokasyonu da alınarak veritabanına kaydedilmektedir. Bu sayede taşımacının günlük olarak teslimat konumları tespit edilebilmektedir. Bu sayede gönderilerin taşımacılara atanması aşamasında taşımacının çalışma bölgesi, gönderi alım/teslimat adresleri dikkate alınarak atama yapılması mümkün olmuştur. Xdock’lardan gönderiler slot başlangıç saatlerinde teslim alınarak gün içerisinde dağıtılmaktadır. Araçlar yola çıkmadan önce dağıtım bölgelerindeki tüm gönderileri teslim alarak Xdock sorumlusunun sefer çıkış onayı sonrası dağıtıma başlamaktadır. Bu aşamada gelen tüm gönderiler dikkate alınarak, cep depolardan teslim alınacak gönderiler tekrar gözden geçirilecektir.",
-  "char_len": 704,
-  "sentence_count": 6
-}

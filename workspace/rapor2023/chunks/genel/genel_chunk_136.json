@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 136,
-  "chunk_text": "Bu iş paketinde ise e-ticaret gönderileri ve cep depolardan çıkacak gönderilerin entegre düşünülerek kapasite planlama ve optimizasyon çalışmaları yapılmıştır. Kapasite planlama için makine öğrenmesi teknikleri ile kapasite tahminleme yöntemleri üzerinde çalışılmıştır. Rota optimizasyonu çalışmalarında ise mevcutta geliştirilen statik rota optimizasyonu yaklaşımı, gün içerisinde değişen talebi karşılayabilmek için dinamik rota optimizasyonu problemine bırakmıştır. İleri seviye kapasite ve optimizasyon kurallarını tanımlayabilmek için taşımacı davranışı da göz önünde bulundurularak operasyon detaylı analiz edilmiştir. Ek olarak ürün bazlı ve araç bazlı kısıtlar belirlenmiştir.",
-  "char_len": 684,
-  "sentence_count": 5
-}

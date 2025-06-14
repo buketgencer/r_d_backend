@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 130,
-  "chunk_text": "Müşterilere siparişin teslim edileceği bölgede teslimat kapasitesinin durumu ve seçebilecekleri zaman aralıkları operasyon kapasitesine bağlıdır. Kapasitenin verimli kullanılabilmesi, gecikmelerin ve bozulmaların önlenmesi için de önem taşımaktadır. Proje kapsamında yapılan birinci seviye kural ve algoritma çalışmaları online market siparişlerinin seçilen zaman aralıklarında teslimatının sağlanması için kapasite planlama, rota optimizasyonu ve teslimat yönetimi uygulaması ile entegrasyonundan oluşmaktadır. Siparişlerin taşınması aşamasında taşımacılar TMS mobil uygulamasını kullanmaktadır. Mobil uygulama, siparişlerin teslim alınması, hangi sırayla ve rota ile teslim edileceği ve alıcıya teslim edilmesi aşamalarında kullanılmaktadır.",
-  "char_len": 743,
-  "sentence_count": 5
-}

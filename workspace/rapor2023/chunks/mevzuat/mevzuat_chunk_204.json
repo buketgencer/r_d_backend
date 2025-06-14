@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 204,
-  "chunk_text": "Bu kapsamda limit yönetiminin şube bazında mahallelerin aç/kapa yapısı ile yönetilmesi planlanmıştır. HepsiJET’in tüm ürün tipleri dikkate alınarak mevcut kapasitesi ve geçmiş teslimatların coğrafi dağılımı dikkate alınarak artan kapasitenin dağılımı ve üst limitleri tahminleme algoritmaları ile belirlenecektir. Böylece kapasitenin üzerinde sipariş istemi e-ticaret firmaları ile entegrasyon servislerine bilgi iletilerek ilgili bölgeye sipariş akışının durdurulması mümkün olacaktır. Limit yönetim ekranları aynı zamanda şube ve satış ekiplerinin yönetiminde değişiklikler yapılmasına elverişli şekilde tasarlanacaktır. Gönderi kabulünün limitlere bağlı olması iş ortaklarımızın t anında ilgili gönderim bölgesi için limit sorgulama ihtiyaçlarını doğuracaktır. Bunun için, entegrasyon servisleri yapısına yeni alanlar eklenerek mahalle bazlı limit bilgilerinin de yanıt olarak dönmesi sağlanacaktır.",
-  "char_len": 902,
-  "sentence_count": 6
-}

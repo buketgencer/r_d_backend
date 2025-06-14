@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 125,
-  "chunk_text": "Diğer kullanıcılar ve ekran görüntüleme amaçlı işlemler için ise ana uygulamamız olan TMS veri tabanının bir kopyası olan ve değişiklikleri 100ms gibi kısa bir sürede alan (Read Only Standby) veri tabanına bağlanılmakta ve veriler buradan alınmaktadır. Böylece canlı veri tabanına sorgu göndermeyerek bir yük oluşturmaktan kaçınılmış ve performans anlamında sisteme zarar verilmesinin önüne geçilmiştir. Sunucu tarafı e-posta gönderme, SQL sorgularından Excel dosyası oluşturma, kullanıcı tarafında değiştirilen filtrelere göre sorguları düzenleme, veri tabanına bağlanma gibi servisleri gerçekleştirilir. İstemci tarafından talep edilen eylemlere göre ilgili rapor vb. komponentlara ait konfigürasyonları ve sorguları veri tabanından çekip, istemci tarafından gelen filtreleri girdi olarak kullanarak yine istemci tarafına istenen veriler gönderilir. İstemci tarafında web tabanlı React, Redux temelli bir yazılım geliştirilmiştir. Bu yazılım kullanıcı sisteme başarılı giriş yaptığında yetkisi dahilinde görmesi gereken menüleri, menü linklerini ve ilk açılan sayfayı sunucu tarafından gelen konfigürasyon dosyasından okur. İlgili rapor, ya da dashboardlar açıldığında, yine sunucu tarafından gelen json formatında konfigürasyona göre filtreleri, filtre öndeğerlerini, tablo kolonlarını otomatik olarak oluşturur.",
-  "char_len": 1315,
-  "sentence_count": 6
-}

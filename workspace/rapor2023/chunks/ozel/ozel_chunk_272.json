@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 272,
-  "chunk_text": "Kapasite planlama için makine öğrenmesi teknikleri ile kapasite tahminleme yöntemleri üzerinde çalışılmıştır. Rota optimizasyonu çalışmalarında ise mevcutta geliştirilen statik rota optimizasyonu yaklaşımı, gün içerisinde değişen talebi karşılayabilmek için dinamik rota optimizasyonu problemine bırakmıştır.",
-  "char_len": 308,
-  "sentence_count": 2
-}

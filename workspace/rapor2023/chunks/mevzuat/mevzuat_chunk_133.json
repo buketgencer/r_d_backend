@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 133,
-  "chunk_text": "Sipariş akışı ve planlama aşamaları web arayüzleri yardımı ile operasyon yönetimine Sayfa 42 / 99 sunulmaktadır. Böylece araçların t anındaki dolu/boş olma durumu, dağıtım planı ve lokasyonu izlenebilmektedir. Sistemin bu hassasiyette kurgulanabilmesi için optimizasyon algoritması geliştirilerek, dağıtım ve kapasite yönetimi bu modele dayanarak yapılmaktadır. Sistem çok sayıda online satış platformu ve farklı taşıma modlarını kapsayacak şekilde tasarlanmıştır. Teslimat Yönetim Sistemi aynı zamanda raporlama ortamları sayesinde detaylı operasyon raporlarının hazırlanması ve kritik konularda alarm üretilmesini sağlamaktadır. Optimizasyon ve Kapasite Yönetimi Geliştirilen ilk kapasite kuralları ve optimizasyon çalışması Xdock ve cep depolardan teslimatın ayrı ayrı optimize edilmesi çalışmalarını kapsamaktadır.",
-  "char_len": 818,
-  "sentence_count": 6
-}

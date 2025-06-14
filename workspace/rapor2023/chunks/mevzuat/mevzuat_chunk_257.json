@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 257,
-  "chunk_text": "İncelemelere ek olarak saha operasyon yetkililerin geribildirimleri doğrultusunda yeni bir yapının oluşturulması için teknik analiz çalışmaları yapılacaktır. Mevcut yapının kampanya dönemlerindeki büyük hacim değişimlerindeki zayıf performansa ve taşımacılar arasında adil olmayan paylaşımlara yol açtığı görülmüştür. Şube yetkililerinin çalışma alanlarını manuel oluşturmaları, mevcut yapıda mahalle büyüklükleri ve gönderi yoğunluklarının farklılık göstermesi nedeniyle bölgelerin adaletsiz dağıldığı ve saha operasyonunun yavaşladığı görülmüştür. Veritabanında çalışma alanları ve bağlı oldukları mahalleler, gönderi çeşitleri, zaman dilimleri, gönderi miktarları, taşımacı bilgileri gibi bilgiler kaydedilmektedir. Veriler ile yapılan analizlerde yeni bir sistem ihtiyacının olduğu, eksiklerle birlikte tespit edilmiştir. Teknik analiz çalışmaları ile mevcut ve yeni sistem arasındaki bağlantı ve farklar, algoritma girdi – çıktılarının belirlenmesi ve entegrasyon planı dokümante edilerek yazılım ve algoritma geliştirme ekipleri ile paylaşılacaktır.",
-  "char_len": 1055,
-  "sentence_count": 6
-}

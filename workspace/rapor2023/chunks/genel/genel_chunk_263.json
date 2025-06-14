@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 263,
-  "chunk_text": "Analiz sonrasında mevcut yapıyı bozmadan mahalle bazlı atama yapan bir algoritma geliştirilerek sahada çalışma alanları algoritma çıktısına göre düzenlenerek performans izlenecektir. Sistemsel izlemeye ek olarak değişime karşılık şube sorumlusu ve taşımacıların olumlu/olumsuz geri bildirimleri alınarak nihai ürün için zemin hazırlanacaktır. Algoritma Geliştirme ve Teslimat Yönetim Sistemi Konfigürasyonu Çalışma alanlarının otonom olarak oluşturulabilmesi ve sahada kullanımı için algoritma ve Teslimat Yönetim Sistemi’nin entegre kullanımı Sayfa 55 / 99 planlanmıştır. Saha dinamiklerini göz önünde bulundurarak, taşımacı öğrenme eğrisi, yeni taşımacının sisteme alışması gibi parametreler dikkate alınarak çözüm tasarımı yapılacaktır. Bu kapsamda sahadaki mevcut yapı göz önüne alınarak algoritma girdileri için şubeye bağlı çalışan taşımacı bilgileri, mevcutta çalışılan mahalleler, sipariş bilgileri; çıktılar olarak da taşımacı bilgileri, taşımacıya atananlar olarak gridler ile oluşan alanlar ve zamana, miktara ve çeşidine göre sınıflandırılmış gönderiler planlanmıştır.",
-  "char_len": 1080,
-  "sentence_count": 5
-}

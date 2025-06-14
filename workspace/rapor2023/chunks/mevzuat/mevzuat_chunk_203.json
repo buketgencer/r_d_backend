@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 203,
-  "chunk_text": "Mevcutta limit kontrolü e-ticaret firmaları ile prensipte anlaşılarak, e-ticaret firması sisteminde koyulan limitler ile yapılmaktadır. HepsiJET tarafında limit yönetimi yapısı bulunmamaktadır. Bu kapsamda limit yönetiminin şube bazında mahallelerin aç/kapa yapısı ile yönetilmesi planlanmıştır. HepsiJET’in tüm ürün tipleri dikkate alınarak mevcut kapasitesi ve geçmiş teslimatların coğrafi dağılımı dikkate alınarak artan kapasitenin dağılımı ve üst limitleri tahminleme algoritmaları ile belirlenecektir. Böylece kapasitenin üzerinde sipariş istemi e-ticaret firmaları ile entegrasyon servislerine bilgi iletilerek ilgili bölgeye sipariş akışının durdurulması mümkün olacaktır. Limit yönetim ekranları aynı zamanda şube ve satış ekiplerinin yönetiminde değişiklikler yapılmasına elverişli şekilde tasarlanacaktır.",
-  "char_len": 816,
-  "sentence_count": 6
-}

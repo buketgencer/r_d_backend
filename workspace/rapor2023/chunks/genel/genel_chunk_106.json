@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 106,
-  "chunk_text": "Bununla beraber operasyonel ve müşteri plan değişikliklerinde meydana gelen istisnalar ile ilgili yapılar kurulması gereksinimi ortaya çıkmıştır. Teknoloji olarak Teslimat Yönetim Sistemi alt yapımızda kullanılan Java Spring ve Angular yapısı üzerinde çalışılması kararlaştırılmıştır. Veritabanı olarak da açık kaynak kodlu PostgreSQL veritabanı kullanılmasına karar verilmiştir. Sistemde hazırlanan raporlar daha önce kendi geliştirdiğimiz raporlama altyapısı üzerinde gerçekleştirilecektir. Mobil uygulamada da Android Studio alt yapımızın kullanımına devam edilmesine karar verilmiştir.",
-  "char_len": 589,
-  "sentence_count": 5
-}

@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 48,
-  "chunk_text": "Bu yaklaşımla ürüne/projeye katma değer sağlayan özellikler arasında projeye en çok katkı sağlayan ve daha az yazılım geliştirme maliyeti olan özelliklere öncelik verilmesinin sağlanması amaçlanmıştır. Minimum Ürün Yaklaşımı Proje geliştirilirken müşterinin/kullanıcının işini görecek olan en yalın ve en sade ürünün bir an önce müşterinin karşısına çıkarılması hedeflenmiştir. Bu yaklaşımla karmaşık ve büyük proje planları yerine öncelikle müşterinin ihtiyacını karşılayacak minimum ürünün çıkarılması, daha sonra da ana proje planına ve müşteri beklentilerine göre ürüne eklenecek özelliklerin ve üründe yapılacak değişikliklerin planlanması gerekir. Bu yaklaşım harcanan eforun hedefini mümkün olduğunca doğru bulması açısından faydalıdır. Proje Takibi ve Kurumsal Hafıza Projeler süresince görevler JIRA’da hazırlanan gösterge paneli üzerinden takip edilmektedir. Böylece yapılan tüm çalışmalar ve ekler kurumsal hafzada saklanmaktadır.",
-  "char_len": 941,
-  "sentence_count": 6
-}

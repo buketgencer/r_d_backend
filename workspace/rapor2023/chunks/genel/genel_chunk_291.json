@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 291,
-  "chunk_text": "Müşteri memnuniyeti açısından ürünlerin söz verilmiş tarih aralığında teslim edilmesi büyük bir önem taşımaktadır. Bundan dolayı taşımacı davranış modelinde “hedef noktaya uğrama sayısı” tahminlemeye etki edecek önemli bir etken olarak yer alacaktır. Taşımacı, teslimat noktasında ulaşamadığı alıcıya gün içerisinde ikinci kere uğramadığında mobil uygulama üzerinden uyarı mekanizmalarının geliştirilmesi ve uğrama sayılarının operasyona raporlanması sağlanacaktır. Taşımacının sunmuş olduğu hizmete yönelik olan müşteri memnuniyeti anketleri ile nihai alıcılar HepsiJET taşımacısından aldıkları hizmeti puanlayabiliyor ve yorumda bulunabiliyor. Bu puanlama ve yorumlar doğal dil işleme çalışmalarıyla analiz edilerek taşımacıların skor kartlarına eklenecektir.",
-  "char_len": 761,
-  "sentence_count": 5
-}

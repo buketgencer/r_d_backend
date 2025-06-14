@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 108,
-  "chunk_text": "Mobil uygulamada da Android Studio alt yapımızın kullanımına devam edilmesine karar verilmiştir. İ.P.2 : Veri Simülatörü Veri simülatörü, mevcut sipariş verisi ve yeni iş modelinden gelecek sipariş öngörüleri birlikte düşünülerek oluşacak hacmin dağılımını tahmin etmektedir. Poisson Dağılımı’nın, zaman içindeki olayların oluşumunu açıklamaya imkan tanıması nedeniyle, ön araştırmalarda dağıtım verisinin Poisson Dağılımı kullanılarak tahminlenmesinin uygun olacağı gözlemlenmiştir. Genel olarak siparişin oluşma zamanı ve oluşma sayısını tahmin etme ihtiyacımız olduğundan, bu veriler tahminleme aşamasında kullanılmıştır. Simülatör geliştirmesinde veri üretme aşaması Python dilinde geliştirilmiştir. Verilerin görüntülenmesi için geliştirilecek arayüzlerde Python ve Qt arayüz kütüphanesi kullanılmıştır.",
-  "char_len": 808,
-  "sentence_count": 6
-}

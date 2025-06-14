@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 326,
-  "chunk_text": "Simulatörün çıktıları olarak araçlarda dağıtılacak paketlerin rota planlamaları, araçların gün içindeki kullanım oranı, dağıtılan paket başı maliyet, taşımacılar arasında gelir paylaşım oranları parametreleri hesaplanacaktır. Cep depolardan yapılan hızlı teslimatlarda müşteri memnuniyetinin sağlanması için teknolojinin, taşımacıların mobil uygulamasının yüksek oranda kullanıldığı bir iletişim ve istisna kurgusu yaratılacaktır.",
-  "char_len": 430,
-  "sentence_count": 2
-}

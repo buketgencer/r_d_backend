@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 260,
-  "chunk_text": "Literatür Taraması Çalışmaları Taşımacıların çalışma bölgelerinin taşımacı ve bölgesel bazlı kısıtlar yardımıyla bölünebilmesi için literatürdeki “Territory Planning Problem” konulu araştırmalar ve atama algoritmaları incelenecektir. Bu kapsamda yinelemeli bölümleme algoritması, stokastik araç rotalama problemi, araç rotalama ve bölge belirleme problemi, gezgin satıcı problemi, satış bölgesi problemleri’nin incelenmesi hedeflenmiştir. Makine öğrenmesi çalışmaları için de K- means ve metaheuristik algoritmalar detaylı incelenecektir. MVP HepsiJET şube ve taşımacı sayısı her geçen gün artmaktadır. Mevcut şubelerde kullanılan yapıyı tümüyle değiştirmeden önce kullanıcı yaklaşımını anlamak ve en uygun çözümü üretmek amacıyla minimum ürün yaklaşımı ile pilot çalışma hedeflenmiştir.",
-  "char_len": 787,
-  "sentence_count": 5
-}

@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 265,
-  "chunk_text": "Bu kapsamda sahadaki mevcut yapı göz önüne alınarak algoritma girdileri için şubeye bağlı çalışan taşımacı bilgileri, mevcutta çalışılan mahalleler, sipariş bilgileri; çıktılar olarak da taşımacı bilgileri, taşımacıya atananlar olarak gridler ile oluşan alanlar ve zamana, miktara ve çeşidine göre sınıflandırılmış gönderiler planlanmıştır. Algoritma mevcutta input olarak verilen mahalleleri çıktı olarak gridlere dönüştürecek, böylece mahalle ve sokaklardan bağımsız bir yapıya geçilmiş olacaktır. Gridler çeşitli büyüklüklerde olup, daha kompakt ve küçük alanların da oluşmasına olanak sağlayacaktır. Gridler içerisinde toplanan gönderilerin takibi ve planlaması daha verimli ve hızlı olacağı öngörülmektedir. Algoritmanın oluşturacağı alanların tekrar oluşturulabilmesi ve geliştirilecek harita üzerinden ilk versiyonlarda oluşabilecek darboğazların elle yapılabilecek müdahalelerle aşılabileceği bir arayüz planlanmaktadır.",
-  "char_len": 928,
-  "sentence_count": 5
-}

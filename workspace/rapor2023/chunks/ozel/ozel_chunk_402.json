@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 402,
-  "chunk_text": "Sistemde kurgulanacak parent-child yapısı ile mevcut şube ve transfer merkezi yapısını bozmadan geliştirilmesi planlanmıştır. Hem transfer merkezi hem de şube olarak kullanılacak Mega Şube yapısı sayesinde paketlerin ayrıştırma için transfer merkezlerine taşınması yerine Mega Şubelerde ayrıştırılarak varış merkezine gönderilmesi ile operasyonel verimlilik ve teslimat hızında artış sağlanması hedeflenmiştir.",
-  "char_len": 410,
-  "sentence_count": 2
-}

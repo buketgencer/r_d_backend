@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 89,
-  "chunk_text": "İş değeri yaklaşımında ürünle ilgili teknoloji ekibi, operasyon ekibi, müşteri hizmetleri ve iş geliştirme ekibi gibi farklı ekiplerden gelen yazılımla ilgili istekler bir ürün sahibi tarafndan değerlendirilir. Ürün sahibi her bir ürün özelliği için aşağıdaki kriterlere göre bir puan verir: • Gelir ve Karlılık • Ölçeklenebilirlik • Kullanıcı Faydaları • Geliştiriciye ve Şirkete Fayda Sayfa 7 / 99 • Eşsizlik Daha sonra geliştirdiğimiz algoritma ile projeye/ürüne eklenecek özellik için bir iş değeri hesaplanır.",
-  "char_len": 514,
-  "sentence_count": 2
-}

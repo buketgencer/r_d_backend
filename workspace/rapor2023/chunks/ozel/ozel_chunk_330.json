@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 330,
-  "chunk_text": "Bu durum sistemin kullanılırlığını ve esnekliğini arttıracaktır. Projede ele alınacak problem, mevcut “statik” rota optimizasyonu problemine ek olarak gün içerisinde değişik zamanlarda gelen siparişlerin dar zaman pencerelerinde teslimatının planlanması gerektiren dinamik araç atama kararları ve optimizasyonu gerektirmektedir.",
-  "char_len": 328,
-  "sentence_count": 2
-}

@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 469,
-  "chunk_text": "Topoloji, nesnelerin eğme, bükme, esnetme gibi dönüşümler altında değişmeyen özelliklerini incelemektedir. “Homoloji” grupları topolojik özellikleri sınıflandırmakta kullanılan araçlardır. Sonlu, ayrık veri ile çalışıldığında, genel yaklaşım, noktaların belli ölçekteki komşulukları ile oluşturulan kümenin homoloji gruplarının hesaplanması ve bu suretle nokta kümelerinin oluşturduğu yapının bağlantılılık özelliklerinin (verideki boşlukların) incelenmesidir.",
-  "char_len": 460,
-  "sentence_count": 2
-}

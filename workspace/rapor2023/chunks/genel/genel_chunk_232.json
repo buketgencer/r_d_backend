@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 232,
-  "chunk_text": "Bu stratejide, tedarikçilerden gelen mallar, depo içinde yerleştirilmeden, belli bir süre içinde sevk noktalarına gönderilirler. Çapraz sevkiyatlı araç rotalama problemi (vehicle routing problem with cross-docking, VRPCD), müşteri taleplerini karşılamak için, çeşitli tedarikçilerden toplanan siparişlerin, çapraz sevkiyat merkezlerinde (cross-dock) konsolide edildikten sonra, müşterilere teslim edilmesi için gereken araçların rota setinin tanımlanmasından ibarettir (Küçükoğlu ve Öztürk, 2019). Literatürde, çapraz sevkiyatlı araç rotalama problemlerinin çeşitli versiyonlarını ve çözümleri için geliştirilmiş sezgisel yöntemleri içeren bazı çalışmalar bulunmaktadır (Tarantilis, 2013; Morais vd., 2014; Maknoon ve Laporte, 2017; Küçükoğlu ve Öztürk, 2019). Bu problemde, toplama ve teslimatların belirlenen zaman pencerelerinde (time windows) yapılmaları göz önünde bulundurulduğunda, çapraz sevkiyatlı ve zaman pencereli bir araç rotalama problemi oluşmaktadır (Samanlioglu ve Ayağ, 2009). Bu probleme; kamyonların yükleme kapasitelerini aşmadan yükleme verimliliğinin arttırılması konusunda ve yüklenen paketlerin boyutları (3-boyutlu) konusunda kısıtlar eklendiğinde ve özellikle de yüklemede ve dağıtımda müşterilere teslimat önceliği sırası hesaba katıldığında yeni bir matematiksel model geliştirilmesi gerekmektedir.",
-  "char_len": 1327,
-  "sentence_count": 5
-}

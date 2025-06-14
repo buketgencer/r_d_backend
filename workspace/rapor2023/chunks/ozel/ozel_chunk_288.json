@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 288,
-  "chunk_text": "Bu aşamada gelen tüm gönderiler dikkate alınarak, cep depolardan teslim alınacak gönderiler tekrar gözden geçirilecektir. Algoritmanın dağıtım öncesinde test edilebilmesi için simülatör ile yaratılan siparişlerin kapasite yönetim algoritması tarafından taşımacılarca dağıtımının simüle edilmesini kapsamaktadır.",
-  "char_len": 311,
-  "sentence_count": 2
-}

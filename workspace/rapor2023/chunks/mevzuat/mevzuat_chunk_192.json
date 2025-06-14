@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 192,
-  "chunk_text": "Bu çalışmalar; taşımacıların gün içerisinde istedikleri başlangıç ve bitiş konumuna göre tekrar rota oluşturabilmesi, uygulamaya yeni adresler ekleyebilmeleri ve bu adresleri başlangıç-bitiş noktası olarak atayabilmeleri ve rotaya uymanın mümkün olmadığı durumlarda uymama nedeni belirterek geliştirme ekiplerine girdi sağlamalarıdır. Ek olarak HepsiJET’in evden randevulu iade hizmeti için iade alımlarının da rotaya eklenmesi ve mobil uygulama üzerindeki gösteriminin sağlanması çalışmaları planlanmıştır. İ.P.3: Katma Değerli Hizmetler Katma değerli hizmetler iş paketinde adres çözümleme ve rota optimizasyon algoritmalarının da yardımı ile müşteriler için fark yaratan teslimat hizmetlerinin sunulması çalışmaları planlanmıştır. Bu kapsamda adresten randevulu iade alımı, teslimatta canlı takip ve alternatif teslimat adresine bırakma seçeneği sunulması, kapıda nakit ödeme ve ağır ürünlerin taşınması hizmetlerinin sunulması için gerekli sistemsel altyapının geliştirilmesi çalışmaları yapılacaktır. Pandemi döneminde müşteri tarafından iade edilmek istenen ürünlerin şubeye bırakılması oldukça zorlaşmıştır. HepsiJET bu dönemde müşterinin belirlediği gün ve saatte adresten iade teslim hizmetini devreye alarak iade hizmetlerinde müşterilere büyük bir kolaylık sağlamıştır.",
-  "char_len": 1280,
-  "sentence_count": 6
-}

@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 467,
-  "chunk_text": "Bu probleme; kamyonların yükleme kapasitelerini aşmadan yükleme verimliliğinin arttırılması konusunda ve yüklenen paketlerin boyutları (3-boyutlu) konusunda kısıtlar eklendiğinde ve özellikle de yüklemede ve dağıtımda müşterilere teslimat önceliği sırası hesaba katıldığında yeni bir matematiksel model geliştirilmesi gerekmektedir. Oluşan yeni çapraz sevkiyatlı (cross-docking) ve zaman pencereli (time-windows) araç rotalama ve yükleme probleminin karmaşıklığı (NP-hard) yüzünden çözüm için yeni bir sezgisel algoritma geliştirilmesi gereklidir. 2) Araç rotalama ve kapsama probleminin topolojik veri analizi ile optimizasyonu Topoloji, matematiğin en soyut alanlarından biri olmakla beraber, son yıllarda, büyük verinin “şekli”nin incelenmesi alanında uygulama bulmuştur.",
-  "char_len": 774,
-  "sentence_count": 2
-}

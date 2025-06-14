@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 264,
-  "chunk_text": "Algoritma Geliştirme ve Teslimat Yönetim Sistemi Konfigürasyonu Çalışma alanlarının otonom olarak oluşturulabilmesi ve sahada kullanımı için algoritma ve Teslimat Yönetim Sistemi’nin entegre kullanımı Sayfa 55 / 99 planlanmıştır. Saha dinamiklerini göz önünde bulundurarak, taşımacı öğrenme eğrisi, yeni taşımacının sisteme alışması gibi parametreler dikkate alınarak çözüm tasarımı yapılacaktır. Bu kapsamda sahadaki mevcut yapı göz önüne alınarak algoritma girdileri için şubeye bağlı çalışan taşımacı bilgileri, mevcutta çalışılan mahalleler, sipariş bilgileri; çıktılar olarak da taşımacı bilgileri, taşımacıya atananlar olarak gridler ile oluşan alanlar ve zamana, miktara ve çeşidine göre sınıflandırılmış gönderiler planlanmıştır. Algoritma mevcutta input olarak verilen mahalleleri çıktı olarak gridlere dönüştürecek, böylece mahalle ve sokaklardan bağımsız bir yapıya geçilmiş olacaktır. Gridler çeşitli büyüklüklerde olup, daha kompakt ve küçük alanların da oluşmasına olanak sağlayacaktır.",
-  "char_len": 1000,
-  "sentence_count": 5
-}

@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 165,
-  "chunk_text": "Projede e-ticaret tarafındaki kapasite planlaması 10’ar dakikalık daha küçük zaman aralıklarında yapılacak ancak e-ticaret sitesinin istediği zaman aralıkları için görüntüleyebileceği şekilde esnek yapılacaktır. Bu durum sistemin kullanılırlığını ve esnekliğini arttıracaktır. Projede ele alınacak problem, mevcut “statik” rota optimizasyonu problemine ek olarak gün içerisinde değişik zamanlarda gelen siparişlerin dar zaman pencerelerinde teslimatının planlanması gerektiren dinamik araç atama kararları ve optimizasyonu gerektirmektedir. Literatürde dinamik ya da çevrimiçi rotalama olarak bilinen bu tür problemler farklı yaklaşımlarla çözülebilmektedir. Gelen siparişlerin stokastik olarak ele alınması ve rotalara atanması gerektiğinden halihazırda geliştirilmiş olan ALNS algoritmasının gün içerisinde sürekli çalışması ve dinamik kararlar vermesi, ve bu kararların da teslimatları gerçekleştiren taşımacılara iletilmesi, taşımacıların revize edilen rotaları uygulamaya geçirmesi beklenmektedir.",
-  "char_len": 1002,
-  "sentence_count": 5
-}

@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 252,
-  "chunk_text": "Gönderi hacminin ve taşımacı sayısının artmasıyla birlikte bir mahalleye bir taşımacının atanması ile verimsiz ve adil olmayan sonuçlar ortaya çıkmaktadır. Bu yüzden mahalle ve sokakların bölünebilmesine olanak sağlayabilecek, esnek ve otonom bir sisteme ihtiyaç duyulmaktadır. Şubelerde çalışan taşımacı sayılarının artmasıyla manuel bölünmelerin zorlaşması, adil ve otonom bir sistemin gerekliliğini ortaya koymaktadır. Hacimlerin artması ile birlikte Türkiye genelinde yeni şubeler açılması ve mevcut şubelerin de bölünmesi veya yeniden konumlandırılması ihtiyacı doğmuştur. Proje kapsamında, yeni şubelerin konumlandırılması için e-ticaret hamine etki eden nüfus ve demografik yapı, internet penetrasyonu, kredi kartı kullanımı gibi faktörler dikkate alınarak makine öğrenmesi teknikleri ile yeni şubeler için potansiyel bölge tahminleri yapılacaktır.",
-  "char_len": 855,
-  "sentence_count": 5
-}

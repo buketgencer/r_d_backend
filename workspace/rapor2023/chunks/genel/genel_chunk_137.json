@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 137,
-  "chunk_text": "Rota optimizasyonu çalışmalarında ise mevcutta geliştirilen statik rota optimizasyonu yaklaşımı, gün içerisinde değişen talebi karşılayabilmek için dinamik rota optimizasyonu problemine bırakmıştır. İleri seviye kapasite ve optimizasyon kurallarını tanımlayabilmek için taşımacı davranışı da göz önünde bulundurularak operasyon detaylı analiz edilmiştir. Ek olarak ürün bazlı ve araç bazlı kısıtlar belirlenmiştir. Soğuk/donuk taşınması gereken ürünler binary classification (ikili sınıflandırma) yaklaşımı uygun görülüştür. Böylece soğuk zincirde taşınması gereken ürünler ve taşıma yapabilecek araçlar ayrıştırılması planlanmıştır.",
-  "char_len": 633,
-  "sentence_count": 5
-}

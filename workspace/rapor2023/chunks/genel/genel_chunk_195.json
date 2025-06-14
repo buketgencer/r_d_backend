@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 195,
-  "chunk_text": "İadeleri söz verilen zamanda adresten teslim alabilmek için, iade toplamaları da rota optimizasyonu algoritması yardımıyla taşımacıların günlük rotalarına eklenmiştir. Canlı takip hizmeti ile standart teslimatlarda müşteriye paketin tahmini ulaşma süresi belirli bir aralık olarak iletilerek, eğer isterse taşımacıyı harita üzerinde canlı takip edebileceği bir ekran sunulacaktır. Aynı ekran üzerinden komşuya bırak seçeneği ile paketin alternatif bir adrese teslimini ya da teslimatın yeniden planlanmasını sağlayabilecektir. Pandemi süreci ile birlikte e-ticaret ekosistemine çok sayıda yeni kullanıcı dahil olmuştur. Kullanıcılardan bazıları güven kaygısı ile kredi kartı kullanmayı tercih etmemekte veya kredi kartı kullanmamaktadır.",
-  "char_len": 737,
-  "sentence_count": 5
-}

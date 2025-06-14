@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 123,
-  "chunk_text": "Raporlama için sunucu tarafında bir Nodejs frameworkü olan Koajs kullanılmıştır. Login işlemleri JWT ile güvenli bir şekilde sağlanmaktadır. Veritabanı olarak PostgreSQL kullanılmaktadır. Yönetici kullanıcıların kayıtlarını girdikleri, rapor ve diğer bileşenleri oluşturdukları eylemler için yazma yetkili bir PostgreSQL veri tabanına bağlanılmakta ve sonuçlar buraya eklenmektedir. Diğer kullanıcılar ve ekran görüntüleme amaçlı işlemler için ise ana uygulamamız olan TMS veri tabanının bir kopyası olan ve değişiklikleri 100ms gibi kısa bir sürede alan (Read Only Standby) veri tabanına bağlanılmakta ve veriler buradan alınmaktadır.",
-  "char_len": 635,
-  "sentence_count": 5
-}

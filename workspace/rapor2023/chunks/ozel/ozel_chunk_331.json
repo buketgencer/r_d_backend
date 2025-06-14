@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 331,
-  "chunk_text": "Projede ele alınacak problem, mevcut “statik” rota optimizasyonu problemine ek olarak gün içerisinde değişik zamanlarda gelen siparişlerin dar zaman pencerelerinde teslimatının planlanması gerektiren dinamik araç atama kararları ve optimizasyonu gerektirmektedir. Literatürde dinamik ya da çevrimiçi rotalama olarak bilinen bu tür problemler farklı yaklaşımlarla çözülebilmektedir.",
-  "char_len": 381,
-  "sentence_count": 2
-}

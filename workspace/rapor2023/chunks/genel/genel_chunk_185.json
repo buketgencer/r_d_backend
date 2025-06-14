@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 185,
-  "chunk_text": "Veritabanı olarak da açık kaynak kodlu PostgreSQL veritabanı kullanılmasına karar verilmiştir. Sistemde hazırlanan raporlar daha önce kendi geliştirdiğimiz raporlama altyapısı üzerinde gerçekleştirilecektir. Mobil teknolojilerde ise Android Studio alt yapımızın kullanımına devam edilmesine karar verilmiştir. İ.P.2: Rota Optimizasyonu ve Adres Çözümleme Algoritmaları Bu iş paketinde, serbest metin adreslerin doğal dil işleme algoritmaları yardımıyla koordinata dönüştürülmesi ve rota optimizasyonu algoritmasının artan hacmin getirdiği ihtiyaçlar ile geliştirilmesi çalışmaları planlanmıştır. Kargo sektöründe teslimat adresi bilgileri serbest metin adres olarak iletilmektedir.",
-  "char_len": 681,
-  "sentence_count": 5
-}

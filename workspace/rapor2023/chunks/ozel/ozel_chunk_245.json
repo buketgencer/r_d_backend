@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 245,
-  "chunk_text": "Raporlama için sunucu tarafında bir Nodejs frameworkü olan Koajs kullanılmıştır. Login işlemleri JWT ile güvenli bir şekilde sağlanmaktadır.",
-  "char_len": 140,
-  "sentence_count": 2
-}

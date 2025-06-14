@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 293,
-  "chunk_text": "Bu puanlama ve yorumlar doğal dil işleme çalışmalarıyla analiz edilerek taşımacıların skor kartlarına eklenecektir. Böylelikle taşımacı performansına girdi olacak ve bunun tahminleme üzerindeki etkisi araştırılacaktır. İ.P.4: Taşımacı Yönetim Sistemi ve Mobil Geliştirmeler: Proje kapsamında elde edilecek çıktıları iş birimlerine sunmak ve proje için girdi oluşturacak datanın devamlılığını sağlamak için taşımacı yönetiminde uçtan uca kullanılacak bir platform oluşturulmuştur. Taşımacı Yönetim Sistemi’nde ayrılan ve çalışmaya devam eden tüm taşımacılara ait veri tutulmakta ve skor kartlarında taşımacı özelinde performans istatistikleri sunulmaktadır. Bununla birlikte platformda taşımacı performans istatistikleri, demografik dağılım bilgileri, çalışan taşımacı sayısı, gün içinde teslimat yapmış olan taşımacı sayısı, görev dağılımı ve çalışma şekli dağılımları sunulmaktadır.",
-  "char_len": 883,
-  "sentence_count": 5
-}

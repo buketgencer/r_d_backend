@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 144,
-  "chunk_text": "Araçlar yola çıkmadan önce dağıtım bölgelerindeki tüm gönderileri teslim alarak Xdock sorumlusunun sefer çıkış onayı sonrası dağıtıma başlamaktadır. Bu aşamada gelen tüm gönderiler dikkate alınarak, cep depolardan teslim alınacak gönderiler tekrar gözden geçirilecektir. Algoritmanın dağıtım öncesinde test edilebilmesi için simülatör ile yaratılan siparişlerin kapasite yönetim algoritması tarafından taşımacılarca dağıtımının simüle edilmesini kapsamaktadır. Bu kapsamda veri simülatörü, kapasite tahminleme algoritması ve rota optimizasyonu algoritmasının entegre kullanımı planlanmıştır. İş paketi kapsamında Dar Zaman Aralıkları İçin Çoklu Araç Optimizasyon Algoritması, E-ticaret Firmaları İçin Coğrafik Kapasite Slot Algoritması ve Dinamik Değişen Günlük Kapasite Planlama Algoritmaları geliştirmeleri devam etmektedir.",
-  "char_len": 826,
-  "sentence_count": 5
-}

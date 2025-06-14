@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 226,
-  "chunk_text": "Böylece operasyon yönetimi ve raporlama modüllerinin tüm teslimat hizmetlerini kapsayacak şekilde tasarımı mümkün olmuştur. TMS sunucu uygulaması Springboot framework kullanılarak geliştirilmiş, çalıştırılabilir jar formatı ile paketlenmiş ve içerisinde bulunan gömülü tomcat uygulama sunucusu ile çalışmaktadır.",
-  "char_len": 312,
-  "sentence_count": 2
-}

@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 277,
-  "chunk_text": "Projeye başlarken 300 civarında olan taşımacı sayısı HepsiJET’in artan taşıma hacmi ve hedefleri göz önüne alındığında taşımacı sayısının 2021 yılı sonunda 2.500’ün üzerine çıkması hedeflenmiştir. Bu modelin müşteri memnuniyetini düşürmeden ölçeklendirilebilmesi için taşımacıların daha yakından takip edilmesi ve doğabilecek aksaklıkların mümkünse önceden tahmin edilmesi ihtiyacı bulunmaktadır. Mevcut yapıda taşımacıların günlük hareketleri anlık takip edilememektedir. Müşteri veya bağlı olduğu sorumludan gelen bildirimler ile karar alınmaya çalışılmaktadır. Tasarlanacak sistemin sağlayacağı performans izlenebilirliği ve alarm yapısı sayesinde karar vermeyi destekleyecek mekanizmalar kurulmuş olacaktır.",
-  "char_len": 711,
-  "sentence_count": 5
-}

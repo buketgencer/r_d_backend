@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 301,
-  "chunk_text": "Böylece taşımacıların verimliliği ölçülebilir hale Beklenen gelecektir. Taşımacıların teslim ettikleri paket sayıları, hedef noktalarına uğrama sayıları, teslimatlar arasında Çıktıları ve geçen süreler, ürünlerin dağıtım süreleri, günlük tamamlanan ortalama km mesafesi ve taşımacılara verilen Faydaları günlük hedef bölge büyüklüğü taşımacıların verimliliğini hesaplamada kullanılacak veri setleridir. Hesaplanan taşımacı verimlilik değeri operasyona verilecek izleme ekranlarına düşecek ve verimsiz olan taşımacılar filtrelenebilecektir. Böylece verimliliği arttırmak için aksiyonlar planlanabilecek ve dağıtım verimliliği arttırılabilecektir. • Tasarlanan makine öğrenme modeli ile kazanılacak önemli bir diğer çıktı ise işten ayrılma ihtimali olan taşımacıların tahminlenmesi olacaktır. Operasyon ekibine, belirlenen dönemler içerisinde işten ayrılacak taşımacıların listesi paylaşılarak yeni taşımacı alımı veya ayrılma ihtimali olan taşımacıların sorunlarının çözülmesi sağlanabilecektir.",
-  "char_len": 994,
-  "sentence_count": 5
-}

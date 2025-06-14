@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 466,
-  "chunk_text": "Bu problemde, toplama ve teslimatların belirlenen zaman pencerelerinde (time windows) yapılmaları göz önünde bulundurulduğunda, çapraz sevkiyatlı ve zaman pencereli bir araç rotalama problemi oluşmaktadır (Samanlioglu ve Ayağ, 2009). Bu probleme; kamyonların yükleme kapasitelerini aşmadan yükleme verimliliğinin arttırılması konusunda ve yüklenen paketlerin boyutları (3-boyutlu) konusunda kısıtlar eklendiğinde ve özellikle de yüklemede ve dağıtımda müşterilere teslimat önceliği sırası hesaba katıldığında yeni bir matematiksel model geliştirilmesi gerekmektedir.",
-  "char_len": 566,
-  "sentence_count": 2
-}

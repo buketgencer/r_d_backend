@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 132,
-  "chunk_text": "Mobil uygulama, siparişlerin teslim alınması, hangi sırayla ve rota ile teslim edileceği ve alıcıya teslim edilmesi aşamalarında kullanılmaktadır. Ayrıca optimizasyon algoritması taşımacılar arasında en uygun rota planlanırken aynı zamanda siparişlerin adil dağılması koşulu da dikkate alınarak kurgulanmıştır. Sipariş akışı ve planlama aşamaları web arayüzleri yardımı ile operasyon yönetimine Sayfa 42 / 99 sunulmaktadır. Böylece araçların t anındaki dolu/boş olma durumu, dağıtım planı ve lokasyonu izlenebilmektedir. Sistemin bu hassasiyette kurgulanabilmesi için optimizasyon algoritması geliştirilerek, dağıtım ve kapasite yönetimi bu modele dayanarak yapılmaktadır.",
-  "char_len": 672,
-  "sentence_count": 5
-}

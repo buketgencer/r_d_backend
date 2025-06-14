@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "ozel",
-  "chunk_index": 236,
-  "chunk_text": "Uygulamalar, development (geliştirme test), uat (kullanıcı test) ve production (canlı) ortamlardaki sunucularda her daim ulaşılabilir durumdadır. Yazılımcılar geliştirme işlerini canlı ortam kodlarından bir kopya olarak oluşturdukları feature ortamlarda geliştirirmekte ve test ekibine göndermektedir.",
-  "char_len": 301,
-  "sentence_count": 2
-}

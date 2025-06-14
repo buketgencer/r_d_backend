@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 120,
-  "chunk_text": "Bitbucket altında ayrı bir proje alanında frontend (önyüz) uygulama kodları kayıtlıdır. Önyüz geliştirmeleri Angular ve FuseBox frameworkleri ile javascript ve typescript kullanılarak geliştirilmiştir. Proje içerisindeki tüm iş mantıkları ve nesne geliştirmeler dist dizini altında bulunmaktadır. Bitbucket’a kaydedilen kodlar, sunucu tarafında olduğu gibi Jenkins tarafından otomatik olarak derlenir. Bu derleme sunucu kod derlemesini de otomatik olarak tetikler. ‘Dist’ dizini paketlenerek sunucu kod paketi (jar) içine kopyalanır.",
-  "char_len": 533,
-  "sentence_count": 5
-}

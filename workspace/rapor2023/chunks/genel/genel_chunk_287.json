@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "genel",
-  "chunk_index": 287,
-  "chunk_text": "İ.P.2: Temel Yazılım, Veri Alımı ve Veri Analizi Altyapısının Kurulması: Bu kapsamda projeye girdi oluşturacak verinin temini ve projenin çıktılarının iş birimlerine sunulacağı platform üzerinde çalışmalar yapılmıştır ve veri analizi altyapısı kurulmuştur. Taşımacıların uçtan uca yönetileceği ve tüm verilerinin yer alacağı Taşımacı Yönetim Sistemi Sayfa 58 / 99 platformu geliştirilerek devreye alınmıştır. Bu kapsamda; - Sistemin genel kullanım senaryosunun revizyonu - Data eldesi, düzenlenmesi, özniteliklerin çıkartılması için veri analiz altyapısının oluşturulması - Model eğitim ve geliştirilmesi için veri analiz altyapısında düzenleme - Canlıya alım, gözlem ve çıkarım süreçleri için veri analiz altyapısının oluşturulması - Canlıya alım, gözlem ve çıkarım süreçleri için veri analiz altyapısı testleri çalışmaları tamamlanarak Taşımacı Yönetim Sistemi ve algoritma geliştirme faaliyetleri için zemin hazırlanmıştır. İ.P.3: Veri Analizi ve Tahminleme Algoritması Geliştirmesi: Bu iş paketi kapsamında hesaplanan taşımacı dağıtım istatistikleri ile en uygun sayıda taşımacı tipleri tespit edilip benzer dağıtım performanslarına sahip taşımacıların kümelenmesi sağlanacaktır. Bu şekilde, her bir taşımacı tipi için dağıtım tahminleme ve davranış analizi modellerinin geliştirilmesi hedeflenmektedir.",
-  "char_len": 1307,
-  "sentence_count": 5
-}

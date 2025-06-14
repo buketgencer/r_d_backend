@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 134,
-  "chunk_text": "Sistemin bu hassasiyette kurgulanabilmesi için optimizasyon algoritması geliştirilerek, dağıtım ve kapasite yönetimi bu modele dayanarak yapılmaktadır. Sistem çok sayıda online satış platformu ve farklı taşıma modlarını kapsayacak şekilde tasarlanmıştır. Teslimat Yönetim Sistemi aynı zamanda raporlama ortamları sayesinde detaylı operasyon raporlarının hazırlanması ve kritik konularda alarm üretilmesini sağlamaktadır. Optimizasyon ve Kapasite Yönetimi Geliştirilen ilk kapasite kuralları ve optimizasyon çalışması Xdock ve cep depolardan teslimatın ayrı ayrı optimize edilmesi çalışmalarını kapsamaktadır. Bu iş paketinde ise e-ticaret gönderileri ve cep depolardan çıkacak gönderilerin entegre düşünülerek kapasite planlama ve optimizasyon çalışmaları yapılmıştır. Kapasite planlama için makine öğrenmesi teknikleri ile kapasite tahminleme yöntemleri üzerinde çalışılmıştır.",
-  "char_len": 878,
-  "sentence_count": 6
-}

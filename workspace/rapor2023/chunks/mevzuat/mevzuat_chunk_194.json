@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 194,
-  "chunk_text": "Pandemi döneminde müşteri tarafından iade edilmek istenen ürünlerin şubeye bırakılması oldukça zorlaşmıştır. HepsiJET bu dönemde müşterinin belirlediği gün ve saatte adresten iade teslim hizmetini devreye alarak iade hizmetlerinde müşterilere büyük bir kolaylık sağlamıştır. İadeleri söz verilen zamanda adresten teslim alabilmek için, iade toplamaları da rota optimizasyonu algoritması yardımıyla taşımacıların günlük rotalarına eklenmiştir. Canlı takip hizmeti ile standart teslimatlarda müşteriye paketin tahmini ulaşma süresi belirli bir aralık olarak iletilerek, eğer isterse taşımacıyı harita üzerinde canlı takip edebileceği bir ekran sunulacaktır. Aynı ekran üzerinden komşuya bırak seçeneği ile paketin alternatif bir adrese teslimini ya da teslimatın yeniden planlanmasını sağlayabilecektir. Pandemi süreci ile birlikte e-ticaret ekosistemine çok sayıda yeni kullanıcı dahil olmuştur.",
-  "char_len": 894,
-  "sentence_count": 6
-}

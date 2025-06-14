@@ -1,8 +1,0 @@
-{
-  "source_file": "rapor2023.txt",
-  "category": "mevzuat",
-  "chunk_index": 153,
-  "chunk_text": "İş paketi çalışmaları 2021 yılında tamamlanacak şekilde devam etmektedir. Entegrasyon ve Sistem Doğrulama İş Paketi 3, 4 ve 5 kapsamında yapılan modül geliştirmeleri mevcutta Sayfa 43 / 99 kullanılan Teslimat Yönetim Sistemi ile entegre edilerek tüm operasyonlar tek merkezden yönetilecektir. Sistem aynı zamanda birden fazla müşteri ve farklı taşıma firmalarının entegre yönetileceği şekilde tasarlanmıştır. Böylece uçtan uca detaylı statü takipleri, teslimat zamanı değişiklikleri mümkün olacaktır. Saha modülleri canlıya alınmadan önce operasyon ekiplerinin anahtar kullanıcıları ile sürecin test edilmesi planlanmıştır. Öncelikler anahtar kullanıcılara eğitim verilecek ve test senaryoları paylaşılacaktır.",
-  "char_len": 710,
-  "sentence_count": 6
-}
