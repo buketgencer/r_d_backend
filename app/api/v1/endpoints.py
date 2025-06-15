@@ -7,13 +7,11 @@ from fastapi import (
     UploadFile,
     File,
     BackgroundTasks,
-    Depends,
     HTTPException,
     Form,
 )
 from pathlib import Path
 from ...models.schemas import (
-    ProcessRequest,
     ProcessResponse,
     ProcessResult,
     QuestionRequest,
@@ -21,38 +19,80 @@ from ...models.schemas import (
 from ...services.pipeline_runner import run_pipeline
 from ...services import state
 import json
+from openai import OpenAI
+from ...core.config import get_settings
+from typing import List
+
+st = get_settings()
+client = OpenAI(api_key=st.openai_api_key)
+
+system_role = {
+    "role": "system",
+    "content": """
+    You are an expert evaluator of R&D centre activity reports.
+    
+    You will receive questions with optional evaluation methods and data chunks where you must find the answers.
+    
+    RULES:
+    - Answer ONLY from the provided chunks - no external knowledge
+    - If chunks lack sufficient information, reply exactly: "Bilgi bulunamadı."
+    - Cross-reference multiple chunks when available
+    
+    Be precise, evidence-based, and objective in your evaluations.
+    
+    DATA SCHEMA:
+    You will receive data in this format:
+    [
+        {
+            "question": str,        # The evaluation question
+            "method": str | None,   # Optional methodology/approach
+            "chunks": list[str],    # Data chunks to analyze
+        }
+    ]
+    """,
+}
+
+user_role = {
+    "role": "user",
+    "content": """
+    {data}
+    """,
+}
+
 
 router = APIRouter(prefix="/v1", tags=["pipeline"])
 
-# @router.post("/process", response_model=ProcessResponse)
-# async def process_report(
-#         bg: BackgroundTasks,
-#         req: ProcessRequest = Depends(),
-#         pdf: UploadFile = File(...),
-# ):
-#     job_id = state.new_job()
+"""
+ @router.post("/process", response_model=ProcessResponse)
+ async def process_report(
+         bg: BackgroundTasks,
+         req: ProcessRequest = Depends(),
+         pdf: UploadFile = File(...),
+ ):
+     job_id = state.new_job()
 
-#     temp_path = Path("user_uploads") / pdf.filename
-#     temp_path.parent.mkdir(parents=True, exist_ok=True)
-#     temp_path.write_bytes(await pdf.read())
+     temp_path = Path("user_uploads") / pdf.filename
+     temp_path.parent.mkdir(parents=True, exist_ok=True)
+     temp_path.write_bytes(await pdf.read())
 
-#     bg.add_task(
-#         run_pipeline,
-#         pdf_path=temp_path,
-#         report_id=req.report_id,
-#         question_id=req.question_id,          # None gelebilir
-#         custom_question=req.custom_question,
-#         custom_yordam=req.custom_yordam,
-#         job_id=job_id,
-#     )
+     bg.add_task(
+         run_pipeline,
+         pdf_path=temp_path,
+         report_id=req.report_id,
+         question_id=req.question_id,           # None gelebilir
+         custom_question=req.custom_question,
+         custom_yordam=req.custom_yordam,
+         job_id=job_id,
+     )
 
-#     return ProcessResponse(
-#         job_id=job_id,
-#         report_id=req.report_id,
-#         question_id=req.question_id,
-#         status="processing",
-#     )
-# add the new endpoint
+     return ProcessResponse(
+         job_id=job_id,
+         report_id=req.report_id,
+         question_id=req.question_id,
+         status="processing",
+     )
+ add the new endpoint
+"""
 
 
 # ------------- process -------------
@@ -88,6 +128,15 @@ async def process(
         pdf_path = upload_dir / pdf_file.filename
         pdf_content = await pdf_file.read()
         pdf_path.write_bytes(pdf_content)
+
+        # try:
+        #     response = client.responses.parse(
+        #         model="gpt-4o-2024-06-13",  # Must specify model here
+        #         input=[system_role, user_role],
+        #         text_format=OpenAIResponse,
+        #     )
+        # except Exception as e:
+        #     print(e)
 
         # Generate dummy results for each question
         dummy_results = []

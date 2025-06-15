@@ -1,8 +1,9 @@
 # .env -> Settings sınıfı
-#.env değerlerini Settings sınıfına aktarıp dependency injection sağlar
+# .env değerlerini Settings sınıfına aktarıp dependency injection sağlar
 
 from functools import lru_cache
-from pydantic_settings import BaseSettings     # ← yeni import
+from pydantic_settings import BaseSettings  # ← yeni import
+
 
 class Settings(BaseSettings):
     workspace_root: str = "workspace"
@@ -10,13 +11,10 @@ class Settings(BaseSettings):
     topk: int = 10
     outer_api_url: str
     outer_api_token: str
+    openai_api_key: str
+    model_config = {"env_file": ".env", "case_sensitive": False}  # Pydantic-v2 eşdeğeri
 
-    model_config = {               # Pydantic-v2 eşdeğeri
-        "env_file": ".env",
-        "case_sensitive": False
-    }
 
 @lru_cache
 def get_settings() -> Settings:
     return Settings()
-
