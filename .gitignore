@@ -79,3 +79,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# User uploads
+user_uploads/*
+!user_uploads/.gitkeep
