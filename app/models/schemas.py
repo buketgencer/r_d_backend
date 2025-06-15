@@ -1,38 +1,22 @@
-from pydantic import BaseModel, Field, model_validator
+from typing import List, Literal
+from pydantic import BaseModel, Field
+
+class QuestionRequest(BaseModel):
+    """Schema for individual question request"""
+    soru: str = Field(..., description="The question text")
+    yordam: str | None = Field(None, description="Optional custom method")
 
 class ProcessRequest(BaseModel):
-    report_id: str = Field(..., example="rapor2023")
+    """Schema for process request"""
+    questions: List[QuestionRequest] = Field(..., description="List of questions to process")
 
-    # ↓ isteğe bağlı yaptık
-    question_id: int | None = Field(
-        None, ge=1, description="Hazır soru numarası"
-    )
-    custom_question: str | None = Field(
-        None, description="Kullanıcının kendi sorusu"
-    )
-    custom_yordam: str | None = Field(
-        None, description="Kullanıcının kendi yordamı (opsiyonel)"
-    )
-
-    @model_validator(mode="after")
-    def check_either_question(cls, values):
-        """
-        • question_id *ve* custom_question aynı anda verilemez
-        • ikisinden *en az biri* verilmelidir
-        """
-        qid  = values.question_id
-        cqs  = values.custom_question
-
-        if (qid is None and not cqs) or (qid is not None and cqs):
-            raise ValueError(
-                "Either 'question_id' OR 'custom_question' must be provided,"
-                " but not both."
-            )
-        return values
-
+class ProcessResult(BaseModel):
+    """Schema for individual process result"""
+    question: str = Field(..., description="The question text")
+    answer: str = Field(..., description="The answer text")
+    status: Literal["answer_found", "answer_notfound"] = Field(..., description="Status of the answer")
 
 class ProcessResponse(BaseModel):
-    job_id: str
-    report_id: str
-    question_id: int | None
-    status: str
+    """Schema for process response"""
+    results: List[ProcessResult] = Field(..., description="List of processed results")
+    count: int = Field(..., description="Number of results")
