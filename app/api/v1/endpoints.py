@@ -1,182 +1,130 @@
-# /v1/process route’u
-# /v1/process – multipart PDF + form verisini alır, BackgroundTasks ile pipeline’ı tetikler
-from http.client import HTTPException
+# app/api/v1/endpoints.py
+# -----------------------------------------------------------
+# /v1/process  → PDF + soru listesi alır, pipeline’i arka planda çalıştırır
+# /v1/status   → job durumunu döndürür
+# -----------------------------------------------------------
+
+from __future__ import annotations
+
+import json
+from pathlib import Path
+from uuid import uuid4
 
 from fastapi import (
     APIRouter,
     UploadFile,
     File,
+    Form,
     BackgroundTasks,
     HTTPException,
-    Form,
 )
-from pathlib import Path
+
+# ----- şema ve servis içe aktarımları ----------------------
 from ...models.schemas import (
-    ProcessResponse,
-    ProcessResult,
     QuestionRequest,
+    ProcessResult,
+    ProcessResponse,
 )
-from ...services.pipeline_runner import preprocess_pdf, answer_question
-from ...services import state
-import json
-from openai import OpenAI
-from ...core.config import get_settings
-from typing import List
+from ...services import state                        # basit job store
+from ...services.pipeline_runner import run_pipeline # yeni pipeline
+from ...core.config import get_settings              # .env ayarları
 
-st = get_settings()
-client = OpenAI(api_key=st.openai_api_key)
-
-system_role = {
-    "role": "system",
-    "content": """
-    You are an expert evaluator of R&D centre activity reports.
-    
-    You will receive questions with optional evaluation methods and data chunks where you must find the answers.
-    
-    RULES:
-    - Answer ONLY from the provided chunks - no external knowledge
-    - If chunks lack sufficient information, reply exactly: "Bilgi bulunamadı."
-    - Cross-reference multiple chunks when available
-    
-    Be precise, evidence-based, and objective in your evaluations.
-    
-    DATA SCHEMA:
-    You will receive data in this format:
-    [
-        {
-            "question": str,        # The evaluation question
-            "method": str | None,   # Optional methodology/approach
-            "chunks": list[str],    # Data chunks to analyze
-        }
-    ]
-    """,
-}
-
-user_role = {
-    "role": "user",
-    "content": """
-    {data}
-    """,
-}
-
-
+# -----------------------------------------------------------
+st = get_settings()          # OPENAI_API_KEY, WORKSPACE_ROOT, TOPK vb.
 router = APIRouter(prefix="/v1", tags=["pipeline"])
-
-"""
- @router.post("/process", response_model=ProcessResponse)
- async def process_report(
-         bg: BackgroundTasks,
-         req: ProcessRequest = Depends(),
-         pdf: UploadFile = File(...),
- ):
-     job_id = state.new_job()
-
-     temp_path = Path("user_uploads") / pdf.filename
-     temp_path.parent.mkdir(parents=True, exist_ok=True)
-     temp_path.write_bytes(await pdf.read())
-
-     bg.add_task(
-         run_pipeline,
-         pdf_path=temp_path,
-         report_id=req.report_id,
-         question_id=req.question_id,           # None gelebilir
-         custom_question=req.custom_question,
-         custom_yordam=req.custom_yordam,
-         job_id=job_id,
-     )
-
-     return ProcessResponse(
-         job_id=job_id,
-         report_id=req.report_id,
-         question_id=req.question_id,
-         status="processing",
-     )
- add the new endpoint
-"""
+# -----------------------------------------------------------
 
 
-# ------------- process -------------
+# ==========  /process  =====================================
 @router.post("/process", response_model=ProcessResponse)
-async def process(
-    questions: str = Form(..., description="JSON string of questions list"),
-    pdf_file: UploadFile = File(..., description="PDF file to process"),
+async def process_report(
+    bg: BackgroundTasks,
+    questions: str = Form(..., description="JSON list of QuestionRequest"),
+    pdf_file: UploadFile = File(..., description="PDF file to analyse"),
 ):
     """
-    Process questions against a PDF file.
+    • PDF + JSON soru listesi alır.
+    • Dosyaları `user_uploads/` dizinine yazar.
+    • pipeline_runner.run_pipeline()’ı arka planda tetikler.
+    • Hemen bir job_id döndürür; sonuçları /status ile sorgulanır.
+    """
+    # ----------- 1) Soru listesi doğrulaması ----------------
+    try:
+        questions_data = json.loads(questions)
+        _ = [QuestionRequest(**q) for q in questions_data]  # şema doğrulama
+    except (json.JSONDecodeError, ValueError) as exc:
+        raise HTTPException(400, f"Invalid questions payload: {exc}")
 
-    Args:
-        questions: JSON string containing list of QuestionRequest objects
-        pdf_file: PDF file to analyze
+    # ----------- 2) PDF doğrulama ---------------------------
+    if not pdf_file.filename.lower().endswith(".pdf"):
+        raise HTTPException(400, "Only .pdf files are supported")
 
-    Returns:
-        ProcessResponse with dummy results
+    upload_dir = Path("user_uploads")
+    upload_dir.mkdir(parents=True, exist_ok=True)
+
+    pdf_path = upload_dir / pdf_file.filename
+    pdf_path.write_bytes(await pdf_file.read())           # senk. kaydet
+
+    questions_path = upload_dir / "questions.txt"
+    questions_path.write_text(
+        json.dumps(questions_data, ensure_ascii=False, indent=2),
+        encoding="utf-8"
+    )
+
+    # ----------- 3) Job ID oluştur & durum kaydet -----------
+    job_id = state.new_job()
+    report_id = pdf_path.stem
+
+    state.update(job_id, {
+        "status": "queued",
+        "report_id": report_id,
+        "pdf": str(pdf_path),
+        "questions": str(questions_path),
+    })
+
+    # ----------- 4) Pipeline’i arka planda başlat -----------
+    bg.add_task(
+        _run_pipeline_bg,
+        job_id=job_id,
+        pdf_path=pdf_path,
+        questions_path=questions_path,
+        report_id=report_id,
+    )
+
+    # ----------- 5) Anında yanıt ----------------------------
+    return ProcessResponse(
+        job_id=job_id,
+        report_id=report_id,
+        count=len(questions_data),
+        status="processing",
+    )
+
+
+# ==========  Background worker =============================
+def _run_pipeline_bg(job_id: str, pdf_path: Path, questions_path: Path, report_id: str):
+    """
+    state modülüne job durumunu yazarak run_pipeline’ı çalıştırır.
     """
     try:
-        # Parse the questions JSON string
-        questions_data = json.loads(questions)
-        questions_list = [QuestionRequest(**q) for q in questions_data]
-
-        # Validate PDF file
-        if not pdf_file.filename.endswith(".pdf"):
-            raise ValueError("Only PDF files are supported")
-
-        # Create user_uploads directory if it doesn't exist
-        upload_dir = Path("user_uploads")
-        upload_dir.mkdir(parents=True, exist_ok=True)
-
-        # Save the PDF file
-        pdf_path = upload_dir / pdf_file.filename
-        pdf_content = await pdf_file.read()
-        pdf_path.write_bytes(pdf_content)
-
-        # save the questions in user_uploads directory
-        questions_path = upload_dir / "questions.json"
-        # ensure the turkısh characters are handled correctly
-        questions_path.write_text(json.dumps(questions_data, ensure_ascii=False, indent=2), encoding="utf-8")
+        state.update(job_id, {"status": "processing"})
+        run_pipeline(
+            pdf_path=pdf_path,
+            questions_path=questions_path,
+            report_id=report_id,
+            send_to_gpt=True,                 # .env → OPENAI_API_KEY gerekli
+        )
+        state.update(job_id, {"status": "completed"})
+    except Exception as exc:
+        state.update(job_id, {"status": "failed", "error": str(exc)})
 
 
-
-        # try:
-        #     response = client.responses.parse(
-        #         model="gpt-4o-2024-06-13",  # Must specify model here
-        #         input=[system_role, user_role],
-        #         text_format=OpenAIResponse,
-        #     )
-        # except Exception as e:
-        #     print(e)
-
-        # Generate dummy results for each question
-        dummy_results = []
-        for i, question_req in enumerate(questions_list):
-            # Alternate between found and not found for demo purposes
-            status = "answer_found" if i % 2 == 0 else "answer_notfound"
-
-            if status == "answer_found":
-                dummy_answer = f"Dummy answer for question: '{question_req.soru}'. This is a placeholder response that would normally be generated by analyzing the PDF content."
-            else:
-                dummy_answer = (
-                    "No relevant information found in the provided PDF document."
-                )
-
-            result = ProcessResult(
-                question=question_req.soru, answer=dummy_answer, status=status
-            )
-            dummy_results.append(result)
-
-        # Create response
-        response = ProcessResponse(results=dummy_results, count=len(dummy_results))
-
-        return response
-
-    except json.JSONDecodeError:
-        raise HTTPException(status_code=400, detail="Invalid JSON format for questions")
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Processing error: {str(e)}")
-
-
-# ---------- status ----------
+# ==========  /status  ======================================
 @router.get("/status/{job_id}")
 def job_status(job_id: str):
+    """
+    İşin son durumunu döndürür.  state modülü bellekte saklıyor
+    (persistent bir store kullanıyorsanız burayı değiştirin).
+    """
     data = state.get(job_id)
     if not data:
         raise HTTPException(404, "Job not found")
