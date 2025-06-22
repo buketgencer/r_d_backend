@@ -32,16 +32,17 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 # ➊  Pipeline adımlarını içe aktar
-from init_workspace import init_workspace
-from pdf_to_text import pdf_to_txt
-from cid_cleaner import clean_txt
-from chunk_creator import create_chunks
-from faiss_creator import create_faiss_for_chunks
-from soru_yordam_embedder import vectorize_soru_yordam
-from search_faiss_top_chunks import ask_all
-from expand_top10_chunks import expand_chunk
-from gpt_prompt_builder import generate_all_prompts
-from sender import send_answers
+from app.pipeline.init_workspace import init_workspace
+from app.pipeline.pdf_to_text import pdf_to_txt
+from app.pipeline.cid_cleaner import clean_txt
+from app.pipeline.chunk_creator import create_chunks
+from app.pipeline.faiss_creator import create_faiss_for_chunks
+from app.pipeline.soru_yordam_embedder import vectorize_soru_yordam
+from app.pipeline.search_faiss_top_chunks import ask_all
+from app.pipeline.expand_top10_chunks import expand_chunk
+from app.pipeline.gpt_prompt_builder import generate_all_prompts
+from app.pipeline.sender import send_answers
+
 
 # --------------------------------------------------
 #  Ortam değişkenlerini yükle (.env dosyası)
