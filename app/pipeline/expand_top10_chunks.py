@@ -7,9 +7,21 @@ Girdi  : workspace/{rapor_id}/top10/<kategori>/soruX_top10.json
 Çıktı  : workspace/{rapor_id}/expanded/<kategori>/soruX_top10.json
 """
 
-import os, json, re
+import os, json, re, faiss
 from difflib import SequenceMatcher
 from tqdm import tqdm
+from sentence_transformers import SentenceTransformer
+
+DATASETS = {
+    "genel":   {"index": "faiss_genel.index",   "meta": "metadata_genel.json"},
+    "mevzuat": {"index": "faiss_mevzuat.index", "meta": "metadata_mevzuat.json"},
+    "ozel":    {"index": "faiss_ozel.index",    "meta": "metadata_ozel.json"},
+}
+
+def _load_model(model_name: str | None = None) -> SentenceTransformer:
+    if model_name is None:
+        model_name = os.getenv("EMBED_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
+    return SentenceTransformer(model_name)
 
 # 📁 PATH AYARLARI sildimmmmmm
 
@@ -94,6 +106,32 @@ def expand_chunk(workspace_dir):
                 json.dump(chunks, wf, ensure_ascii=False, indent=2)
 
     print(f"\n✅ Tüm genişletilmiş top-10 sonuçlar kaydedildi → {EXPAND_DIR}")
+
+def query(workspace_dir: str, question: str, top_k: int, model_name: str | None):
+    """Tek bir soruya göre (tüm dataset’lerde) en iyi top-k chunk listesi döndür."""
+    model = _load_model(model_name)
+    emb   = model.encode([question], convert_to_numpy=True,
+                         normalize_embeddings=True)
+
+    faiss_dir = os.path.join(workspace_dir, "faiss")
+    out       = []
+
+    for ds, files in DATASETS.items():
+        idx  = faiss.read_index(os.path.join(faiss_dir, files["index"]))
+        with open(os.path.join(faiss_dir, files["meta"]), encoding="utf-8") as f:
+            meta = json.load(f)
+
+        scores, idxs = idx.search(emb, top_k)
+        for score, i in zip(scores[0], idxs[0]):
+            out.append({
+                "dataset": ds,
+                "score"  : float(score),
+                **meta[int(i)]
+            })
+
+    # en iyi skorlar; gerekirse dataset başına kısıtlaması uygulanabilir
+    out = sorted(out, key=lambda x: x["score"], reverse=True)[:top_k]
+    return out
 
 
 if __name__ == "__main__":

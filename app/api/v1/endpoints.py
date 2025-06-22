@@ -16,7 +16,7 @@ from ...models.schemas import (
     ProcessResult,
     QuestionRequest,
 )
-from ...services.pipeline_runner import run_pipeline
+from ...services.pipeline_runner import preprocess_pdf, answer_question
 from ...services import state
 import json
 from openai import OpenAI
@@ -128,6 +128,13 @@ async def process(
         pdf_path = upload_dir / pdf_file.filename
         pdf_content = await pdf_file.read()
         pdf_path.write_bytes(pdf_content)
+
+        # save the questions in user_uploads directory
+        questions_path = upload_dir / "questions.json"
+        # ensure the turkısh characters are handled correctly
+        questions_path.write_text(json.dumps(questions_data, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
 
         # try:
         #     response = client.responses.parse(
