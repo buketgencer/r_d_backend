@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "ozel",
+  "chunk_index": 45,
+  "chunk_text": "This helps orient the teapot in 2D. When I click NextImage or PreviousImage, it moves to another image in the imageSet list. The script calls ApplyHomography for that scene point, and I place the teapot’s transform to that position. 2.2.1 Issues and Observations  Because I manually pick points for each image, the results look better.  I noticed that sometimes the rotation is not perfect, so I used referencePoints[0] as a reference for the angle.",
+  "char_len": 451,
+  "sentence_count": 2
+}

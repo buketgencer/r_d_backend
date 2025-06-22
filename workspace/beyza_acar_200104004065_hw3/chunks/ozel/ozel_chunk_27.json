@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "ozel",
+  "chunk_index": 27,
+  "chunk_text": "Part 2: Placing a Teapot in 19 Images 2.1 First Attempt: VisualSFM + Dense Reconstruction To perform dense reconstruction in VisualSFM, I downloaded genOption.exe, cmvs.exe, and pmvs2.exe from the CMVS-PMVS GitHub repository and placed them in the VisualSFM directory. These tools enabled me to generate the necessary .nvm and .ply files for the reconstruction process.",
+  "char_len": 369,
+  "sentence_count": 2
+}

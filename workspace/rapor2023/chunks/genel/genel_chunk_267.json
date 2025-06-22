@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 267,
+  "chunk_text": "Algoritmanın oluşturacağı alanların tekrar oluşturulabilmesi ve geliştirilecek harita üzerinden ilk versiyonlarda oluşabilecek darboğazların elle yapılabilecek müdahalelerle aşılabileceği bir arayüz planlanmaktadır. Bu kapsamda front-end ve back-end yazılım geliştirme faaliyetleri ve algoritma geliştirme faaliyetleri paralel yürütülecektir. Taşımacı çalışma alanlarının belirli periyotlarla tekrar oluşturulabilmesi planlanmaktadır. Bu süreler özetle aşağıdaki gibidir: - Kampanya dönemlerinde artan hacimlerde, - Taşımacıların ilgili gün/hafta içindeki uygunlukları, - Yeni şube açılışlarıyla yapılacak yeni paylaşımlar. Kullanıcı arayüzünde gridlerle oluşan yeni taşımacı çalışma alanlarının gün/hafta/ay içerisindeki durumunun da görülebileceği güncellemeler gerçekleştirilecektir.",
+  "char_len": 786,
+  "sentence_count": 5
+}

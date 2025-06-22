@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 162,
+  "chunk_text": "Rota optimizasyonu, Ge Niteliği araç kapasite planlaması ve e-ticaret sitesi için slotlu kapasite gösteriminin bir arada yapıldığı optimizasyon problemi bulunmaktadır. Simulasyon sayesinde algoritmaların istenilen çeşitli sayıda veri kümesi için çalıştırılması sağlanacak ve çok daha gerçekçi sonuçlar üretilmesi sağlanacaktır. Simulatör aynı zamanda algoritma geliştirme süreci için ciddi bir alt yapı ve birikim sağlayacak ve ilerleyen projelerde kullanılacaktır. Simulatörün çıktıları olarak araçlarda dağıtılacak paketlerin rota planlamaları, araçların gün içindeki kullanım oranı, dağıtılan paket başı maliyet, taşımacılar arasında gelir paylaşım oranları parametreleri hesaplanacaktır. Cep depolardan yapılan hızlı teslimatlarda müşteri memnuniyetinin sağlanması için teknolojinin, taşımacıların mobil uygulamasının yüksek oranda kullanıldığı bir iletişim ve istisna kurgusu yaratılacaktır.",
+  "char_len": 896,
+  "sentence_count": 5
+}

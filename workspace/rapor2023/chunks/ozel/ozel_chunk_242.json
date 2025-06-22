@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 242,
+  "chunk_text": "Bitbucket’a kaydedilen kodlar, sunucu tarafında olduğu gibi Jenkins tarafından otomatik olarak derlenir. Bu derleme sunucu kod derlemesini de otomatik olarak tetikler. ‘Dist’ dizini paketlenerek sunucu kod paketi (jar) içine kopyalanır.",
+  "char_len": 236,
+  "sentence_count": 2
+}

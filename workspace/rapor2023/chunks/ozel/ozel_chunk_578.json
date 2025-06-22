@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 578,
+  "chunk_text": "Davranış analiz modelleri için aynı kümede yer alan geçmiş dönemde işten ayrılmış ve aktif olarak çalışmış taşımacıların günlük dağıtım verileri kullanılmaktadır. Bu modeller ile taşımacının son zamanlarda gerçekleştirdiği günlük dağıtım verileri ile performansları analiz ediliyor ve bununla birlikte, aynı taşımacı tipinde olan taşımacılar özelinde zaman, dağıtım ve kişisel verilerden çıkarılan öznitelikler kullanılarak eğitilen regresyon modelleri ile taşımacı bazlı günlük dağıtılan gönderi sayısı gibi temel öznitelik değerleri tahminlenerek yakın (ertesi gün) ve uzak (sonraki birkaç hafta) gelecekteki muhtemel davranış analizi gerçekleştirilmesi hedeflenmektedir.",
+  "char_len": 673,
+  "sentence_count": 2
+}

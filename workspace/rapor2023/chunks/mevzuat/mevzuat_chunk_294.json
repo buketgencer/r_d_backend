@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 294,
+  "chunk_text": "İ.P.4: Taşımacı Yönetim Sistemi ve Mobil Geliştirmeler: Proje kapsamında elde edilecek çıktıları iş birimlerine sunmak ve proje için girdi oluşturacak datanın devamlılığını sağlamak için taşımacı yönetiminde uçtan uca kullanılacak bir platform oluşturulmuştur. Taşımacı Yönetim Sistemi’nde ayrılan ve çalışmaya devam eden tüm taşımacılara ait veri tutulmakta ve skor kartlarında taşımacı özelinde performans istatistikleri sunulmaktadır. Bununla birlikte platformda taşımacı performans istatistikleri, demografik dağılım bilgileri, çalışan taşımacı sayısı, gün içinde teslimat yapmış olan taşımacı sayısı, görev dağılımı ve çalışma şekli dağılımları sunulmaktadır. HepsiJET organizasyonunda genel merkezde yer alan iş birimlerinin yanı sıra bölge müdürlükleri de bulunmaktadır. Bulundukları bölgede operasyonel süreçlerden sorumlu olan roller için Taşımacı Yönetim Sistemi’nde de kendi bölgelerindeki taşımacıların verilerine ve kendi bölgelerindeki performans istatistiklerine erişim sağlayabilecekleri bir yapı oluşturulacaktır. Proje çıktıları aynı zamanda HepsiJET’te taşımacı olarak rol alacak olan en uygun aday profilini belirlemeye de yardımcı olacaktır.",
+  "char_len": 1162,
+  "sentence_count": 6
+}

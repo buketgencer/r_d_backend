@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 292,
+  "chunk_text": "Taşımacı, teslimat noktasında ulaşamadığı alıcıya gün içerisinde ikinci kere uğramadığında mobil uygulama üzerinden uyarı mekanizmalarının geliştirilmesi ve uğrama sayılarının operasyona raporlanması sağlanacaktır. Taşımacının sunmuş olduğu hizmete yönelik olan müşteri memnuniyeti anketleri ile nihai alıcılar HepsiJET taşımacısından aldıkları hizmeti puanlayabiliyor ve yorumda bulunabiliyor. Bu puanlama ve yorumlar doğal dil işleme çalışmalarıyla analiz edilerek taşımacıların skor kartlarına eklenecektir. Böylelikle taşımacı performansına girdi olacak ve bunun tahminleme üzerindeki etkisi araştırılacaktır. İ.P.4: Taşımacı Yönetim Sistemi ve Mobil Geliştirmeler: Proje kapsamında elde edilecek çıktıları iş birimlerine sunmak ve proje için girdi oluşturacak datanın devamlılığını sağlamak için taşımacı yönetiminde uçtan uca kullanılacak bir platform oluşturulmuştur.",
+  "char_len": 874,
+  "sentence_count": 5
+}

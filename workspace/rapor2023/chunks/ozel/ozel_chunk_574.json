@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 574,
+  "chunk_text": "Taşımacıların uçtan uca yönetileceği ve tüm verilerinin yer alacağı Taşımacı Yönetim Sistemi Sayfa 58 / 99 platformu geliştirilerek devreye alınmıştır. Bu kapsamda; - Sistemin genel kullanım senaryosunun revizyonu - Data eldesi, düzenlenmesi, özniteliklerin çıkartılması için veri analiz altyapısının oluşturulması - Model eğitim ve geliştirilmesi için veri analiz altyapısında düzenleme - Canlıya alım, gözlem ve çıkarım süreçleri için veri analiz altyapısının oluşturulması - Canlıya alım, gözlem ve çıkarım süreçleri için veri analiz altyapısı testleri çalışmaları tamamlanarak Taşımacı Yönetim Sistemi ve algoritma geliştirme faaliyetleri için zemin hazırlanmıştır.",
+  "char_len": 669,
+  "sentence_count": 2
+}

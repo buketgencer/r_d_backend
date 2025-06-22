@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 127,
+  "chunk_text": "İstemci tarafında web tabanlı React, Redux temelli bir yazılım geliştirilmiştir. Bu yazılım kullanıcı sisteme başarılı giriş yaptığında yetkisi dahilinde görmesi gereken menüleri, menü linklerini ve ilk açılan sayfayı sunucu tarafından gelen konfigürasyon dosyasından okur. İlgili rapor, ya da dashboardlar açıldığında, yine sunucu tarafından gelen json formatında konfigürasyona göre filtreleri, filtre öndeğerlerini, tablo kolonlarını otomatik olarak oluşturur. Her şey server tarafından gelen verilere göre oluşmaktadır. İndirme işlemleri de benzer mantıkla sunucu tarafından gelen binary dosyayı kullanıcı browserında download etme işlemini yapabilmektedir. Online alışveriş teslimat zamanı seçimi aşamasında müşteriler teslim almak için kendilerine en uygun zaman aralığını seçebilmektedir. Bu zaman aralıkları saatlik ya da iki saatlik zaman aralıklarından oluşmaktadır.",
+  "char_len": 876,
+  "sentence_count": 6
+}

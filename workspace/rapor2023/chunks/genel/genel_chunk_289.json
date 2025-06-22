@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 289,
+  "chunk_text": "Bu şekilde, her bir taşımacı tipi için dağıtım tahminleme ve davranış analizi modellerinin geliştirilmesi hedeflenmektedir. Davranış analiz modelleri için aynı kümede yer alan geçmiş dönemde işten ayrılmış ve aktif olarak çalışmış taşımacıların günlük dağıtım verileri kullanılmaktadır. Bu modeller ile taşımacının son zamanlarda gerçekleştirdiği günlük dağıtım verileri ile performansları analiz ediliyor ve bununla birlikte, aynı taşımacı tipinde olan taşımacılar özelinde zaman, dağıtım ve kişisel verilerden çıkarılan öznitelikler kullanılarak eğitilen regresyon modelleri ile taşımacı bazlı günlük dağıtılan gönderi sayısı gibi temel öznitelik değerleri tahminlenerek yakın (ertesi gün) ve uzak (sonraki birkaç hafta) gelecekteki muhtemel davranış analizi gerçekleştirilmesi hedeflenmektedir. Bu çözümler ile taşımacıların son dönemdeki ve gelecekteki davranış analizleri gerçekleştirilebilecektir. Müşteri memnuniyeti açısından ürünlerin söz verilmiş tarih aralığında teslim edilmesi büyük bir önem taşımaktadır.",
+  "char_len": 1018,
+  "sentence_count": 5
+}

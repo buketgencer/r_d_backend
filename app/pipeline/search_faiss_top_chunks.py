@@ -66,8 +66,9 @@ def ask_all(workspace_dir: str,
         with open(os.path.join(faiss_dir, files["meta"]), encoding="utf-8") as f:
             metadata = json.load(f)
 
-        for soru in tqdm(sorular, desc=f"{ds} sorular"):
-            qid, qtext = soru["id"], soru["text"]
+        for i, soru in enumerate(tqdm(sorular, desc=f"{ds} sorular"), 1):
+            qid = soru.get("id", i)
+            qtext = soru.get("text") or soru.get("soru") or ""
             top_idxs   = search_faiss(qtext, index, top_k)
 
             results = []

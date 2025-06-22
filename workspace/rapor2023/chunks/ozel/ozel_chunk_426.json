@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 426,
+  "chunk_text": "İstemci tarafı teknolojileri olarak HTML5, CSS3, Javascript, Angular 5, Ge Niteliği React, sunucu tarafı teknolojileri olarak, SpringBoot, Hibernate, Node.js, PostgreSQL kulanılmaktadır. - Projede makine öğrenmesi teknikleri ile kapasite tahminleme, rota optimizasyonu ve doğal dil işleme algoritmalarının kullanımı ile büyük ölçekli operasyonlarda katma değerli hizmetlerin sunulması hedeflenmiştir. - Mobil teknolojilerin kullanımı ile süreçlerin uçtan uca takibi yapılabilecek ve olası kayıp/hasarların önüne geçilebilecektir. Bu kapsamda kızılötesi özelliğine sahip mobil cihaz ile yine kızılötesi özelliğine sahip mobil etiket yazıcı cihazı arasında bağlantı kurularak mobil etiket basımına imkan tanıyan sistem için Türk Patent’e 2021/007041 başvuru numaralı ve Kargo Etiketi Basımı İçin Mobil Bir Sistem Ve Yöntem başlıklı patent başvurusu yapılmıştır. - Adreslerden randevulu iade ve gönderi toplama süreçlerinin ödeme sistemlerini de kapsayan özgün teknolojik buluşu için, Türk Patent’e 2021/007040 başvuru numaralı ve Kargo Dağıtımı Sırasında Müşterilerden Gönderi Alınmasına İmkan Veren Bir Yöntem başlıklı patent başvurusu yapılmıştır. - Ürünün mikroservis mimari yapıda kurgulanması sayesinde birbirinden bağımsız çalışabilen modüllerin ürün haline getirilerek ticarileşmesi mümkün olacaktır. - Adres çözümleme algoritması Türkçe diline ve Türkiye adres yapısına uygun geliştirildiği için serbest metin adreslerin lokasyona dönüştürülebilmesi ihtiyacı duyan tüm firmalarda kullanılabilir yapıda olacaktır.",
+  "char_len": 1518,
+  "sentence_count": 2
+}

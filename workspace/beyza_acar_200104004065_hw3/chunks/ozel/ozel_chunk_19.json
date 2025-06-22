@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "ozel",
+  "chunk_index": 19,
+  "chunk_text": "A call to HomographyCalculator.CalculateHomography(...) to compute the matrix. 3. Another set of 3 test scene points to see where they project in the image. 4.",
+  "char_len": 159,
+  "sentence_count": 2
+}

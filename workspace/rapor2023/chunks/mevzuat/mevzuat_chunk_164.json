@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 164,
+  "chunk_text": "Cep depolardan yapılan hızlı teslimatlarda müşteri memnuniyetinin sağlanması için teknolojinin, taşımacıların mobil uygulamasının yüksek oranda kullanıldığı bir iletişim ve istisna kurgusu yaratılacaktır. Projede hem çoklu araç hem de tek araç için rota optimizasyon problemleri birbirini destekler şekilde çalıştırılacaktır. Projede e-ticaret tarafındaki kapasite planlaması 10’ar dakikalık daha küçük zaman aralıklarında yapılacak ancak e-ticaret sitesinin istediği zaman aralıkları için görüntüleyebileceği şekilde esnek yapılacaktır. Bu durum sistemin kullanılırlığını ve esnekliğini arttıracaktır. Projede ele alınacak problem, mevcut “statik” rota optimizasyonu problemine ek olarak gün içerisinde değişik zamanlarda gelen siparişlerin dar zaman pencerelerinde teslimatının planlanması gerektiren dinamik araç atama kararları ve optimizasyonu gerektirmektedir. Literatürde dinamik ya da çevrimiçi rotalama olarak bilinen bu tür problemler farklı yaklaşımlarla çözülebilmektedir.",
+  "char_len": 984,
+  "sentence_count": 6
+}

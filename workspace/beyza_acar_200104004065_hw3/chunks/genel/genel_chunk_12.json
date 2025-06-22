@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "genel",
+  "chunk_index": 12,
+  "chunk_text": "Scene and image points to calculate homography: Apply the homography matrix: Outputs: Error rate: 1.3 Notes on Coordinate Systems  My image coordinates had x and y swapped compared to the professor’s. This means I had to switch (x,y)(x, y)(x,y) to (y,x)(y, x)(y,x) in some places.  I used a small Python script to detect or measure the image coordinates (for instance, reading pixel values in an image viewer). Then I manually typed them into the code. 1.4 Results and Errors  After calculating the transformation matrix HHH, I printed its values in the console for verification.  I used 3 additional scene points to test the error. The program calculates the distance in pixels between the real image point and the projected point.  Since the image resolution is 3264×24483264 \\times 24483264×2448, I normalized this error by dividing it by the diagonal length of the image (calculated using the width and height).  My final error was not zero, but it was acceptable. With this, Part 1 is complete. Part 2: Placing a Teapot in 19 Images 2.1 First Attempt: VisualSFM + Dense Reconstruction To perform dense reconstruction in VisualSFM, I downloaded genOption.exe, cmvs.exe, and pmvs2.exe from the CMVS-PMVS GitHub repository and placed them in the VisualSFM directory.",
+  "char_len": 1274,
+  "sentence_count": 5
+}

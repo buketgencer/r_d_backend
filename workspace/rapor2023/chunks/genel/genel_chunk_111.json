@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 111,
+  "chunk_text": "Simülatör ile elde edilen veri ile yapılan ilk kapasite planlama çalışmalarının sahada uygulanması ile pilot aşamasında kaynaklar verimli kullanılmıştır. Veri simülatörü ile üretilen veri ile birinci seviye optimizasyon ve ileri seviye kapasite ve optimizasyon kurallarının tanımlanması çalışmalarında kullanılmaktadır. İş paketinde yer alan tüm çalışmalar tamamlanarak devreye alınmıştır. İ.P.3: Sistem Konfigürasyon Parametrelerinin Yönetimi Stok tutan cep depolardan zaman pencereli ve hızlı teslimat hizmetinin sunulabilmesi için cep depo yönetimi, taşımacı yönetimi, araç yönetimi ve slot kapasiteleri Sayfa 41 / 99 yönetimi modüllerinin geliştirilmesi ve birinci seviye kapasite ve optimizasyon kural ve algoritma geliştirme çalışmaları yapılmıştır. Zaman pencereli ve hızlı teslimatların sunulabilmesi için yeni modüller mevcut Teslimat Yönetim Sistemi (TMS) uygulaması mimarisi dikkate alınarak kurgulanmıştır.",
+  "char_len": 918,
+  "sentence_count": 5
+}

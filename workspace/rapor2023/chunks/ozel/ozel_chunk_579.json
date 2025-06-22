@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 579,
+  "chunk_text": "Bu modeller ile taşımacının son zamanlarda gerçekleştirdiği günlük dağıtım verileri ile performansları analiz ediliyor ve bununla birlikte, aynı taşımacı tipinde olan taşımacılar özelinde zaman, dağıtım ve kişisel verilerden çıkarılan öznitelikler kullanılarak eğitilen regresyon modelleri ile taşımacı bazlı günlük dağıtılan gönderi sayısı gibi temel öznitelik değerleri tahminlenerek yakın (ertesi gün) ve uzak (sonraki birkaç hafta) gelecekteki muhtemel davranış analizi gerçekleştirilmesi hedeflenmektedir. Bu çözümler ile taşımacıların son dönemdeki ve gelecekteki davranış analizleri gerçekleştirilebilecektir.",
+  "char_len": 616,
+  "sentence_count": 2
+}

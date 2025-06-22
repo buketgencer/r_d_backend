@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 224,
+  "chunk_text": "İ.P.3: Sistem Konfigürasyon Parametrelerinin Yönetimi Stok tutan cep depolardan zaman pencereli ve hızlı teslimat hizmetinin sunulabilmesi için cep depo yönetimi, taşımacı yönetimi, araç yönetimi ve slot kapasiteleri Sayfa 41 / 99 yönetimi modüllerinin geliştirilmesi ve birinci seviye kapasite ve optimizasyon kural ve algoritma geliştirme çalışmaları yapılmıştır. Zaman pencereli ve hızlı teslimatların sunulabilmesi için yeni modüller mevcut Teslimat Yönetim Sistemi (TMS) uygulaması mimarisi dikkate alınarak kurgulanmıştır.",
+  "char_len": 528,
+  "sentence_count": 2
+}

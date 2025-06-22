@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "mevzuat",
+  "chunk_index": 6,
+  "chunk_text": "This involves creating a matrix based on the input points and solving a system of equations to determine the homography matrix, which represents the transformation from the scene to the image. The result is a 3×33 \\times 33×3 matrix that encodes this transformation. I also added a gradient descent approach (not fully used in Part 1) but kept it there for non-linear refinements. Then I have two transformation functions:  TransformSceneToImage: projects a scene point onto the image plane,  TransformImageToScene: projects an image point onto the scene plane. Finally, I have CalculateError to compute the average or normalized reprojection error.  1.2 Testing the Homography (HomographyTest.cs) I created a HomographyTest script to check if my homography calculations are correct. It contains: 1.",
+  "char_len": 801,
+  "sentence_count": 6
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "ozel",
+  "chunk_index": 36,
+  "chunk_text": "I extracted the camera rotation matrix from the quaternion, then used a simple pinhole projection. I wanted to see the object in the real image view. 2.1.1 Why It Failed  My point cloud was not dense enough, so the reprojected images looked incomplete.  The alignment with the actual photo was not correct in 2D space.  The method required a perfect 3D reconstruction to overlay the object in the final 2D images.",
+  "char_len": 416,
+  "sentence_count": 2
+}

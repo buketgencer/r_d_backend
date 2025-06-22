@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 187,
+  "chunk_text": "Kargo sektöründe teslimat adresi bilgileri serbest metin adres olarak iletilmektedir. Adres yapısının standart olmaması nedeniyle, doğru enlem-boylam bilgisine ulaşabilmek için müşteriden gelen metinlerin teslimat sürecine girmeden belirli aşamalardan geçmesi gerekmektedir. HepsiJET Ar-Ge Merkezi’nde daha önceden gerçekleştirilen projelerde %80 oranında adreslerin manuel müdahale gerektirmeden işlenmesi sağlanmıştır. Ancak büyüyen hacim manuel işlem oranlarının düşürülmesi ihtiyacı doğurmuştur. Bu kasamda adres algoritmasında verilen girdiden temiz metin oluşturma, buna uygun veritabanı eşlemeleri, enlem-boylamın dış servisler yardımı ile bulunması ve sonrasında benzerlik algoritmaları ile en uygun karşılıkların bulunması ve düzeltme listeleri ile hataların, kısaltmaların, yaygın farklı kullanımların düzeltilmesi ve standart hale gelmesi Sayfa 47 / 99 hedeflenmiştir. Geliştirmeler sonrasında hedefimiz %20 olan manuel müdahale oranını %0,2 seviyelerine indirmektir.",
+  "char_len": 978,
+  "sentence_count": 6
+}

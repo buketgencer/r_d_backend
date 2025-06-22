@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 268,
+  "chunk_text": "Taşımacı çalışma alanlarının belirli periyotlarla tekrar oluşturulabilmesi planlanmaktadır. Bu süreler özetle aşağıdaki gibidir: - Kampanya dönemlerinde artan hacimlerde, - Taşımacıların ilgili gün/hafta içindeki uygunlukları, - Yeni şube açılışlarıyla yapılacak yeni paylaşımlar. Kullanıcı arayüzünde gridlerle oluşan yeni taşımacı çalışma alanlarının gün/hafta/ay içerisindeki durumunun da görülebileceği güncellemeler gerçekleştirilecektir. Arayüzde hem takibin kolay olacağı, hem de olası dar boğazların görsellerle analitik olarak tespit edilerek müdahale edilebilir olması ve yeni üretilen çalışma alanı bilgisinin veritabanına kaydedilmesi planlanmaktadır. Harita çözümleri ve adreslerin grid bazlı karşılıklarının bulunması ve veritabanında tututan adres yapısına getireceği değişiklikler de proje kapsamında yapılacaktır.",
+  "char_len": 830,
+  "sentence_count": 5
+}

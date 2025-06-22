@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 150,
+  "chunk_text": "Yukarıda bahsedilen değişim taleplerinin ya da oluşan hasar/gecikme durumlarının telafisi için müşteri ile iletişim ve istisna yönetimi oldukça önemlidir. Bu kapsamda siparişin iptali, slot değişimi gibi seçenekler müşterilere sunulmakta ve müşterinin talebi doğrultusunda işlem yapılmaktadır. Müşteri hizmetlerine raporlar ve alarmlar üretilerek gecikme ve istisna yönetimi sağlanmıştır. Müşteri hizmetlerine özel yazılan ekranlar ile gün ve saat seçimi yapılarak siparişin yeniden planlanması sağlanmaktadır. Bu aşamada TMS ve BI entegre yönetimi sağlanmaktadır. Tüm taşıma sürecinde alıcının uygun aralıklarda SMS ve/veya e-mail yoluyla bilgilendirilmesi sağlanmaktadır.",
+  "char_len": 673,
+  "sentence_count": 6
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 149,
+  "chunk_text": "Bu değişimlerin yönetiminden mağaza sorumludur ancak müşteri ile görüşme sonrasında erteleme/iptal talebi gelirse Teslimat Yönetim Sistemi üzerinde değişiklik yapılması gerekmektedir. -Teslimat kaynaklı değişiklikler: Sistemsel arıza, hava koşulları ya da beklenmeyen trafik kazası ya da yol durumu kaynaklı değişiklik talepleri bizim tarafımızdan çözülmektedir. -Müşteri kaynaklı değişiklikler: Müşteri siparişin iptalini ya da başka bir zaman diliminde teslimatını isteyebilir. Bu değişim mağaza ve teslimat ekipleri koordinasyonu ile yönetilmektedir. Yukarıda bahsedilen değişim taleplerinin ya da oluşan hasar/gecikme durumlarının telafisi için müşteri ile iletişim ve istisna yönetimi oldukça önemlidir. Bu kapsamda siparişin iptali, slot değişimi gibi seçenekler müşterilere sunulmakta ve müşterinin talebi doğrultusunda işlem yapılmaktadır. Müşteri hizmetlerine raporlar ve alarmlar üretilerek gecikme ve istisna yönetimi sağlanmıştır.",
+  "char_len": 942,
+  "sentence_count": 5
+}

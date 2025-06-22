@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 139,
+  "chunk_text": "Böylece soğuk zincirde taşınması gereken ürünler ve taşıma yapabilecek araçlar ayrıştırılması planlanmıştır. Hem cep depolardan yapılan hızlı teslimat ürünlerinin hem de standart kargo ürünlerinin taşımacılara atanabilmesi için paketin gönderinin teslim alınacağı lokasyon, teslim edileceği lokasyon ve taşımacının lokasyonu parametreleri dikkate alınmaktadır. Gönderilerin çıkış noktaları mevcut Xdock’lar ya da cep depolar olacaktır. Cep depo ve Xdock entegre yönetimi sağlandığı için tüm bu lokasyonların koordinat karşılığı veritabanında tutulmaktadır. Tüm taşımacılar teslimat sırasında Android tabanlı cep telefonları üzerinde çalışan Teslimat Yönetim Sistemi Mobil Uygulaması’nı kullanmaktadır. Teslim alınan ve teslim edilen tüm gönderiler için mobil uygulama üzerinden barkod okutularak teslimat yapılmaktadır.",
+  "char_len": 819,
+  "sentence_count": 6
+}

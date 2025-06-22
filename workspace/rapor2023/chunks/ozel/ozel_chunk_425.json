@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 425,
+  "chunk_text": "Kod gözden geçirme Yönü ve Ar- süreçleri için Bitbucket kullanılmaktadır. İstemci tarafı teknolojileri olarak HTML5, CSS3, Javascript, Angular 5, Ge Niteliği React, sunucu tarafı teknolojileri olarak, SpringBoot, Hibernate, Node.js, PostgreSQL kulanılmaktadır. - Projede makine öğrenmesi teknikleri ile kapasite tahminleme, rota optimizasyonu ve doğal dil işleme algoritmalarının kullanımı ile büyük ölçekli operasyonlarda katma değerli hizmetlerin sunulması hedeflenmiştir. - Mobil teknolojilerin kullanımı ile süreçlerin uçtan uca takibi yapılabilecek ve olası kayıp/hasarların önüne geçilebilecektir.",
+  "char_len": 603,
+  "sentence_count": 2
+}

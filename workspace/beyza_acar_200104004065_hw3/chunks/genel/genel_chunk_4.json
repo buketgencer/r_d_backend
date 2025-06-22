@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "genel",
+  "chunk_index": 4,
+  "chunk_text": "I hope this shows my effort. Part 1: Homography Computation 1.1 Homography Calculation Function I wrote a C# class named HomographyCalculator to calculate the homography matrix. The key function is: public static Matrix<double> CalculateHomography( List<Tuple<double, double>> scenePoints, List<Tuple<double, double>> imagePoints) It takes a list of scene points (e.g., (xi,yi)(x_i, y_i)(xi,yi)) and corresponding image points (e.g., (ui,vi)(u_i, v_i)(ui,vi)). The function uses a mathematical technique called Singular Value Decomposition (SVD) to calculate the relationship between these points. This involves creating a matrix based on the input points and solving a system of equations to determine the homography matrix, which represents the transformation from the scene to the image.",
+  "char_len": 790,
+  "sentence_count": 5
+}

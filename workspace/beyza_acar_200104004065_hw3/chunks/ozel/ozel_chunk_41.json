@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "ozel",
+  "chunk_index": 41,
+  "chunk_text": "For each image, I found correspondences between a scene space (like a reference plane) and the image. Then I computed a homography, so I know how to project points onto each image.",
+  "char_len": 180,
+  "sentence_count": 2
+}

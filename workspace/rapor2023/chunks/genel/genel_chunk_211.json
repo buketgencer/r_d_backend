@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 211,
+  "chunk_text": "Bu kapsamda mikroservis mimari dönüşümü, front-end teknoloji dönüşümü, dispatch(dağıt) fonksiyonu revizyonu ve test otomasyonu teknolojilerinin kurulumunun yapılması hedeflenmiştir. İş paketi kapsamında yapılacak çalışmaları sistem güvenlik, entegrasyon ve yük testleri takip edecektir. Sistemin herhangi bir yavaşlama ya da duraklama olmaksızın yüzbinlerce paketin taşımasına elverişli halde olması ve bu süreçte dışa bağımlı yapılar yerine kendi yeteneklerimiz ile ölçeklenebilir yapılar kurulması hedeflenmiştir. Projenin - Projede proje yönetim ve iş, hata takip yazılımı olarak Atlassian Jira, kaynak kod yönetim sistemi olarak Git, Yenilikçi sürekli tümleştirme (Continuous Integration) aracı olarak da Jenkins kullanılmaktadır. Kod gözden geçirme Yönü ve Ar- süreçleri için Bitbucket kullanılmaktadır.",
+  "char_len": 808,
+  "sentence_count": 5
+}

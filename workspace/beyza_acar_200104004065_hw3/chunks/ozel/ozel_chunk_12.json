@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "ozel",
+  "chunk_index": 12,
+  "chunk_text": "The result is a 3×33 \\times 33×3 matrix that encodes this transformation. I also added a gradient descent approach (not fully used in Part 1) but kept it there for non-linear refinements.",
+  "char_len": 187,
+  "sentence_count": 2
+}

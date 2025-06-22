@@ -44,9 +44,11 @@ MAX_TOTAL_CHUNKS = 30   # hard cap in final prompt
 # ---------------------------------------------------------------------------
 
 def _load_questions(meta_path: Path) -> Dict[int, Dict[str, Any]]:
-    """Return a dict {id: record} from the metadata file."""
+    """Return a dict {1: item1, 2: item2, ...} from the metadata file (no 'id' needed)."""
     with meta_path.open("r", encoding="utf-8") as f:
-        return {int(item["id"]): item for item in json.load(f)}
+        data = json.load(f)
+    return {i + 1: item for i, item in enumerate(data)}
+
 
 
 def _load_chunks(dataset: str, question_id: int, chunk_base: Path) -> List[Dict[str, Any]]:
@@ -74,7 +76,7 @@ def generate_prompt(question_id: int, workspace_dir: Path, total_chunks: int = M
     """Return the complete evaluation prompt for the given *question_id*."""
 
     question_path = workspace_dir / "faiss" / "metadata_soru_yordam.json"
-    chunk_base = workspace_dir / "expanded"
+    chunk_base = workspace_dir / "top10"
 
     # --- fetch soru & yordam ------------------------------------------------
     questions = _load_questions(question_path)

@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 151,
+  "chunk_text": "Müşteri hizmetlerine raporlar ve alarmlar üretilerek gecikme ve istisna yönetimi sağlanmıştır. Müşteri hizmetlerine özel yazılan ekranlar ile gün ve saat seçimi yapılarak siparişin yeniden planlanması sağlanmaktadır. Bu aşamada TMS ve BI entegre yönetimi sağlanmaktadır. Tüm taşıma sürecinde alıcının uygun aralıklarda SMS ve/veya e-mail yoluyla bilgilendirilmesi sağlanmaktadır. İş paketi çalışmaları 2021 yılında tamamlanacak şekilde devam etmektedir. Entegrasyon ve Sistem Doğrulama İş Paketi 3, 4 ve 5 kapsamında yapılan modül geliştirmeleri mevcutta Sayfa 43 / 99 kullanılan Teslimat Yönetim Sistemi ile entegre edilerek tüm operasyonlar tek merkezden yönetilecektir.",
+  "char_len": 672,
+  "sentence_count": 6
+}

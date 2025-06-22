@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "genel",
+  "chunk_index": 5,
+  "chunk_text": "The key function is: public static Matrix<double> CalculateHomography( List<Tuple<double, double>> scenePoints, List<Tuple<double, double>> imagePoints) It takes a list of scene points (e.g., (xi,yi)(x_i, y_i)(xi,yi)) and corresponding image points (e.g., (ui,vi)(u_i, v_i)(ui,vi)). The function uses a mathematical technique called Singular Value Decomposition (SVD) to calculate the relationship between these points. This involves creating a matrix based on the input points and solving a system of equations to determine the homography matrix, which represents the transformation from the scene to the image. The result is a 3×33 \\times 33×3 matrix that encodes this transformation. I also added a gradient descent approach (not fully used in Part 1) but kept it there for non-linear refinements.",
+  "char_len": 800,
+  "sentence_count": 5
+}

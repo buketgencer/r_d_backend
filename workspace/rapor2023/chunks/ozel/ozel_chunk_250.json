@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 250,
+  "chunk_text": "Böylece canlı veri tabanına sorgu göndermeyerek bir yük oluşturmaktan kaçınılmış ve performans anlamında sisteme zarar verilmesinin önüne geçilmiştir. Sunucu tarafı e-posta gönderme, SQL sorgularından Excel dosyası oluşturma, kullanıcı tarafında değiştirilen filtrelere göre sorguları düzenleme, veri tabanına bağlanma gibi servisleri gerçekleştirilir.",
+  "char_len": 352,
+  "sentence_count": 2
+}

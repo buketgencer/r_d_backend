@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 232,
+  "chunk_text": "Bitbucket’a kaydedilen kodlar Jenkins otomasyon sunucusu kullanılarak derlenmekte ve konfigure edilmiş iş planları kapsamında ilgili sunuculara kurulmaktadır. Bitbucket – Jenkins entegrasyonu ve Bitbucket - JIRA entegrasyonları mevcuttur.",
+  "char_len": 238,
+  "sentence_count": 2
+}

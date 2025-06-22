@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "ozel",
+  "chunk_index": 9,
+  "chunk_text": "The key function is: public static Matrix<double> CalculateHomography( List<Tuple<double, double>> scenePoints, List<Tuple<double, double>> imagePoints) It takes a list of scene points (e.g., (xi,yi)(x_i, y_i)(xi,yi)) and corresponding image points (e.g., (ui,vi)(u_i, v_i)(ui,vi)). The function uses a mathematical technique called Singular Value Decomposition (SVD) to calculate the relationship between these points.",
+  "char_len": 419,
+  "sentence_count": 2
+}

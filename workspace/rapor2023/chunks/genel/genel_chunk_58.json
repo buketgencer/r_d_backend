@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 58,
+  "chunk_text": "HepsiJET, ara transfer merkezlerinden son müşteriye tüzel taşımacılarla doğrudan teslimat yapan yerli bir oluşumdur. HepsiJET'in amacı e-ticaret müşterisine hızlı, kaliteli, güvenli ve uygun maliyetle hizmet sunmakğr. Bu gereksinimleri karşılamak amacıyla hizmetlerini belirlemiş ve önceliklendirmiştir. Bu hizmetler için teknolojik altyapısının ve uygulamalarını geliştirmeyi hedeflemiş ve kısa ve orta vadede yapacağı projeleri belirlemiştir. Bu kapsamda geliştirilecek hizmet ve kullanılacak teknolojiler aşağıda özetlenmiştir; - Cep depolardan saatlik teslimat hizmeti ve mevcut operasyonların farklı taşıma modları ve alt yükleniciler ile entegre verilebilmesi için gerekli limit yönetimi, kapasite planlama ve optimizasyon çalışmalarının yapılması - Taşımacı sirkülasyonunun düşürülmesi için makine öğrenmesi algoritmaları kullanılarak ayrılma eğiliminin belirlenmesi ve davranış analizi ile işe alım prosedürlerinin oluşturulması - Kargo sektörüne has ölçeklenebilir ve otomasyon teknolojileri ile entegre çalışan bir platformun geliştirilmesi ve bu sayede iş akışlarında dinamiklik sağlanması.",
+  "char_len": 1101,
+  "sentence_count": 5
+}

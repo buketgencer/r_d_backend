@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "ozel",
+  "chunk_index": 253,
+  "chunk_text": "İstemci tarafında web tabanlı React, Redux temelli bir yazılım geliştirilmiştir. Bu yazılım kullanıcı sisteme başarılı giriş yaptığında yetkisi dahilinde görmesi gereken menüleri, menü linklerini ve ilk açılan sayfayı sunucu tarafından gelen konfigürasyon dosyasından okur. İlgili rapor, ya da dashboardlar açıldığında, yine sunucu tarafından gelen json formatında konfigürasyona göre filtreleri, filtre öndeğerlerini, tablo kolonlarını otomatik olarak oluşturur.",
+  "char_len": 463,
+  "sentence_count": 2
+}

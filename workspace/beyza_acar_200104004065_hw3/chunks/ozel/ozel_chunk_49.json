@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "ozel",
+  "chunk_index": 49,
+  "chunk_text": "Manual Homography (like Part 1), which gave me a simpler and more direct method to overlay the teapot on each 2D image.  For Part 1, I successfully wrote: o A linear SVD-based homography solver, o A function for non-linear gradient descent (though not heavily used here), o Transformation methods to project points from scene to image and image to scene, o An error calculation method to see how close the projected points are.  For Part 2, I placed the teapot using the same homography approach, but done for each of the 19 images. I only needed a small set of point correspondences for each image.",
+  "char_len": 601,
+  "sentence_count": 2
+}

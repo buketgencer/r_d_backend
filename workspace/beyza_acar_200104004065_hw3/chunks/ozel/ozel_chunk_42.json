@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "ozel",
+  "chunk_index": 42,
+  "chunk_text": "Then I computed a homography, so I know how to project points onto each image. My code for that is: Placeteapot.cs :  I have a list of reference points (referencePoints and referenceUVs) that define my homography.  For each image, I have scene points in coordinatesList.  I compute the homography with the same method: ComputeHomography(...).  Then for each new image, I apply the homography to the scene points.",
+  "char_len": 416,
+  "sentence_count": 2
+}

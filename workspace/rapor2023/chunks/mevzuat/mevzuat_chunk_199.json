@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 199,
+  "chunk_text": "Proje kapsamında iki kişi tarafından taşınabilecek ağır ürünlerin taşınması sürecini kapsayan teknik altyapı kurularak teslimat sektöründe müşteri ihtiyaçları uçtan uca kapsanmış olacaktır. İ.P.4: Ölçeklendirme Yönetimi Paket hacminin artması ile birlikte sistemsel geliştirme ve sistem performans geliştirmesi ihtiyaçları doğmuştur. İş paketi kapsamında taşımacı mega şube yapılanması, akıllı limit yönetimi ve kayıp/hasar yönetimi geliştirmelerinin yapılması planlanmıştır. Mega Şube yapısı ile tek lokasyonda hem transfer merkezi hem de dağıtım merkezi hizmeti verilebilmesi hedeflenmiştir. Bu sistemin tasarlanabilmesi için şube, transfer merkezi ve sefer yapılarında köklü değişikliklerin yapılması gerekmektedir. Sistemde kurgulanacak parent-child yapısı ile mevcut şube ve transfer merkezi yapısını bozmadan geliştirilmesi planlanmıştır.",
+  "char_len": 844,
+  "sentence_count": 6
+}

@@ -87,7 +87,7 @@ def _send_prompt(prompt_text: str, model: str, temperature: float) -> str:
     else:
         messages = [{"role": "user", "content": prompt_text}]
 
-    response = openai.ChatCompletion.create(
+    response = openai.chat.completions.create(
         model=model,
         messages=messages,
         temperature=temperature,
@@ -113,6 +113,7 @@ def send_answers(
 
     # API KEY öncelik sırası: arg > env var > .env
     openai.api_key = api_key or os.getenv("OPENAI_API_KEY")
+    print(f"[DEBUG] Kullanılan API key: {openai.api_key!r}")
     if not openai.api_key:
         raise RuntimeError("OPENAI_API_KEY bulunamadı (arg/env/.env)")
 

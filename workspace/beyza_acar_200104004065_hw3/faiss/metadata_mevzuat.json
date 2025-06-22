@@ -1,0 +1,218 @@
+[
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 1,
+    "chunk_text": "CSE462/562 – Augmented Reality (Fall 2024) Homework #3 Beyza Acar 200104004065 1. Introduction In this homework, I worked on two main parts: 1. Part 1: Compute homography and perform point projections between a checkerboard scene and image coordinates. 2. Part 2: Place a teapot on a target object in 19 images, using camera and scene geometry. Below, I describe my progress, the methods I used, and the issues I faced. I tried different approaches, some of which were not successful.",
+    "char_len": 484,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 10,
+    "chunk_text": "A call to HomographyCalculator.CalculateHomography(...) to compute the matrix. 3. Another set of 3 test scene points to see where they project in the image. 4. Then I measure error by comparing my projected points to some measured image points. 5. I also test the two parts: scene →\\to→ image, and image →\\to→ scene. Scene and image points to calculate homography: Apply the homography matrix: Outputs: Error rate: 1.3 Notes on Coordinate Systems  My image coordinates had x and y swapped compared to the professor’s. This means I had to switch (x,y)(x, y)(x,y) to (y,x)(y, x)(y,x) in some places.  I used a small Python script to detect or measure the image coordinates (for instance, reading pixel values in an image viewer). Then I manually typed them into the code. 1.4 Results and Errors  After calculating the transformation matrix HHH, I printed its values in the console for verification.  I used 3 additional scene points to test the error.",
+    "char_len": 953,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 11,
+    "chunk_text": "Then I measure error by comparing my projected points to some measured image points. 5. I also test the two parts: scene →\\to→ image, and image →\\to→ scene. Scene and image points to calculate homography: Apply the homography matrix: Outputs: Error rate: 1.3 Notes on Coordinate Systems  My image coordinates had x and y swapped compared to the professor’s. This means I had to switch (x,y)(x, y)(x,y) to (y,x)(y, x)(y,x) in some places.  I used a small Python script to detect or measure the image coordinates (for instance, reading pixel values in an image viewer). Then I manually typed them into the code. 1.4 Results and Errors  After calculating the transformation matrix HHH, I printed its values in the console for verification.  I used 3 additional scene points to test the error. The program calculates the distance in pixels between the real image point and the projected point.  Since the image resolution is 3264×24483264 \\times 24483264×2448, I normalized this error by dividing it by the diagonal length of the image (calculated using the width and height).  My final error was not zero, but it was acceptable. With this, Part 1 is complete.",
+    "char_len": 1162,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 12,
+    "chunk_text": "Scene and image points to calculate homography: Apply the homography matrix: Outputs: Error rate: 1.3 Notes on Coordinate Systems  My image coordinates had x and y swapped compared to the professor’s. This means I had to switch (x,y)(x, y)(x,y) to (y,x)(y, x)(y,x) in some places.  I used a small Python script to detect or measure the image coordinates (for instance, reading pixel values in an image viewer). Then I manually typed them into the code. 1.4 Results and Errors  After calculating the transformation matrix HHH, I printed its values in the console for verification.  I used 3 additional scene points to test the error. The program calculates the distance in pixels between the real image point and the projected point.  Since the image resolution is 3264×24483264 \\times 24483264×2448, I normalized this error by dividing it by the diagonal length of the image (calculated using the width and height).  My final error was not zero, but it was acceptable. With this, Part 1 is complete. Part 2: Placing a Teapot in 19 Images 2.1 First Attempt: VisualSFM + Dense Reconstruction To perform dense reconstruction in VisualSFM, I downloaded genOption.exe, cmvs.exe, and pmvs2.exe from the CMVS-PMVS GitHub repository and placed them in the VisualSFM directory. These tools enabled me to generate the necessary .nvm and .ply files for the reconstruction process.",
+    "char_len": 1375,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 13,
+    "chunk_text": "The program calculates the distance in pixels between the real image point and the projected point.  Since the image resolution is 3264×24483264 \\times 24483264×2448, I normalized this error by dividing it by the diagonal length of the image (calculated using the width and height).  My final error was not zero, but it was acceptable. With this, Part 1 is complete. Part 2: Placing a Teapot in 19 Images 2.1 First Attempt: VisualSFM + Dense Reconstruction To perform dense reconstruction in VisualSFM, I downloaded genOption.exe, cmvs.exe, and pmvs2.exe from the CMVS-PMVS GitHub repository and placed them in the VisualSFM directory. These tools enabled me to generate the necessary .nvm and .ply files for the reconstruction process. I tried a more advanced method first. I took the 19 images into VisualSFM to produce a .nvm file and a .ply for a dense point cloud.",
+    "char_len": 871,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 14,
+    "chunk_text": "Part 2: Placing a Teapot in 19 Images 2.1 First Attempt: VisualSFM + Dense Reconstruction To perform dense reconstruction in VisualSFM, I downloaded genOption.exe, cmvs.exe, and pmvs2.exe from the CMVS-PMVS GitHub repository and placed them in the VisualSFM directory. These tools enabled me to generate the necessary .nvm and .ply files for the reconstruction process. I tried a more advanced method first. I took the 19 images into VisualSFM to produce a .nvm file and a .ply for a dense point cloud. My steps: 1. I ran VisualSFM to compute camera poses and 3D points (the point cloud). 2.",
+    "char_len": 591,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 15,
+    "chunk_text": "I tried a more advanced method first. I took the 19 images into VisualSFM to produce a .nvm file and a .ply for a dense point cloud. My steps: 1. I ran VisualSFM to compute camera poses and 3D points (the point cloud). 2. This gave me an .nvm file with camera intrinsics, extrinsics, and the 3D points in the scene. 3. I wrote an NvmParser script in Unity to read the .nvm file, parse cameras, and identify green points (like the USB cable).",
+    "char_len": 441,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 16,
+    "chunk_text": "My steps: 1. I ran VisualSFM to compute camera poses and 3D points (the point cloud). 2. This gave me an .nvm file with camera intrinsics, extrinsics, and the 3D points in the scene. 3. I wrote an NvmParser script in Unity to read the .nvm file, parse cameras, and identify green points (like the USB cable). NvmParser outputs:  I also made a script named CylinderPlacement to place a 3D object (cylinder) at the green point in the scene. I extracted the camera rotation matrix from the quaternion, then used a simple pinhole projection.",
+    "char_len": 537,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 17,
+    "chunk_text": "This gave me an .nvm file with camera intrinsics, extrinsics, and the 3D points in the scene. 3. I wrote an NvmParser script in Unity to read the .nvm file, parse cameras, and identify green points (like the USB cable). NvmParser outputs:  I also made a script named CylinderPlacement to place a 3D object (cylinder) at the green point in the scene. I extracted the camera rotation matrix from the quaternion, then used a simple pinhole projection. I wanted to see the object in the real image view. 2.1.1 Why It Failed  My point cloud was not dense enough, so the reprojected images looked incomplete.  The alignment with the actual photo was not correct in 2D space.  The method required a perfect 3D reconstruction to overlay the object in the final 2D images. But the reconstruction had many holes and was messy.",
+    "char_len": 819,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 18,
+    "chunk_text": "NvmParser outputs:  I also made a script named CylinderPlacement to place a 3D object (cylinder) at the green point in the scene. I extracted the camera rotation matrix from the quaternion, then used a simple pinhole projection. I wanted to see the object in the real image view. 2.1.1 Why It Failed  My point cloud was not dense enough, so the reprojected images looked incomplete.  The alignment with the actual photo was not correct in 2D space.  The method required a perfect 3D reconstruction to overlay the object in the final 2D images. But the reconstruction had many holes and was messy. Hence, I realized this was not what the homework wanted. The homework wants the teapot over the 2D images in a robust way. So I abandoned this approach. 2.2 Manual Homography Approach (Final Approach) I decided to place the object using a manual approach similar to Part 1.",
+    "char_len": 873,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 19,
+    "chunk_text": "I wanted to see the object in the real image view. 2.1.1 Why It Failed  My point cloud was not dense enough, so the reprojected images looked incomplete.  The alignment with the actual photo was not correct in 2D space.  The method required a perfect 3D reconstruction to overlay the object in the final 2D images. But the reconstruction had many holes and was messy. Hence, I realized this was not what the homework wanted. The homework wants the teapot over the 2D images in a robust way. So I abandoned this approach. 2.2 Manual Homography Approach (Final Approach) I decided to place the object using a manual approach similar to Part 1. For each image, I found correspondences between a scene space (like a reference plane) and the image. Then I computed a homography, so I know how to project points onto each image.",
+    "char_len": 825,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 2,
+    "chunk_text": "Part 1: Compute homography and perform point projections between a checkerboard scene and image coordinates. 2. Part 2: Place a teapot on a target object in 19 images, using camera and scene geometry. Below, I describe my progress, the methods I used, and the issues I faced. I tried different approaches, some of which were not successful. I hope this shows my effort. Part 1: Homography Computation 1.1 Homography Calculation Function I wrote a C# class named HomographyCalculator to calculate the homography matrix.",
+    "char_len": 518,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 20,
+    "chunk_text": "Hence, I realized this was not what the homework wanted. The homework wants the teapot over the 2D images in a robust way. So I abandoned this approach. 2.2 Manual Homography Approach (Final Approach) I decided to place the object using a manual approach similar to Part 1. For each image, I found correspondences between a scene space (like a reference plane) and the image. Then I computed a homography, so I know how to project points onto each image. My code for that is: Placeteapot.cs :  I have a list of reference points (referencePoints and referenceUVs) that define my homography.  For each image, I have scene points in coordinatesList.  I compute the homography with the same method: ComputeHomography(...).  Then for each new image, I apply the homography to the scene points. This gives me the location where the teapot should go in the image.  I do a small rotation calculation using CalculateRotation(...).",
+    "char_len": 926,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 21,
+    "chunk_text": "For each image, I found correspondences between a scene space (like a reference plane) and the image. Then I computed a homography, so I know how to project points onto each image. My code for that is: Placeteapot.cs :  I have a list of reference points (referencePoints and referenceUVs) that define my homography.  For each image, I have scene points in coordinatesList.  I compute the homography with the same method: ComputeHomography(...).  Then for each new image, I apply the homography to the scene points. This gives me the location where the teapot should go in the image.  I do a small rotation calculation using CalculateRotation(...). This helps orient the teapot in 2D. When I click NextImage or PreviousImage, it moves to another image in the imageSet list. The script calls ApplyHomography for that scene point, and I place the teapot’s transform to that position. 2.2.1 Issues and Observations  Because I manually pick points for each image, the results look better.  I noticed that sometimes the rotation is not perfect, so I used referencePoints[0] as a reference for the angle.",
+    "char_len": 1104,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 22,
+    "chunk_text": "My code for that is: Placeteapot.cs :  I have a list of reference points (referencePoints and referenceUVs) that define my homography.  For each image, I have scene points in coordinatesList.  I compute the homography with the same method: ComputeHomography(...).  Then for each new image, I apply the homography to the scene points. This gives me the location where the teapot should go in the image.  I do a small rotation calculation using CalculateRotation(...). This helps orient the teapot in 2D. When I click NextImage or PreviousImage, it moves to another image in the imageSet list. The script calls ApplyHomography for that scene point, and I place the teapot’s transform to that position. 2.2.1 Issues and Observations  Because I manually pick points for each image, the results look better.  I noticed that sometimes the rotation is not perfect, so I used referencePoints[0] as a reference for the angle. This might not be perfect, but it works enough for demonstration. 3. Conclusion and Remarks  I tried two main ways to solve Part 2: 1. 3D Reconstruction via VisualSFM: My reconstruction was not good enough, leading to big errors in projecting back to the 2D images. 2.",
+    "char_len": 1193,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 23,
+    "chunk_text": "This helps orient the teapot in 2D. When I click NextImage or PreviousImage, it moves to another image in the imageSet list. The script calls ApplyHomography for that scene point, and I place the teapot’s transform to that position. 2.2.1 Issues and Observations  Because I manually pick points for each image, the results look better.  I noticed that sometimes the rotation is not perfect, so I used referencePoints[0] as a reference for the angle. This might not be perfect, but it works enough for demonstration. 3. Conclusion and Remarks  I tried two main ways to solve Part 2: 1. 3D Reconstruction via VisualSFM: My reconstruction was not good enough, leading to big errors in projecting back to the 2D images. 2. Manual Homography (like Part 1), which gave me a simpler and more direct method to overlay the teapot on each 2D image.  For Part 1, I successfully wrote: o A linear SVD-based homography solver, o A function for non-linear gradient descent (though not heavily used here), o Transformation methods to project points from scene to image and image to scene, o An error calculation method to see how close the projected points are.  For Part 2, I placed the teapot using the same homography approach, but done for each of the 19 images. I only needed a small set of point correspondences for each image.",
+    "char_len": 1323,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 24,
+    "chunk_text": "This might not be perfect, but it works enough for demonstration. 3. Conclusion and Remarks  I tried two main ways to solve Part 2: 1. 3D Reconstruction via VisualSFM: My reconstruction was not good enough, leading to big errors in projecting back to the 2D images. 2. Manual Homography (like Part 1), which gave me a simpler and more direct method to overlay the teapot on each 2D image.  For Part 1, I successfully wrote: o A linear SVD-based homography solver, o A function for non-linear gradient descent (though not heavily used here), o Transformation methods to project points from scene to image and image to scene, o An error calculation method to see how close the projected points are.  For Part 2, I placed the teapot using the same homography approach, but done for each of the 19 images. I only needed a small set of point correspondences for each image. The results look good enough for the assignment.  My code references and screenshots of Python scripts used to find pixel coordinates and the VisualSFM process will be included in the submission.  I have some mistakes: The coordinate system difference (x vs. y flipped) made me do extra checks, and my 3D approach was not completed because the point cloud was too sparse. But I learned a lot from the trial and error.",
+    "char_len": 1291,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 25,
+    "chunk_text": "Manual Homography (like Part 1), which gave me a simpler and more direct method to overlay the teapot on each 2D image.  For Part 1, I successfully wrote: o A linear SVD-based homography solver, o A function for non-linear gradient descent (though not heavily used here), o Transformation methods to project points from scene to image and image to scene, o An error calculation method to see how close the projected points are.  For Part 2, I placed the teapot using the same homography approach, but done for each of the 19 images. I only needed a small set of point correspondences for each image. The results look good enough for the assignment.  My code references and screenshots of Python scripts used to find pixel coordinates and the VisualSFM process will be included in the submission.  I have some mistakes: The coordinate system difference (x vs. y flipped) made me do extra checks, and my 3D approach was not completed because the point cloud was too sparse. But I learned a lot from the trial and error. A short demonstration of the project: https://youtu.be/lW4bDBaeOl4",
+    "char_len": 1088,
+    "sentence_count": 5
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 26,
+    "chunk_text": "The results look good enough for the assignment.  My code references and screenshots of Python scripts used to find pixel coordinates and the VisualSFM process will be included in the submission.  I have some mistakes: The coordinate system difference (x vs. y flipped) made me do extra checks, and my 3D approach was not completed because the point cloud was too sparse. But I learned a lot from the trial and error. A short demonstration of the project: https://youtu.be/lW4bDBaeOl4",
+    "char_len": 486,
+    "sentence_count": 3
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 27,
+    "chunk_text": "A short demonstration of the project: https://youtu.be/lW4bDBaeOl4",
+    "char_len": 66,
+    "sentence_count": 1
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 3,
+    "chunk_text": "Below, I describe my progress, the methods I used, and the issues I faced. I tried different approaches, some of which were not successful. I hope this shows my effort. Part 1: Homography Computation 1.1 Homography Calculation Function I wrote a C# class named HomographyCalculator to calculate the homography matrix. The key function is: public static Matrix<double> CalculateHomography( List<Tuple<double, double>> scenePoints, List<Tuple<double, double>> imagePoints) It takes a list of scene points (e.g., (xi,yi)(x_i, y_i)(xi,yi)) and corresponding image points (e.g., (ui,vi)(u_i, v_i)(ui,vi)). The function uses a mathematical technique called Singular Value Decomposition (SVD) to calculate the relationship between these points.",
+    "char_len": 737,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 4,
+    "chunk_text": "I hope this shows my effort. Part 1: Homography Computation 1.1 Homography Calculation Function I wrote a C# class named HomographyCalculator to calculate the homography matrix. The key function is: public static Matrix<double> CalculateHomography( List<Tuple<double, double>> scenePoints, List<Tuple<double, double>> imagePoints) It takes a list of scene points (e.g., (xi,yi)(x_i, y_i)(xi,yi)) and corresponding image points (e.g., (ui,vi)(u_i, v_i)(ui,vi)). The function uses a mathematical technique called Singular Value Decomposition (SVD) to calculate the relationship between these points. This involves creating a matrix based on the input points and solving a system of equations to determine the homography matrix, which represents the transformation from the scene to the image. The result is a 3×33 \\times 33×3 matrix that encodes this transformation.",
+    "char_len": 864,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 5,
+    "chunk_text": "The key function is: public static Matrix<double> CalculateHomography( List<Tuple<double, double>> scenePoints, List<Tuple<double, double>> imagePoints) It takes a list of scene points (e.g., (xi,yi)(x_i, y_i)(xi,yi)) and corresponding image points (e.g., (ui,vi)(u_i, v_i)(ui,vi)). The function uses a mathematical technique called Singular Value Decomposition (SVD) to calculate the relationship between these points. This involves creating a matrix based on the input points and solving a system of equations to determine the homography matrix, which represents the transformation from the scene to the image. The result is a 3×33 \\times 33×3 matrix that encodes this transformation. I also added a gradient descent approach (not fully used in Part 1) but kept it there for non-linear refinements. Then I have two transformation functions:  TransformSceneToImage: projects a scene point onto the image plane,  TransformImageToScene: projects an image point onto the scene plane.",
+    "char_len": 983,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 6,
+    "chunk_text": "This involves creating a matrix based on the input points and solving a system of equations to determine the homography matrix, which represents the transformation from the scene to the image. The result is a 3×33 \\times 33×3 matrix that encodes this transformation. I also added a gradient descent approach (not fully used in Part 1) but kept it there for non-linear refinements. Then I have two transformation functions:  TransformSceneToImage: projects a scene point onto the image plane,  TransformImageToScene: projects an image point onto the scene plane. Finally, I have CalculateError to compute the average or normalized reprojection error.  1.2 Testing the Homography (HomographyTest.cs) I created a HomographyTest script to check if my homography calculations are correct. It contains: 1.",
+    "char_len": 801,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 7,
+    "chunk_text": "I also added a gradient descent approach (not fully used in Part 1) but kept it there for non-linear refinements. Then I have two transformation functions:  TransformSceneToImage: projects a scene point onto the image plane,  TransformImageToScene: projects an image point onto the scene plane. Finally, I have CalculateError to compute the average or normalized reprojection error.  1.2 Testing the Homography (HomographyTest.cs) I created a HomographyTest script to check if my homography calculations are correct. It contains: 1. Some scenePoints and imagePoints that I manually matched. In my case, I found 5 correspondence points. 2.",
+    "char_len": 640,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 8,
+    "chunk_text": "Finally, I have CalculateError to compute the average or normalized reprojection error.  1.2 Testing the Homography (HomographyTest.cs) I created a HomographyTest script to check if my homography calculations are correct. It contains: 1. Some scenePoints and imagePoints that I manually matched. In my case, I found 5 correspondence points. 2. A call to HomographyCalculator.CalculateHomography(...) to compute the matrix. 3. Another set of 3 test scene points to see where they project in the image. 4.",
+    "char_len": 503,
+    "sentence_count": 6
+  },
+  {
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "category": "mevzuat",
+    "chunk_index": 9,
+    "chunk_text": "Some scenePoints and imagePoints that I manually matched. In my case, I found 5 correspondence points. 2. A call to HomographyCalculator.CalculateHomography(...) to compute the matrix. 3. Another set of 3 test scene points to see where they project in the image. 4. Then I measure error by comparing my projected points to some measured image points. 5. I also test the two parts: scene →\\to→ image, and image →\\to→ scene.",
+    "char_len": 422,
+    "sentence_count": 6
+  }
+]

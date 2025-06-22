@@ -1,0 +1,82 @@
+[
+  {
+    "rank": 1,
+    "index": 0,
+    "chunk_text": "CSE462/562 – Augmented Reality (Fall 2024) Homework #3 Beyza Acar 200104004065 1. Introduction In this homework, I worked on two main parts: 1.",
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "char_len": 143,
+    "sentence_count": 2
+  },
+  {
+    "rank": 2,
+    "index": 51,
+    "chunk_text": "Part 1: Homography Computation 1.1 Homography Calculation Function I wrote a C# class named HomographyCalculator to calculate the homography matrix. The key function is: public static Matrix<double> CalculateHomography( List<Tuple<double, double>> scenePoints, List<Tuple<double, double>> imagePoints) It takes a list of scene points (e.g., (xi,yi)(x_i, y_i)(xi,yi)) and corresponding image points (e.g., (ui,vi)(u_i, v_i)(ui,vi)).",
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "char_len": 431,
+    "sentence_count": 2
+  },
+  {
+    "rank": 3,
+    "index": 10,
+    "chunk_text": "A call to HomographyCalculator.CalculateHomography(...) to compute the matrix. 3. Another set of 3 test scene points to see where they project in the image. 4.",
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "char_len": 159,
+    "sentence_count": 2
+  },
+  {
+    "rank": 4,
+    "index": 11,
+    "chunk_text": "Introduction In this homework, I worked on two main parts: 1. Part 1: Compute homography and perform point projections between a checkerboard scene and image coordinates. 2.",
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "char_len": 173,
+    "sentence_count": 2
+  },
+  {
+    "rank": 5,
+    "index": 26,
+    "chunk_text": "This gave me an .nvm file with camera intrinsics, extrinsics, and the 3D points in the scene. 3. I wrote an NvmParser script in Unity to read the .nvm file, parse cameras, and identify green points (like the USB cable).",
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "char_len": 219,
+    "sentence_count": 2
+  },
+  {
+    "rank": 6,
+    "index": 3,
+    "chunk_text": "The result is a 3×33 \\times 33×3 matrix that encodes this transformation. I also added a gradient descent approach (not fully used in Part 1) but kept it there for non-linear refinements.",
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "char_len": 187,
+    "sentence_count": 2
+  },
+  {
+    "rank": 7,
+    "index": 9,
+    "chunk_text": "In my case, I found 5 correspondence points. 2. A call to HomographyCalculator.CalculateHomography(...) to compute the matrix. 3.",
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "char_len": 129,
+    "sentence_count": 2
+  },
+  {
+    "rank": 8,
+    "index": 52,
+    "chunk_text": "The key function is: public static Matrix<double> CalculateHomography( List<Tuple<double, double>> scenePoints, List<Tuple<double, double>> imagePoints) It takes a list of scene points (e.g., (xi,yi)(x_i, y_i)(xi,yi)) and corresponding image points (e.g., (ui,vi)(u_i, v_i)(ui,vi)). The function uses a mathematical technique called Singular Value Decomposition (SVD) to calculate the relationship between these points.",
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "char_len": 419,
+    "sentence_count": 2
+  },
+  {
+    "rank": 9,
+    "index": 25,
+    "chunk_text": "I ran VisualSFM to compute camera poses and 3D points (the point cloud). 2. This gave me an .nvm file with camera intrinsics, extrinsics, and the 3D points in the scene. 3.",
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "char_len": 172,
+    "sentence_count": 2
+  },
+  {
+    "rank": 10,
+    "index": 48,
+    "chunk_text": "A short demonstration of the project: https://youtu.be/lW4bDBaeOl4",
+    "source_file": "beyza_acar_200104004065_hw3.txt",
+    "char_len": 66,
+    "sentence_count": 1
+  }
+]

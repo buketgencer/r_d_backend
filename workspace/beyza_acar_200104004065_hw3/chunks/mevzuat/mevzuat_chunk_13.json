@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "mevzuat",
+  "chunk_index": 13,
+  "chunk_text": "The program calculates the distance in pixels between the real image point and the projected point.  Since the image resolution is 3264×24483264 \\times 24483264×2448, I normalized this error by dividing it by the diagonal length of the image (calculated using the width and height).  My final error was not zero, but it was acceptable. With this, Part 1 is complete. Part 2: Placing a Teapot in 19 Images 2.1 First Attempt: VisualSFM + Dense Reconstruction To perform dense reconstruction in VisualSFM, I downloaded genOption.exe, cmvs.exe, and pmvs2.exe from the CMVS-PMVS GitHub repository and placed them in the VisualSFM directory. These tools enabled me to generate the necessary .nvm and .ply files for the reconstruction process. I tried a more advanced method first. I took the 19 images into VisualSFM to produce a .nvm file and a .ply for a dense point cloud.",
+  "char_len": 871,
+  "sentence_count": 6
+}

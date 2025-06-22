@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "ozel",
+  "chunk_index": 15,
+  "chunk_text": "Finally, I have CalculateError to compute the average or normalized reprojection error.  1.2 Testing the Homography (HomographyTest.cs) I created a HomographyTest script to check if my homography calculations are correct. It contains: 1.",
+  "char_len": 237,
+  "sentence_count": 2
+}

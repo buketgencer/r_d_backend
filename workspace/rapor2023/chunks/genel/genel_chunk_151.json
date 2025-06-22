@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "genel",
+  "chunk_index": 151,
+  "chunk_text": "Müşteri hizmetlerine raporlar ve alarmlar üretilerek gecikme ve istisna yönetimi sağlanmıştır. Müşteri hizmetlerine özel yazılan ekranlar ile gün ve saat seçimi yapılarak siparişin yeniden planlanması sağlanmaktadır. Bu aşamada TMS ve BI entegre yönetimi sağlanmaktadır. Tüm taşıma sürecinde alıcının uygun aralıklarda SMS ve/veya e-mail yoluyla bilgilendirilmesi sağlanmaktadır. İş paketi çalışmaları 2021 yılında tamamlanacak şekilde devam etmektedir.",
+  "char_len": 453,
+  "sentence_count": 5
+}

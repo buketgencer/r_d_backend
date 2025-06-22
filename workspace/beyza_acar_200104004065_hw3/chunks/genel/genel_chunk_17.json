@@ -1,0 +1,8 @@
+{
+  "source_file": "beyza_acar_200104004065_hw3.txt",
+  "category": "genel",
+  "chunk_index": 17,
+  "chunk_text": "This gave me an .nvm file with camera intrinsics, extrinsics, and the 3D points in the scene. 3. I wrote an NvmParser script in Unity to read the .nvm file, parse cameras, and identify green points (like the USB cable). NvmParser outputs:  I also made a script named CylinderPlacement to place a 3D object (cylinder) at the green point in the scene. I extracted the camera rotation matrix from the quaternion, then used a simple pinhole projection. I wanted to see the object in the real image view. 2.1.1 Why It Failed  My point cloud was not dense enough, so the reprojected images looked incomplete.  The alignment with the actual photo was not correct in 2D space.  The method required a perfect 3D reconstruction to overlay the object in the final 2D images.",
+  "char_len": 766,
+  "sentence_count": 5
+}

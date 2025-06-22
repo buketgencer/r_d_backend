@@ -1,0 +1,8 @@
+{
+  "source_file": "rapor2023.txt",
+  "category": "mevzuat",
+  "chunk_index": 284,
+  "chunk_text": "Proje süresince tamamlanan geliştirmeler devreye alınarak kullanılmaya başlanmıştır. Faaliyet yılı içerisinde İstanbul Teknik Üniversitesi öğretim üyelerinden Doç. Dr. Gökhan İnce’den akademik danışmanlık desteği alınmıştır. İ.P.1: Gereksinim ve Teknoloji Analizi: Sistemin tüm ihtiyaçlarını karşılayacak şekilde gereksinim ve teknoloji analizi yapılmıştır. Gereksinim ve Teknoloji Analizi iş paketi kapsamında aşağıdaki hususlara dikkat edilmiştir; - Taşımacı, Taşımacı Sorumlusu ve Operasyon Liderleri ile görüşülmüştür. Bu görüşmelerde bilinen şüpheli davranış bilgisi operasyondan toplanmıştır. Ek olarak Operasyon tarafından tutulan taşımacı verisi incelenerek taşımacıların işe başlama ve işten çıkma süreçleri ve ortalama görev süreleri analiz edilmiştir. - Proje kapsamında analiz ve makine öğrenmesi çalışmaları için toplanacak veri belirlenmiş ve mevcut sistemdeki veri alanları ile kıyaslanarak ihtiyaç olan yeni alanların eklenmesi ve veritabanı tasarımı yapılmıştır. - Literatür ve teknoloji araştırmaları yapılarak, alternatif teknolojiler değerlendirilmiştir. - Tüm Operasyonel ve sistemsel gereksinimler belirlenmiştir. - Taşımacıların anlık konum bilgisi belirlenen 1 dakikalık zaman aralıkları için tutulmaya başlanmıştır. - 2019 yılından itibaren 15 günden fazla çalışan tüm taşımacılar için ürün bazında günlük dağıtım sayıları, dağıtıma başlama zamanları, dağıtımlar arasında geçirdikleri ortalama süre, ayrılmadan önceki aydaki performans değişimi verinin analiz edilmesi çalışmaları yapılmıştır.",
+  "char_len": 1518,
+  "sentence_count": 6
+}

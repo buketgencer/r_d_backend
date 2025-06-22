@@ -97,14 +97,14 @@ def run_pipeline(
     ask_all(str(workspace_dir), top_k=top_k, model_name=embed_model)
 
     # 8. Chunk genişlet
-    expand_chunk(str(workspace_dir))
+    #expand_chunk(str(workspace_dir))
 
     # 9. Prompt üret
     generate_all_prompts(workspace_dir)
 
     # 10. Cevap al (isteğe bağlı)
-    #if send_to_gpt:
-        #send_answers(workspace_dir)
+    if send_to_gpt:
+        send_answers(workspace_dir)
 
     print("🎉 Pipeline tamamlandı →", workspace_dir)
     return workspace_dir
