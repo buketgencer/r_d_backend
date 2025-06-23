@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "mevzuat",
-  "chunk_index": 20,
-  "chunk_text": "Hence, I realized this was not what the homework wanted. The homework wants the teapot over the 2D images in a robust way. So I abandoned this approach. 2.2 Manual Homography Approach (Final Approach) I decided to place the object using a manual approach similar to Part 1. For each image, I found correspondences between a scene space (like a reference plane) and the image. Then I computed a homography, so I know how to project points onto each image. My code for that is: Placeteapot.cs :  I have a list of reference points (referencePoints and referenceUVs) that define my homography.  For each image, I have scene points in coordinatesList.  I compute the homography with the same method: ComputeHomography(...).  Then for each new image, I apply the homography to the scene points. This gives me the location where the teapot should go in the image.  I do a small rotation calculation using CalculateRotation(...).",
-  "char_len": 926,
-  "sentence_count": 6
-}

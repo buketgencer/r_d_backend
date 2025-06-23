@@ -1,0 +1,82 @@
+[
+  {
+    "rank": 1,
+    "index": 211,
+    "chunk_text": "Faaliyet Döneminde Ar-Ge Personeline Aldırılan Mesleki Gelişim / Yetkinlik Geliştirme Amaçlı Eğitimler ve Sertifika Programları 6. AR-GE MERKEZİ CİHAZ VE EKİPMAN ALTYAPISI 6.1.",
+    "source_file": "rapor2023.txt",
+    "char_len": 176,
+    "sentence_count": 2
+  },
+  {
+    "rank": 2,
+    "index": 85,
+    "chunk_text": "Ar-Ge MerkeziNİN BİLGİ KAYNAKLARI 4.1. Ar-Ge Merkezinin Üye Olduğu Ulusal / Uluslararası Bilimsel Kütüphaneler ve Veri Tabanları HepsiJET projeler kapsamında ihtiyaç duyduğu akademik yayınlara projeler kapsamında işbirliği yapğğı akademisyenler aracılığıyla ve işbirliği yapılan üniversitelerin veritabanları üzerinden ulaşmaktadır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 332,
+    "sentence_count": 2
+  },
+  {
+    "rank": 3,
+    "index": 535,
+    "chunk_text": "Müşteri memnuniyeti açısından ürünlerin söz verilmiş tarih aralığında teslim edilmesi büyük bir önem taşımaktadır. Bundan dolayı taşımacı davranış modelinde “hedef noktaya uğrama sayısı” tahminlemeye etki edecek önemli bir etken olarak yer alacaktır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 250,
+    "sentence_count": 2
+  },
+  {
+    "rank": 4,
+    "index": 245,
+    "chunk_text": "Faaliyet Dönemi Sonu İtibariyle Ar-Ge Amaçlı Kullanılan Bilgi Teknolojileri Cihazları ve Lisanslı Yazılımların Listesi 7. AR-GE MERKEZİ PROJELERİ 7.1.",
+    "source_file": "rapor2023.txt",
+    "char_len": 150,
+    "sentence_count": 2
+  },
+  {
+    "rank": 5,
+    "index": 215,
+    "chunk_text": "Bu yapıda gelen talep ve şikayetlerin hızlı çözülebilmesi için Müşteri Hizmetleri departmanına veri akışının sağlanması ve haberleşme asetlerinin iyileştirilmesi gerekmektedir. Bu nedenle senaryo analizleri yapılarak sistem buna uygun olarak tasarlanacaktır.",
+    "source_file": "rapor2023.txt",
+    "char_len": 258,
+    "sentence_count": 2
+  },
+  {
+    "rank": 6,
+    "index": 100,
+    "chunk_text": "Ar-Ge Merkezinin Ulusal Ve Uluslararası İşbirlikleri 2.9. Ar-Ge Faaliyetlerinin Özendirilmesi, Performans Değerlendirme ve Ödül Sistemi 2.10.",
+    "source_file": "rapor2023.txt",
+    "char_len": 141,
+    "sentence_count": 2
+  },
+  {
+    "rank": 7,
+    "index": 627,
+    "chunk_text": "Sayfa 6 / 99 HepsiJET Ar-Ge Merkezi üniversiteler, Ar-Ge Merkezleri ve diğer sanayi firmaları ile ileriye dönük teknolojilerin araşğrılacağı projeleri geliştirmek, yönetmek ve bunun örneklerini tüm ülkeye yayacak katkıyı vermek hedefiyle ilerlemektedir. Faaliyet Yılı Gelişmeleri: Ar-Ge Merkezi 2018 Ekim ayından itibaren Gebze’de bulunan yerleşkesinde çalışmalarını yürütmektedir.",
+    "source_file": "rapor2023.txt",
+    "char_len": 381,
+    "sentence_count": 2
+  },
+  {
+    "rank": 8,
+    "index": 123,
+    "chunk_text": "Ar-Ge Merkezi Proje Yönetim Süreci 2.11. Ar-Ge Merkezi Kontrol Mekanizması (Giriş-Çıkışlar) 3.",
+    "source_file": "rapor2023.txt",
+    "char_len": 94,
+    "sentence_count": 2
+  },
+  {
+    "rank": 9,
+    "index": 90,
+    "chunk_text": "Şirketin Udemy ve Pluralsight üyelikleri sayesinde tüm Ar-Ge personelinin online eğitimlerden sınırsız faydalanma hakkı bulunmaktadır. Teknik ve akademik üyeliklere ek olarak Sanayi ve Teknoloji Bakanlığı tarafndan desteklenen Ar-Ge Merkezleri İletişim ve İşbirliği Platformu (ARGEMİP) üyeliği bulunmaktadır. 4.2.",
+    "source_file": "rapor2023.txt",
+    "char_len": 313,
+    "sentence_count": 2
+  },
+  {
+    "rank": 10,
+    "index": 263,
+    "chunk_text": "Statik durumdan farklı olarak dinamik ALNS algoritmasının çok hızlı çalışması ve sonuç üretmesi gerekecektir. Zira 1 saat gibi bir süre içinde teslim edilmesi gereken sipariş veya siparişlerin çok hızlı bir şekilde ilgili en uygun araca atanarak teslimat aktivitesinin başlatılması gerekmektedir.",
+    "source_file": "rapor2023.txt",
+    "char_len": 296,
+    "sentence_count": 2
+  }
+]

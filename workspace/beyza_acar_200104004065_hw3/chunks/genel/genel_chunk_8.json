@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "genel",
-  "chunk_index": 8,
-  "chunk_text": "Finally, I have CalculateError to compute the average or normalized reprojection error.  1.2 Testing the Homography (HomographyTest.cs) I created a HomographyTest script to check if my homography calculations are correct. It contains: 1. Some scenePoints and imagePoints that I manually matched. In my case, I found 5 correspondence points. 2. A call to HomographyCalculator.CalculateHomography(...) to compute the matrix. 3.",
-  "char_len": 425,
-  "sentence_count": 5
-}

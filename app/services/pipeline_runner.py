@@ -130,7 +130,9 @@ def _cli() -> None:
         send_to_gpt=not args.no_gpt,
         embed_model=args.embed_model,
         top_k=args.top_k,
+
     )
+
 
 if __name__ == "__main__":  # pragma: no cover
     _cli()

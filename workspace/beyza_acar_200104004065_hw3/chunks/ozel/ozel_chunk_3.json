@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "ozel",
-  "chunk_index": 3,
-  "chunk_text": "Part 1: Compute homography and perform point projections between a checkerboard scene and image coordinates. 2. Part 2: Place a teapot on a target object in 19 images, using camera and scene geometry.",
-  "char_len": 200,
-  "sentence_count": 2
-}

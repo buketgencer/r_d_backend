@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "ozel",
-  "chunk_index": 7,
-  "chunk_text": "I hope this shows my effort. Part 1: Homography Computation 1.1 Homography Calculation Function I wrote a C# class named HomographyCalculator to calculate the homography matrix.",
-  "char_len": 177,
-  "sentence_count": 2
-}

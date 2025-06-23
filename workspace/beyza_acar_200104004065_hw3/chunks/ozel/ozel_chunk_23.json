@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "ozel",
-  "chunk_index": 23,
-  "chunk_text": "Scene and image points to calculate homography: Apply the homography matrix: Outputs: Error rate: 1.3 Notes on Coordinate Systems  My image coordinates had x and y swapped compared to the professor’s. This means I had to switch (x,y)(x, y)(x,y) to (y,x)(y, x)(y,x) in some places.  I used a small Python script to detect or measure the image coordinates (for instance, reading pixel values in an image viewer). Then I manually typed them into the code. 1.4 Results and Errors  After calculating the transformation matrix HHH, I printed its values in the console for verification.  I used 3 additional scene points to test the error.",
-  "char_len": 636,
-  "sentence_count": 2
-}

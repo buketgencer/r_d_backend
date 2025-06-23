@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "ozel",
-  "chunk_index": 33,
-  "chunk_text": "This gave me an .nvm file with camera intrinsics, extrinsics, and the 3D points in the scene. 3. I wrote an NvmParser script in Unity to read the .nvm file, parse cameras, and identify green points (like the USB cable).",
-  "char_len": 219,
-  "sentence_count": 2
-}

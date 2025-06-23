@@ -147,7 +147,8 @@ def generate_prompt(question_id: int, workspace_dir: Path, total_chunks: int = M
 def generate_all_prompts(workspace_dir: Path) -> None:
     """Generate and save prompt files for **all** questions in the workspace."""
 
-    meta_path = Path("user_uploads/questions.json")
+    #meta_path = Path("user_uploads/questions.json")
+    meta_path = workspace_dir / "faiss" / "metadata_soru_yordam.json"
     questions = _load_questions(meta_path)
 
     out_dir = workspace_dir / "PROMPTS"
@@ -157,6 +158,7 @@ def generate_all_prompts(workspace_dir: Path) -> None:
         prompt_text = generate_prompt(qid, workspace_dir)
         record = questions[qid]
         out_json = {
+            "id": qid,
             "soru": record["soru"].strip(),
             "yordam": record["yordam"].strip(),
             "prompt": prompt_text

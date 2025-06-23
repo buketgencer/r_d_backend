@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "ozel",
-  "chunk_index": 37,
-  "chunk_text": "I wanted to see the object in the real image view. 2.1.1 Why It Failed  My point cloud was not dense enough, so the reprojected images looked incomplete.  The alignment with the actual photo was not correct in 2D space.  The method required a perfect 3D reconstruction to overlay the object in the final 2D images. But the reconstruction had many holes and was messy.",
-  "char_len": 370,
-  "sentence_count": 2
-}

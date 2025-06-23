@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "ozel",
-  "chunk_index": 14,
-  "chunk_text": "Then I have two transformation functions:  TransformSceneToImage: projects a scene point onto the image plane,  TransformImageToScene: projects an image point onto the scene plane. Finally, I have CalculateError to compute the average or normalized reprojection error.  1.2 Testing the Homography (HomographyTest.cs) I created a HomographyTest script to check if my homography calculations are correct.",
-  "char_len": 404,
-  "sentence_count": 2
-}

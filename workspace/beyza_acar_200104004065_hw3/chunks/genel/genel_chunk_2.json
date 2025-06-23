@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "genel",
-  "chunk_index": 2,
-  "chunk_text": "Part 1: Compute homography and perform point projections between a checkerboard scene and image coordinates. 2. Part 2: Place a teapot on a target object in 19 images, using camera and scene geometry. Below, I describe my progress, the methods I used, and the issues I faced. I tried different approaches, some of which were not successful. I hope this shows my effort.",
-  "char_len": 369,
-  "sentence_count": 5
-}

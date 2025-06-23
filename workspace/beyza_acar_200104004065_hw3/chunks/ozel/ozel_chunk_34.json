@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "ozel",
-  "chunk_index": 34,
-  "chunk_text": "I wrote an NvmParser script in Unity to read the .nvm file, parse cameras, and identify green points (like the USB cable). NvmParser outputs:  I also made a script named CylinderPlacement to place a 3D object (cylinder) at the green point in the scene.",
-  "char_len": 252,
-  "sentence_count": 2
-}

@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "ozel",
-  "chunk_index": 30,
-  "chunk_text": "I took the 19 images into VisualSFM to produce a .nvm file and a .ply for a dense point cloud. My steps: 1.",
-  "char_len": 107,
-  "sentence_count": 2
-}

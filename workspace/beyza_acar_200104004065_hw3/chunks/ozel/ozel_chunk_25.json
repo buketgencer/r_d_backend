@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "ozel",
-  "chunk_index": 25,
-  "chunk_text": "The program calculates the distance in pixels between the real image point and the projected point.  Since the image resolution is 3264×24483264 \\times 24483264×2448, I normalized this error by dividing it by the diagonal length of the image (calculated using the width and height).  My final error was not zero, but it was acceptable. With this, Part 1 is complete.",
-  "char_len": 368,
-  "sentence_count": 2
-}

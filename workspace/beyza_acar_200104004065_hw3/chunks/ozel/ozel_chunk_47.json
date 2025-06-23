@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "ozel",
-  "chunk_index": 47,
-  "chunk_text": "This might not be perfect, but it works enough for demonstration. 3. Conclusion and Remarks  I tried two main ways to solve Part 2: 1. 3D Reconstruction via VisualSFM: My reconstruction was not good enough, leading to big errors in projecting back to the 2D images. 2.",
-  "char_len": 269,
-  "sentence_count": 2
-}

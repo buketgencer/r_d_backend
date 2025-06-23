@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "genel",
-  "chunk_index": 26,
-  "chunk_text": "The results look good enough for the assignment.  My code references and screenshots of Python scripts used to find pixel coordinates and the VisualSFM process will be included in the submission.  I have some mistakes: The coordinate system difference (x vs. y flipped) made me do extra checks, and my 3D approach was not completed because the point cloud was too sparse. But I learned a lot from the trial and error. A short demonstration of the project: https://youtu.be/lW4bDBaeOl4",
-  "char_len": 486,
-  "sentence_count": 3
-}

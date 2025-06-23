@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "ozel",
-  "chunk_index": 44,
-  "chunk_text": "This gives me the location where the teapot should go in the image.  I do a small rotation calculation using CalculateRotation(...). This helps orient the teapot in 2D.",
-  "char_len": 169,
-  "sentence_count": 2
-}

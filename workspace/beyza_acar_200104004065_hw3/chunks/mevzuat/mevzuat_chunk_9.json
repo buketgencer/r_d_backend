@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "mevzuat",
-  "chunk_index": 9,
-  "chunk_text": "Some scenePoints and imagePoints that I manually matched. In my case, I found 5 correspondence points. 2. A call to HomographyCalculator.CalculateHomography(...) to compute the matrix. 3. Another set of 3 test scene points to see where they project in the image. 4. Then I measure error by comparing my projected points to some measured image points. 5. I also test the two parts: scene →\\to→ image, and image →\\to→ scene.",
-  "char_len": 422,
-  "sentence_count": 6
-}

@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "mevzuat",
-  "chunk_index": 21,
-  "chunk_text": "For each image, I found correspondences between a scene space (like a reference plane) and the image. Then I computed a homography, so I know how to project points onto each image. My code for that is: Placeteapot.cs :  I have a list of reference points (referencePoints and referenceUVs) that define my homography.  For each image, I have scene points in coordinatesList.  I compute the homography with the same method: ComputeHomography(...).  Then for each new image, I apply the homography to the scene points. This gives me the location where the teapot should go in the image.  I do a small rotation calculation using CalculateRotation(...). This helps orient the teapot in 2D. When I click NextImage or PreviousImage, it moves to another image in the imageSet list. The script calls ApplyHomography for that scene point, and I place the teapot’s transform to that position. 2.2.1 Issues and Observations  Because I manually pick points for each image, the results look better.  I noticed that sometimes the rotation is not perfect, so I used referencePoints[0] as a reference for the angle.",
-  "char_len": 1104,
-  "sentence_count": 6
-}

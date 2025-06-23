@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "ozel",
-  "chunk_index": 18,
-  "chunk_text": "In my case, I found 5 correspondence points. 2. A call to HomographyCalculator.CalculateHomography(...) to compute the matrix. 3.",
-  "char_len": 129,
-  "sentence_count": 2
-}

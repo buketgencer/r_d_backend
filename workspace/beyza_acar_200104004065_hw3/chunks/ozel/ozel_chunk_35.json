@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "ozel",
-  "chunk_index": 35,
-  "chunk_text": "NvmParser outputs:  I also made a script named CylinderPlacement to place a 3D object (cylinder) at the green point in the scene. I extracted the camera rotation matrix from the quaternion, then used a simple pinhole projection.",
-  "char_len": 228,
-  "sentence_count": 2
-}

@@ -1,7 +1,38 @@
 [
   {
+    "id": 1,
     "soru": "Ar-Ge Merkezindeki mevcut yazılım, makine-teçhizat ve laboratuvar alt yapısı, test ortamları, bilgiye erişim olanakları, vb. Ar-Ge faaliyetlerle uyumludur.",
     "yordam": "Ar-ge merkezinde yürütülmekte olan projeler ile raporda tanımlanmış olan laboratuvarların konu açısından ilişki düzeyi kabul edilebilir olmalıdır. Bir başka deyişle bu faaliyetlerin yapılabileceği makine-teçhizat ve laboratuvar ve diğer altyapının raporda belirtilmiş olması beklenir. Burada görülebilecek olan eksiklikler ise genel kabul gören prensipler çerçevesinde yorumlanabilir.  Firmanın genel olarak üretmiş olduğu projeler ile elindeki altyapının uyumu bu soruda sorulmaktadır.",
     "text": "SORU: Ar-Ge Merkezindeki mevcut yazılım, makine-teçhizat ve laboratuvar alt yapısı, test ortamları, bilgiye erişim olanakları, vb. Ar-Ge faaliyetlerle uyumludur.\nYORDAM: Ar-ge merkezinde yürütülmekte olan projeler ile raporda tanımlanmış olan laboratuvarların konu açısından ilişki düzeyi kabul edilebilir olmalıdır. Bir başka deyişle bu faaliyetlerin yapılabileceği makine-teçhizat ve laboratuvar ve diğer altyapının raporda belirtilmiş olması beklenir. Burada görülebilecek olan eksiklikler ise genel kabul gören prensipler çerçevesinde yorumlanabilir.  Firmanın genel olarak üretmiş olduğu projeler ile elindeki altyapının uyumu bu soruda sorulmaktadır."
+  },
+  {
+    "id": 2,
+    "soru": "Ar-Ge Merkezinde çalışan personel sayı ve nitelik yönünden yürütülen faaliyetlerle uyumludur.",
+    "yordam": "Projelerin Adam/ay değerlerinin hesaplanması güç bir konudur. Ancak genellikle Ar-Ge merkezi projelerinin 50-150 adam/ay arasında ve 6-24 ay sürelerinde olduğu görülmektedir. Bu yönetilebilirlik bakımından tercih edilmektedir. Projede yapılan faaliyetler dikkate alındığında bu kapsamdaki bir  işini uzunluk ve işgücü bakımından değerlendirmesinin yapay zeka tarafından ele alınması beklenebilir. Bu durumda personelin sayısının ve özgeçmişlerinin proje konuları ile büyük ölçüde ilgili olup olmadığı üzerinde yorum yapılacaktır. Bu yorumun uyumlu olanlar için tek tek yapılmasına gerek olmamakla beraber bir uyumsuz veri olduğu takdirde bunun özel olarak soru çıktısında belirtilmesi yararlı olacaktır.",
+    "text": "SORU: Ar-Ge Merkezinde çalışan personel sayı ve nitelik yönünden yürütülen faaliyetlerle uyumludur.\nYORDAM: Projelerin Adam/ay değerlerinin hesaplanması güç bir konudur. Ancak genellikle Ar-Ge merkezi projelerinin 50-150 adam/ay arasında ve 6-24 ay sürelerinde olduğu görülmektedir. Bu yönetilebilirlik bakımından tercih edilmektedir. Projede yapılan faaliyetler dikkate alındığında bu kapsamdaki bir  işini uzunluk ve işgücü bakımından değerlendirmesinin yapay zeka tarafından ele alınması beklenebilir. Bu durumda personelin sayısının ve özgeçmişlerinin proje konuları ile büyük ölçüde ilgili olup olmadığı üzerinde yorum yapılacaktır. Bu yorumun uyumlu olanlar için tek tek yapılmasına gerek olmamakla beraber bir uyumsuz veri olduğu takdirde bunun özel olarak soru çıktısında belirtilmesi yararlı olacaktır."
+  },
+  {
+    "id": 3,
+    "soru": "İşletmenin gelecek yıllara yönelik Ar-Ge planı, Ar-Ge stratejileri göz önüne alınarak yapılmaktadır.",
+    "yordam": "İşletmede geleceğe dönük Ar-Ge planı nasıl yapılmaktadır. Raporda bununla ilgili bir bilgi paylaşılmış mıdır. 5 yıllık ya da 3 yıllık öngörülerin nasıl yapıldığı ile ilgili bir bilgi verilmiş midir?",
+    "text": "SORU: İşletmenin gelecek yıllara yönelik Ar-Ge planı, Ar-Ge stratejileri göz önüne alınarak yapılmaktadır.\nYORDAM: İşletmede geleceğe dönük Ar-Ge planı nasıl yapılmaktadır. Raporda bununla ilgili bir bilgi paylaşılmış mıdır. 5 yıllık ya da 3 yıllık öngörülerin nasıl yapıldığı ile ilgili bir bilgi verilmiş midir?"
+  },
+  {
+    "id": 4,
+    "soru": "İşletmede bilgi yönetim sistemi (bilginin saklanması, paylaşılması, yönetilmesi ve güvenliği) mevcuttur.",
+    "yordam": "İşletmede rapor içinde bir bilgi yönetim sisteminin varlığından söz edilmekte midir. Bu sorunun yanıtı evet ve sektörde bu bahsi geçen yönetim sistemi kullanılabilir görülüyor ise bu sorudan olumlu değerlendirme yapılmalıdır.",
+    "text": "SORU: İşletmede bilgi yönetim sistemi (bilginin saklanması, paylaşılması, yönetilmesi ve güvenliği) mevcuttur.\nYORDAM: İşletmede rapor içinde bir bilgi yönetim sisteminin varlığından söz edilmekte midir. Bu sorunun yanıtı evet ve sektörde bu bahsi geçen yönetim sistemi kullanılabilir görülüyor ise bu sorudan olumlu değerlendirme yapılmalıdır."
+  },
+  {
+    "id": 5,
+    "soru": "Ar-Ge Merkezindeki mevcut yazılım, makine-teçhizat ve laboratuvar alt yapısı, test ortamları, bilgiye erişim olanakları, vb. Ar-Ge faaliyetlerle uyumludur.",
+    "yordam": "yok",
+    "text": "SORU: Ar-Ge Merkezindeki mevcut yazılım, makine-teçhizat ve laboratuvar alt yapısı, test ortamları, bilgiye erişim olanakları, vb. Ar-Ge faaliyetlerle uyumludur.\nYORDAM: yok"
+  },
+  {
+    "id": 6,
+    "soru": "Ar-Ge Merkezinin üye olduğu ulusal/uluslararası bilimsel kütüphaneler ve veri tabanları mevcut ve yeterlidir.",
+    "yordam": "Bu başlıkta rapor içinde online bilimsel kütüphane üyelikleri var mı yok mu ona bakılır. Bunlar içinde bir adet varsa iyi birden çok varsa daha iyi olarak düşünülebilir. Proquest, EBSCO, IEEE, ACM gibi üyelikler pozitif olarak değerlendirilir ve vurgulanır. Soru değerlendirmesinde bu kütiphanelere vurgu yapılabilir. Ayrıca bazı durumlarda üniversite işbirlikleri de vurgulanmaktadır. Bunlar da olumlu değerlendirilebilir.",
+    "text": "SORU: Ar-Ge Merkezinin üye olduğu ulusal/uluslararası bilimsel kütüphaneler ve veri tabanları mevcut ve yeterlidir.\nYORDAM: Bu başlıkta rapor içinde online bilimsel kütüphane üyelikleri var mı yok mu ona bakılır. Bunlar içinde bir adet varsa iyi birden çok varsa daha iyi olarak düşünülebilir. Proquest, EBSCO, IEEE, ACM gibi üyelikler pozitif olarak değerlendirilir ve vurgulanır. Soru değerlendirmesinde bu kütiphanelere vurgu yapılabilir. Ayrıca bazı durumlarda üniversite işbirlikleri de vurgulanmaktadır. Bunlar da olumlu değerlendirilebilir."
   }
 ]

@@ -48,6 +48,7 @@ def vectorize_soru_yordam(txt_path: str, workspace_dir: str, model_name: str):
             yordam = item.get("yordam", "").strip().replace("\n", " ")
             combined_text = f"SORU: {soru}" if not yordam else f"SORU: {soru}\nYORDAM: {yordam}"
             entries.append({
+                "id": item.get("id", i),
                 "soru": soru,
                 "yordam": yordam,
                 "text": combined_text.strip()

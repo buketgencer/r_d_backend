@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "ozel",
-  "chunk_index": 11,
-  "chunk_text": "This involves creating a matrix based on the input points and solving a system of equations to determine the homography matrix, which represents the transformation from the scene to the image. The result is a 3×33 \\times 33×3 matrix that encodes this transformation.",
-  "char_len": 266,
-  "sentence_count": 2
-}

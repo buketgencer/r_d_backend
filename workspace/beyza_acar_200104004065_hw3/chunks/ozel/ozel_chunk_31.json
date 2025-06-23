@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "ozel",
-  "chunk_index": 31,
-  "chunk_text": "My steps: 1. I ran VisualSFM to compute camera poses and 3D points (the point cloud). 2.",
-  "char_len": 88,
-  "sentence_count": 2
-}

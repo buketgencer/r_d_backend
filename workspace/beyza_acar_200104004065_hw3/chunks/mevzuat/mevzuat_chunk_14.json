@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "mevzuat",
-  "chunk_index": 14,
-  "chunk_text": "Part 2: Placing a Teapot in 19 Images 2.1 First Attempt: VisualSFM + Dense Reconstruction To perform dense reconstruction in VisualSFM, I downloaded genOption.exe, cmvs.exe, and pmvs2.exe from the CMVS-PMVS GitHub repository and placed them in the VisualSFM directory. These tools enabled me to generate the necessary .nvm and .ply files for the reconstruction process. I tried a more advanced method first. I took the 19 images into VisualSFM to produce a .nvm file and a .ply for a dense point cloud. My steps: 1. I ran VisualSFM to compute camera poses and 3D points (the point cloud). 2.",
-  "char_len": 591,
-  "sentence_count": 6
-}

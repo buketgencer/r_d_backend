@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "mevzuat",
-  "chunk_index": 1,
-  "chunk_text": "CSE462/562 – Augmented Reality (Fall 2024) Homework #3 Beyza Acar 200104004065 1. Introduction In this homework, I worked on two main parts: 1. Part 1: Compute homography and perform point projections between a checkerboard scene and image coordinates. 2. Part 2: Place a teapot on a target object in 19 images, using camera and scene geometry. Below, I describe my progress, the methods I used, and the issues I faced. I tried different approaches, some of which were not successful.",
-  "char_len": 484,
-  "sentence_count": 6
-}

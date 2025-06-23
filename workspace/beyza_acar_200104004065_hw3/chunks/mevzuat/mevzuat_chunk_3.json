@@ -1,8 +1,0 @@
-{
-  "source_file": "beyza_acar_200104004065_hw3.txt",
-  "category": "mevzuat",
-  "chunk_index": 3,
-  "chunk_text": "Below, I describe my progress, the methods I used, and the issues I faced. I tried different approaches, some of which were not successful. I hope this shows my effort. Part 1: Homography Computation 1.1 Homography Calculation Function I wrote a C# class named HomographyCalculator to calculate the homography matrix. The key function is: public static Matrix<double> CalculateHomography( List<Tuple<double, double>> scenePoints, List<Tuple<double, double>> imagePoints) It takes a list of scene points (e.g., (xi,yi)(x_i, y_i)(xi,yi)) and corresponding image points (e.g., (ui,vi)(u_i, v_i)(ui,vi)). The function uses a mathematical technique called Singular Value Decomposition (SVD) to calculate the relationship between these points.",
-  "char_len": 737,
-  "sentence_count": 6
-}
